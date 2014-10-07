@@ -68,24 +68,30 @@ print "1 - start all qubits in state 1"
 
 state_selection = int(raw_input('Your choice: '))
 
-ket0 = np.array([[1], [0]])
-ket1 = np.array([[0], [1]])
+# ket0 = np.array([[1], [0]])
+# ket1 = np.array([[0], [1]])
+kets = np.eye(2)[:, np.newaxis, :]
 
-if state_selection == 0:
-	initial_state = ket0
-	for i in range(1, num_qubits):
-		initial_state = np.kron(initial_state, ket0)
-elif state_selection == 1:
-	initial_state = ket1
-	for i in range(1, num_qubits):
-		initial_state = np.kron(initial_state, ket1)
+if state_selection in xrange(2):
+	initial_state = reduce(np.kron, [kets[state_selection]] * num_qubits)
 else:
-	print "Fail"
-	sys.exit()
+	raise ValueError("Given state of {}, expected 0 or 1.".format(state_selection))
+
+# if state_selection == 0:
+# 	initial_state = ket0
+# 	for i in range(1, num_qubits):
+# 		initial_state = np.kron(initial_state, ket0)
+# elif state_selection == 1:
+# 	initial_state = ket1
+# 	for i in range(1, num_qubits):
+# 		initial_state = np.kron(initial_state, ket1)
+# else:
+# 	print "Fail"
+# 	sys.exit()
 
 
 # Run the uniformization procedure.
-initial_register = np.dot(initial_state, np.transpose(initial_state))
+initial_register = np.dot(initial_state.T, initial_state)
 
 
 print "Your initial register is"

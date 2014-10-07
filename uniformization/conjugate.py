@@ -11,26 +11,16 @@ def conjugate_qubit(register, gate, k, num_qubits):
 		Conjugate the kth qubit in the register by the specificied 1-qubit gate 
 		Will be used to conjugate a single qubit by H or S, generally.
 	"""
-	if k == 1: # If we're conjugating the first qubit, need to explicitly initialize the gate
-		U = gate 
-	else: # Otherwise, it's the identity
-		U = np.eye(2);
-
-	for i in range(2, num_qubits + 1): # Expand out the rest
-		if i == k: # Apply our specified gate
-			U = np.kron(U, gate)
-		else: # Identities everywhere else
-			U = np.kron(U, np.eye(2))
-
-	return np.dot(np.dot(U, register), (np.asmatrix(U)).getH()) # Return the register conjugated by U
+	U = reduce(np.kron, (gate if idx == k - 1 else np.eye(2) for idx in xrange(num_qubits)))
+	return reduce(np.dot, [U, register, U.T.conj()])
 	
 	
 def conjugate_register(register, gate):
-	""" 
+	"""
 		Conjugate an entire register by the provided gate.
 		This is really just here to save typing the long run.
 	"""
-	return np.dot( np.dot(gate, register), np.asmatrix(gate).getH() )
+	return reduce(np.dot, [gate, register, np.asmatrix(gate).getH()])
 
 
 def conjugate_one_by_random_xor(register, num_qubits):
