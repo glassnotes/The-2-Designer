@@ -3,7 +3,7 @@ from conjugate import *
 from bsr import *
 import gates
 
-def pauli_twirl_random(register, num_qubits):
+def choose_random_pauli(num_qubits):
 	"""
 		Twirl the register with a random Pauli.
 		As per Dankert et. al, this simply sends some
@@ -23,16 +23,13 @@ def pauli_twirl_random(register, num_qubits):
 
 	pauli_binary = [bsr[i:i+2] for i in range(0, len(bsr), 2)]
 
-	print pauli_binary
 	pauli_gates = [bsr_to_gate(x) for x in pauli_binary]
 	
 	pauli = pauli_gates[0]
 	for next_pauli in pauli_gates[1:]:
 		pauli = np.kron(pauli, next_pauli)
 	
-	print pauli
-
-	return conjugate_register(register, pauli)
+	return pauli 
 
 
 def pauli_twirl_all(register, num_qubits):
