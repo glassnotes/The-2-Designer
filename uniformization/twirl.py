@@ -72,27 +72,50 @@ def c1p1_twirl(register, k, num_qubits):
 
 	# Conjugate the qubit 
 	if exponent == 1:
-		return conjugate_qubit(register, gates.R, k, num_qubits)	
+		return conjugate_qubit(register, gates.R, k, num_qubits), exponent
 	elif exponent == 2:
-		return conjugate_qubit(register, np.dot(gates.R, gates.R), k, num_qubits)
+		return conjugate_qubit(register, np.dot(gates.R, gates.R), k, num_qubits), exponent
 	else:
-		return register
+		return register, exponent
 
 
-def c1p1_twirl_all(register, num_qubits):
+def c1p1_twirl_all(register, circuit, num_qubits):
 	"""
 		Perform a C1/P1 twirl on all the qubits
 	"""
-	for i in range(1, num_qubits + 1):
-		register = c1p1_twirl(register, i, num_qubits)
-	return register
+	exponents = []
+	next_circuit_line = []
+	for i in range(0, num_qubits):
+		register, exponent = c1p1_twirl(register, i, num_qubits)
+		exponents.append(exponent)
+	for e in exponents:
+		if e == 0:
+			next_circuit_line.append('I')
+		elif e == 1:
+			next_circuit_line.append('R')
+		else:
+			next_circuit_line.append('R2') 
+	circuit.append(next_circuit_line)
+	return register, circuit
 
 
-def c1p1_twirl_2tok(register, num_qubits):
+def c1p1_twirl_2tok(register, circuit, num_qubits):
 	"""
 		Perform a C1/P1 twirl on all the qubits except the first one
 	"""
-	for i in range(2, num_qubits + 1):
-		register = c1p1_twirl(register, i, num_qubits)
-	return register
+	exponents = []
+
+	assert len(circuit[-1]) == 1 # Make sure we have filled in the circuit value for the first qubit
+
+	for i in range(1, num_qubits):
+		register, exponent = c1p1_twirl(register, i, num_qubits)
+		exponents.append(exponent)
+	for e in exponents:
+		if e == 0:
+			circuit[-1].append('I') # Append to the last line of the circuit
+		elif e == 1:
+			circuit[-1].append('R')
+		else:
+			circuit[-1].append('R2') 
+	return register, circuit
 
