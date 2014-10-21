@@ -95,7 +95,8 @@ def c1p1_twirl_all(register, circuit, num_qubits):
 			next_circuit_line.append('R')
 		else:
 			next_circuit_line.append('R2') 
-	circuit.append(next_circuit_line)
+	if next_circuit_line.count('I') != num_qubits:
+		circuit.append(next_circuit_line)
 	return register, circuit
 
 

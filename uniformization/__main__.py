@@ -79,30 +79,60 @@ def print_circuit(circuit, num_qubits):
 		print "\t".join(line).expandtabs(4)
 
 
+def print_circuit(circuit, num_qubits, out_file):
+	"""
+		Print a circuit in a pretty way!
+	"""
+	# Transpose the circuit
+	circuit_t = [ [circuit[d][q] for d in range(0, len(circuit))]  for q in range(0,num_qubits)]	
+	
+	for line in circuit_t:
+		out_file.write("\t".join(line).expandtabs(4))
+		out_file.write('\n')
 
-# Start everything in state 0
+
+
 num_qubits = int(raw_input('Please enter the number of qubits: '))
+epsilon = float(raw_input('Please enter a value for epsilon: '))
 
 # Choose a Pauli to work with
 pauli_register = choose_random_pauli(num_qubits)
 
-print "Initial Pauli register is "
-print pauli_register
+#print "Initial Pauli register is "
+#print pauli_register
 
-circuit = []
+circuits = []
+counts = [] 
 
-pauli_register, circuit = uniformization(pauli_register, circuit, num_qubits)
+for i in range(0, int(1/epsilon)):
+	circuit = []
+	final, circuit = uniformization(pauli_register, circuit, num_qubits)
+	if circuit in circuits:
+		counts[circuits.index(circuit)] += 1	
+	else:
+		circuits.append(circuit)
+		counts.append(1)
 
-print 
+#for i in range(0, len(circuits)):	
+#	print_circuit(circuits[i], num_qubits)
+#	print "Count: " + str(counts[i])
+#	print
 
-final_register = pauli_register
+print "Total number of circuits: " + str(len(counts))
 
-print "Your final register is" 
-print final_register
-print "Final circuit is"
-print_circuit(circuit, num_qubits)
-print
-#print "Checking that the matrix is unitary: "
-#print np.dot( final_register, np.asmatrix(final_register).getH() )
+circuit_file = open('2qubit_output_noI.txt', 'a')
+prob_file = open('2qubit_probabilities_noI.txt', 'a')
 
+for circuit in circuits:
+	circuit_file.write(str(circuits.index(circuit)) + ".\n")
+	print_circuit(circuit, num_qubits, circuit_file)	
+	circuit_file.write('\n')
+	
+distribution = [i*1.0 / len(counts) for i in counts]
+
+for i in range(0, len(distribution)):
+	prob_file.write(str(i) + ', ' + str(distribution[i]) + '\n')
+
+circuit_file.close()
+prob_file.close()
 

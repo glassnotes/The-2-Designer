@@ -1,0 +1,15496 @@
+0.
+R   X   H   H   X   R
+R2  C   R   R   C   I
+
+1.
+I   X   H   X   H   R2
+R   C   R   C   R   I
+
+2.
+R2  H   X   H   X
+I   I   C   R2  C
+
+3.
+R2  X   H   X   H   S   X   R
+R   C   R   C   R2  I   C   I
+
+4.
+I   X   H   H   S
+R   C   R   R2  I
+
+5.
+I   H   X   H   X   R
+R   R   C   I   C   I
+
+6.
+R   X   H   X   H   S   X   R
+R   C   R2  C   I   I   C   I
+
+7.
+R2  X   H   H   X   R
+R2  C   R2  R   C   I
+
+8.
+X   H   H   S   R
+C   R   R2  I   I
+
+9.
+R   X   H   X   H
+I   C   R2  C   R2
+
+10.
+R2  H   X   H   S   X
+R2  I   C   R   I   C
+
+11.
+R2  X   H   X   H   S   X
+I   C   R2  C   I   I   C
+
+12.
+R   X   H   H   X
+I   C   I   R2  C
+
+13.
+R   H   X   H   X
+R2  R2  C   R   C
+
+14.
+R2  X   H   X   H   X
+R2  C   I   C   R   C
+
+15.
+R   H   H
+I   R2  R
+
+16.
+X   H   X   H   S   R
+C   R2  C   R   I   I
+
+17.
+R   X   H   X   H   S
+R   C   R   C   R2  I
+
+18.
+R2  H   H   S   X   R2
+I   I   R2  I   C   I
+
+19.
+H   X   H   S   X
+R   C   R2  I   C
+
+20.
+R   H   X   H   X   R
+R2  R2  C   I   C   I
+
+21.
+R2  X   H   X   H   S   X   R2
+R2  C   I   C   R   I   C   I
+
+22.
+I   X   H   H   S   X   R
+R2  C   I   R2  I   C   I
+
+23.
+I   X   H   X   H   X   R2
+R2  C   I   C   R2  C   I
+
+24.
+R   X   H   H   X   R2
+I   C   I   I   C   I
+
+25.
+R2  X   H   X   H   X
+R   C   I   C   I   C
+
+26.
+R2  X   H   X   H   X   R
+R   C   I   C   I   C   I
+
+27.
+R   X   H   X   H   S   X   R2
+I   C   R   C   R2  I   C   I
+
+28.
+R   X   H   X   H   R
+R   C   R   C   I   I
+
+29.
+R   X   H   X   H   S   X   R
+R   C   R2  C   R   I   C   I
+
+30.
+R2  H   H   S   X   R2
+R   R2  R   I   C   I
+
+31.
+R   H   X   H   X
+R   R   C   R2  C
+
+32.
+R2  H   X   H   S
+R2  R2  C   R2  I
+
+33.
+R   X   H   X   H   X
+R   C   R2  C   R2  C
+
+34.
+R2  X   H   X   H   S
+I   C   R   C   R2  I
+
+35.
+I   X   H   X   H   S   X
+R   C   I   C   R   I   C
+
+36.
+I   X   H   X   H   R
+R2  C   R   C   R   I
+
+37.
+R2  H   X   H   S   X   R
+R2  I   C   R2  I   C   I
+
+38.
+R2  X   H   X   H   S   X
+I   C   R   C   R2  I   C
+
+39.
+R2  H   X   H   S   X
+R2  I   C   I   I   C
+
+40.
+R2  X   H   X   H   X   R2
+R   C   R2  C   R2  C   I
+
+41.
+R2  X   H   H   S
+I   C   R   I   I
+
+42.
+R2  X   H   X   H   R2
+R   C   R   C   I   I
+
+43.
+R   X   H   H   X
+R   C   I   I   C
+
+44.
+R   X   H   X   H   S   R2
+I   C   R2  C   R   I   I
+
+45.
+R   X   H   X   H   S   X   R
+I   C   R   C   R2  I   C   I
+
+46.
+R2  X   H   X   H   S   X
+R2  C   R   C   I   I   C
+
+47.
+I   X   H   X   H   S   X   R
+R2  C   R2  C   I   I   C   I
+
+48.
+R2  H   X   H   X
+I   R   C   R   C
+
+49.
+I   X   H   X   H
+R   C   R2  C   I
+
+50.
+I   X   H   X   H   S   X   R2
+R   C   I   C   I   I   C   I
+
+51.
+R2  X   H   X   H   S   X   R2
+I   C   R2  C   R2  I   C   I
+
+52.
+R   H   H   R2
+I   R   R   I
+
+53.
+R2  X   H   X   H   S   X   R
+R   C   R2  C   R2  I   C   I
+
+54.
+R2  X   H   X   H   R
+R   C   R   C   I   I
+
+55.
+R   X   H   X   H   S   X   R
+R2  C   R   C   R2  I   C   I
+
+56.
+R   X   H   X   H   S   X
+R2  C   R2  C   I   I   C
+
+57.
+R   X   H   X   H   S   X
+R2  C   R   C   I   I   C
+
+58.
+R2  X   H   H   R
+I   C   I   I   I
+
+59.
+R   X   H   X   H   X
+R   C   R2  C   R   C
+
+60.
+R   H   X   H   X   R2
+R2  I   C   R2  C   I
+
+61.
+R   X   H   X   H   X
+I   C   R2  C   R2  C
+
+62.
+R   X   H   X   H   S   X
+I   C   R   C   R2  I   C
+
+63.
+R   X   H   H   S   X   R
+R   C   R   R2  I   C   I
+
+64.
+I   X   H   X   H   S   X   R2
+R2  C   I   C   R   I   C   I
+
+65.
+I   X   H   H   S   X   R2
+R   C   I   I   I   C   I
+
+66.
+R   H   X   H
+R2  R   C   R
+
+67.
+X   H   H   S   X   R
+C   R2  R   I   C   I
+
+68.
+R   X   H   X   H   S   X   R
+R   C   I   C   R   I   C   I
+
+69.
+R2  X   H   X   H   R
+R   C   I   C   R   I
+
+70.
+I   X   H   H   S   X
+R2  C   R2  R2  I   C
+
+71.
+R2  X   H   H   X
+R   C   R2  R2  C
+
+72.
+R2  X   H   X   H
+R   C   R   C   R2
+
+73.
+H   X   H   S   X
+R2  C   R   I   C
+
+74.
+R   X   H   X   H   S   R2
+R2  C   R   C   R   I   I
+
+75.
+R2  X   H   X   H   R2
+R2  C   R   C   I   I
+
+76.
+R2  X   H   X   H   S   X
+R2  C   R   C   R   I   C
+
+77.
+I   X   H   H   S   X   R2
+R   C   R2  I   I   C   I
+
+78.
+R   X   H   X   H   X   R2
+I   C   R   C   R   C   I
+
+79.
+R   H   X   H   S   X   R
+R   R   C   I   I   C   I
+
+80.
+X   H   H   S   X   R2
+C   R   R   I   C   I
+
+81.
+R   X   H   H   S   X
+R2  C   R2  R   I   C
+
+82.
+R   X   H   H   X   R
+R2  C   R   I   C   I
+
+83.
+R   X   H   X   H   S   X
+R   C   R   C   R   I   C
+
+84.
+X   H   X   H   X   R2
+C   R2  C   I   C   I
+
+85.
+R   X   H   X   H   S   X
+R   C   R2  C   I   I   C
+
+86.
+I   H   H   S   R
+R   R2  R   I   I
+
+87.
+R   X   H   X   H   X
+R2  C   I   C   R2  C
+
+88.
+R2  H   X   H   S   X   R2
+R   R   C   R2  I   C   I
+
+89.
+R2  X   H   X   H   X   R
+I   C   R2  C   I   C   I
+
+90.
+I   H   H   S   X   R
+R2  R   R2  I   C   I
+
+91.
+R2  H   X   H   S
+R   I   C   R   I
+
+92.
+R2  X   H   X   H   S   X   R2
+R2  C   R2  C   I   I   C   I
+
+93.
+R2  X   H   H   R2
+R   C   I   I   I
+
+94.
+X   H   X   H   X   R
+C   R   C   R   C   I
+
+95.
+R   X   H   X   H   X   R
+I   C   I   C   R   C   I
+
+96.
+R2  X   H   X   H   R2
+R   C   I   C   R2  I
+
+97.
+R   X   H   X   H
+I   C   R2  C   R
+
+98.
+R2  X   H   X   H   X
+I   C   R   C   I   C
+
+99.
+R   X   H   X   H   S   R2
+I   C   R2  C   I   I   I
+
+100.
+I   H   X   H   S   R2
+R2  R   C   I   I   I
+
+101.
+R2  X   H   X   H   X
+R   C   R   C   R   C
+
+102.
+X   H   X   H   X
+C   R2  C   R2  C
+
+103.
+R   X   H   H   R2
+R   C   R2  R2  I
+
+104.
+X   H   H   S   X   R2
+C   I   I   I   C   I
+
+105.
+R2  X   H   H   X
+R   C   I   R   C
+
+106.
+R   H   H   R
+R2  R2  I   I
+
+107.
+R   X   H   X   H   X   R
+R   C   R   C   R2  C   I
+
+108.
+H   X   H   S   R2
+R2  C   R2  I   I
+
+109.
+R   X   H   X   H   S   X   R
+I   C   I   C   I   I   C   I
+
+110.
+R   X   H   X   H   X
+I   C   R   C   R2  C
+
+111.
+I   H   X   H   S
+R   R2  C   R2  I
+
+112.
+R   X   H   X   H   S   R2
+I   C   R   C   R   I   I
+
+113.
+R   X   H   X   H   S   X
+R   C   R2  C   R   I   C
+
+114.
+I   H   X   H   S   X   R
+R   I   C   R   I   C   I
+
+115.
+R2  X   H   X   H   S   X   R
+R2  C   I   C   R   I   C   I
+
+116.
+R2  X   H   X   H   S   R2
+R2  C   I   C   R2  I   I
+
+117.
+X   H   X   H   S   X
+C   R2  C   R2  I   C
+
+118.
+R   H   X   H   R
+I   I   C   I   I
+
+119.
+I   X   H   H   S   X
+R   C   R   I   I   C
+
+120.
+R2  X   H   X   H   S   X   R
+I   C   R2  C   I   I   C   I
+
+121.
+X   H   X   H   S   X   R2
+C   I   C   R2  I   C   I
+
+122.
+R2  X   H   H   S   X
+I   C   I   R   I   C
+
+123.
+I   X   H   X   H   S   X
+R2  C   I   C   R   I   C
+
+124.
+R2  H   H   S   X
+I   I   R2  I   C
+
+125.
+R   X   H   X   H   S
+I   C   R2  C   I   I
+
+126.
+R2  H   X   H   X   R
+I   I   C   R2  C   I
+
+127.
+R   H   X   H   R
+R2  R   C   R2  I
+
+128.
+R   X   H   H   S   X
+R2  C   R   I   I   C
+
+129.
+R2  X   H   H   X   R
+R2  C   R   R2  C   I
+
+130.
+R   X   H   H   S   X   R2
+R2  C   R2  R   I   C   I
+
+131.
+I   X   H   X   H   X   R2
+R2  C   R2  C   I   C   I
+
+132.
+I   H   H   S   X   R2
+R   I   I   I   C   I
+
+133.
+I   X   H   H   S   X   R2
+R2  C   R2  R2  I   C   I
+
+134.
+R   X   H   X   H   X
+R   C   I   C   R2  C
+
+135.
+X   H   X   H   S   X   R
+C   R   C   I   I   C   I
+
+136.
+I   H   X   H   S   R
+R   R2  C   I   I   I
+
+137.
+R   H   X   H   X   R2
+R2  R2  C   R2  C   I
+
+138.
+X   H   H   S   X
+C   R2  R   I   C
+
+139.
+R   X   H   X   H   S   X   R2
+R2  C   I   C   I   I   C   I
+
+140.
+I   X   H   H   R2
+R2  C   I   I   I
+
+141.
+R   X   H   X   H   S   X   R2
+R   C   R   C   R   I   C   I
+
+142.
+R   X   H   H   S   X   R2
+R2  C   R2  R2  I   C   I
+
+143.
+I   X   H   X   H   S   X   R
+R2  C   R2  C   R2  I   C   I
+
+144.
+R   X   H   H   S   X   R2
+R   C   I   R   I   C   I
+
+145.
+I   X   H   X   H   S   X
+R2  C   R   C   R2  I   C
+
+146.
+X   H   H   S   R2
+C   R2  I   I   I
+
+147.
+R   H   H   X   R
+I   R2  R   C   I
+
+148.
+X   H   X   H   S
+C   R2  C   I   I
+
+149.
+R   X   H   X   H   S
+R2  C   R2  C   I   I
+
+150.
+X   H   X   H   R2
+C   R2  C   R   I
+
+151.
+R2  X   H   X   H   R2
+I   C   R   C   R2  I
+
+152.
+R   X   H   H   X   R2
+I   C   R   R   C   I
+
+153.
+R   X   H   X   H   S   R
+R   C   R   C   R   I   I
+
+154.
+I   X   H   H   X   R
+R2  C   I   R   C   I
+
+155.
+R2  X   H   H   X
+R2  C   R   I   C
+
+156.
+I   H   H   X   R
+R2  R2  R2  C   I
+
+157.
+R2  X   H   H   S   X   R
+R2  C   I   I   I   C   I
+
+158.
+I   H   X   H   S   R2
+R   I   C   R2  I   I
+
+159.
+H   X   H   S
+R   C   I   I
+
+160.
+R2  H   H   R
+R   R2  R   I
+
+161.
+I   X   H   H   S   X
+R2  C   R   I   I   C
+
+162.
+I   X   H   X   H   S   X   R2
+R   C   R   C   R   I   C   I
+
+163.
+R2  X   H   X   H   X
+I   C   I   C   R   C
+
+164.
+X   H   X   H   S
+C   I   C   R   I
+
+165.
+R   X   H   H   R2
+R2  C   R2  R   I
+
+166.
+X   H   X   H   S   R
+C   I   C   R   I   I
+
+167.
+R   H   H   X   R
+R   R   R2  C   I
+
+168.
+R   H   X   H   S   X   R
+R2  R   C   R   I   C   I
+
+169.
+X   H   H   S   R
+C   R2  I   I   I
+
+170.
+R   X   H   X   H   X
+R   C   I   C   I   C
+
+171.
+R   X   H   H   X   R2
+I   C   R   R2  C   I
+
+172.
+R   X   H   X   H   S   X   R2
+I   C   R   C   R   I   C   I
+
+173.
+R2  X   H   H   X
+I   C   I   R2  C
+
+174.
+R   X   H   X   H   S   X
+R2  C   I   C   I   I   C
+
+175.
+R2  X   H   X   H   S   X   R2
+R2  C   R2  C   R   I   C   I
+
+176.
+R   X   H   X   H   X   R2
+R2  C   I   C   R   C   I
+
+177.
+I   H   X   H   S   R
+R   R   C   R   I   I
+
+178.
+R2  H   X   H   X   R2
+R   I   C   R2  C   I
+
+179.
+X   H   X   H
+C   I   C   I
+
+180.
+R2  X   H   X   H   X   R2
+R   C   R   C   R2  C   I
+
+181.
+R2  X   H   H   X   R
+R2  C   R2  I   C   I
+
+182.
+R   X   H   X   H   X
+I   C   R   C   R   C
+
+183.
+R2  X   H   H   X   R
+R2  C   R2  R2  C   I
+
+184.
+R   X   H   X   H   X   R
+R   C   I   C   R   C   I
+
+185.
+I   X   H   X   H   S   X   R
+R2  C   R2  C   R   I   C   I
+
+186.
+R2  X   H   X   H   X   R
+R2  C   R2  C   R2  C   I
+
+187.
+X   H   X   H   S   X   R
+C   R   C   R   I   C   I
+
+188.
+R2  X   H   H   X   R
+I   C   R2  R2  C   I
+
+189.
+R2  H   X   H   X   R
+R2  R   C   R2  C   I
+
+190.
+R   H   X   H   S   R
+I   I   C   I   I   I
+
+191.
+I   X   H   X   H   S   X
+R   C   R   C   R2  I   C
+
+192.
+R2  X   H   X   H   S   X   R2
+R   C   I   C   R2  I   C   I
+
+193.
+R   X   H   X   H   X   R2
+R   C   R   C   I   C   I
+
+194.
+I   X   H   H   X   R
+R2  C   R   R2  C   I
+
+195.
+R   H   X   H   S   X   R
+I   R   C   R2  I   C   I
+
+196.
+I   X   H   X   H   R2
+R   C   I   C   R   I
+
+197.
+I   X   H   H   X   R
+R   C   R2  R2  C   I
+
+198.
+R   X   H   X   H
+R2  C   I   C   R
+
+199.
+I   H   X   H   S   X   R
+R2  R2  C   R2  I   C   I
+
+200.
+R   X   H   X   H   R
+R   C   I   C   R   I
+
+201.
+R2  X   H   X   H   S   X
+R2  C   R2  C   I   I   C
+
+202.
+R   X   H   X   H   S   X   R
+I   C   R2  C   R   I   C   I
+
+203.
+R2  H   X   H   S   X   R
+R2  R2  C   R2  I   C   I
+
+204.
+X   H   X   H   X
+C   I   C   R   C
+
+205.
+R2  X   H   X   H   S   X   R
+I   C   I   C   R2  I   C   I
+
+206.
+R2  X   H   H   S   R
+R   C   R2  I   I   I
+
+207.
+R   X   H   H   X   R2
+R2  C   R   R   C   I
+
+208.
+I   X   H   X   H   S   X   R
+R2  C   I   C   R2  I   C   I
+
+209.
+R   H   H   S   X   R
+I   R   R2  I   C   I
+
+210.
+R   X   H   X   H   S   X
+I   C   R2  C   R2  I   C
+
+211.
+R2  X   H   X   H   S   X   R
+I   C   R2  C   R2  I   C   I
+
+212.
+R2  X   H   H   R2
+I   C   I   R2  I
+
+213.
+R2  X   H   X   H   X   R2
+I   C   R   C   I   C   I
+
+214.
+R2  H   H   X   R2
+R2  R   R2  C   I
+
+215.
+I   X   H   X   H   S   X
+R   C   I   C   R2  I   C
+
+216.
+R   X   H   X   H   R
+R   C   I   C   I   I
+
+217.
+R   H   H   S   X   R
+R   I   R2  I   C   I
+
+218.
+X   H   X   H   X
+C   R   C   R2  C
+
+219.
+X   H   H   S
+C   R2  R2  I
+
+220.
+X   H   X   H   X   R
+C   R   C   R2  C   I
+
+221.
+R   X   H   H   X   R2
+R   C   I   I   C   I
+
+222.
+R   H   X   H   S   X   R
+R   R2  C   R2  I   C   I
+
+223.
+I   X   H   X   H   X
+R   C   R   C   I   C
+
+224.
+R   X   H   X   H   X   R2
+R2  C   R2  C   I   C   I
+
+225.
+I   X   H   X   H   S
+R2  C   R2  C   R   I
+
+226.
+R   H   H   S   X   R
+R   I   I   I   C   I
+
+227.
+R2  X   H   H   S   R2
+R   C   R   R2  I   I
+
+228.
+I   X   H   X   H   S   R
+R   C   I   C   I   I   I
+
+229.
+R   X   H   X   H   X   R
+I   C   R   C   I   C   I
+
+230.
+R   H   X   H   R
+R   R   C   I   I
+
+231.
+I   X   H   H   X
+R   C   R2  R2  C
+
+232.
+R2  X   H   H   X   R2
+R   C   I   R   C   I
+
+233.
+R2  X   H   X   H   R2
+I   C   I   C   R2  I
+
+234.
+R2  H   X   H   X   R2
+R   R2  C   I   C   I
+
+235.
+R2  X   H   X   H   X
+I   C   I   C   I   C
+
+236.
+I   X   H   H   X
+R   C   R   R2  C
+
+237.
+R2  X   H   H   X   R2
+I   C   I   I   C   I
+
+238.
+R   X   H   X   H   S   X   R
+I   C   I   C   R2  I   C   I
+
+239.
+I   H   X   H   X   R
+R2  I   C   R   C   I
+
+240.
+X   H   X   H   S
+C   I   C   R2  I
+
+241.
+R2  X   H   X   H   S
+I   C   R   C   R   I
+
+242.
+R   H   X   H   X   R
+R   I   C   R   C   I
+
+243.
+R   X   H   H   S   X
+I   C   R2  I   I   C
+
+244.
+I   X   H   X   H   R2
+R   C   I   C   I   I
+
+245.
+R   X   H   X   H   S   X   R2
+R   C   I   C   R2  I   C   I
+
+246.
+R   H   H   S
+R2  I   I   I
+
+247.
+R2  X   H   X   H   X   R2
+R2  C   R   C   R   C   I
+
+248.
+R2  X   H   X   H   S   X   R2
+I   C   R2  C   I   I   C   I
+
+249.
+R   H   X   H   S   X   R
+I   R2  C   R2  I   C   I
+
+250.
+R   X   H   H   X   R
+R   C   R   I   C   I
+
+251.
+X   H   X   H   S   X   R2
+C   R   C   I   I   C   I
+
+252.
+R   X   H   H   X   R2
+R2  C   I   R2  C   I
+
+253.
+R   X   H   X   H   S   X   R2
+I   C   R2  C   I   I   C   I
+
+254.
+R   X   H   X   H   S   X   R2
+I   C   R   C   I   I   C   I
+
+255.
+R2  X   H   H   S   X   R
+R   C   R   I   I   C   I
+
+256.
+R2  X   H   H   S   X
+R2  C   R2  R   I   C
+
+257.
+X   H   X   H   X   R
+C   R2  C   R   C   I
+
+258.
+R   X   H   X   H   R2
+R   C   R   C   R2  I
+
+259.
+R2  X   H   H   S   X
+R2  C   R2  I   I   C
+
+260.
+H   X   H   S   X   R2
+I   C   I   I   C   I
+
+261.
+R2  X   H   X   H   X   R2
+R2  C   R   C   R2  C   I
+
+262.
+R2  X   H   X   H   S   X   R2
+R   C   R   C   R   I   C   I
+
+263.
+I   H   X   H   X   R
+R   I   C   R2  C   I
+
+264.
+R   X   H   X   H   X   R2
+R   C   I   C   I   C   I
+
+265.
+I   X   H   X   H   X
+R2  C   R   C   R   C
+
+266.
+I   X   H   H   S   X   R2
+R2  C   R   R2  I   C   I
+
+267.
+R2  X   H   X   H   S
+R2  C   R2  C   R2  I
+
+268.
+R   X   H   H   S   R
+R2  C   R   I   I   I
+
+269.
+H   X   H   R2
+R2  C   R2  I
+
+270.
+I   X   H   X   H   S   X   R
+R2  C   I   C   I   I   C   I
+
+271.
+R   X   H   X   H   X
+I   C   R   C   I   C
+
+272.
+R2  X   H   X   H   S   X   R2
+I   C   R2  C   R   I   C   I
+
+273.
+R   X   H   H
+R2  C   R2  R2
+
+274.
+I   X   H   H   S   R2
+R2  C   I   I   I   I
+
+275.
+R   H   X   H   S   X   R2
+I   I   C   R   I   C   I
+
+276.
+I   H   X   H   X
+R2  I   C   R   C
+
+277.
+X   H   X   H   R
+C   I   C   R2  I
+
+278.
+I   X   H   X   H   X   R2
+R   C   R   C   I   C   I
+
+279.
+R   H   X   H   S
+R2  R2  C   R   I
+
+280.
+R   H   X   H   S   X   R2
+I   R   C   R2  I   C   I
+
+281.
+I   X   H   X   H   R2
+R   C   R2  C   I   I
+
+282.
+I   X   H   X   H   X   R
+R2  C   R   C   I   C   I
+
+283.
+I   H   X   H   S   X
+R2  R2  C   I   I   C
+
+284.
+I   X   H   X   H   S   X   R2
+R   C   R2  C   R2  I   C   I
+
+285.
+R2  X   H   X   H   S   X   R2
+R2  C   R   C   I   I   C   I
+
+286.
+R2  X   H   X   H   S   X   R
+R   C   I   C   I   I   C   I
+
+287.
+R2  H   X   H   S   X   R
+R   R   C   R2  I   C   I
+
+288.
+R2  X   H   X   H   X   R
+R   C   R   C   I   C   I
+
+289.
+R2  X   H   X   H   X   R2
+I   C   R2  C   R   C   I
+
+290.
+I   H   X   H   S   X   R
+R   R   C   I   I   C   I
+
+291.
+I   H   X   H   R
+R2  R   C   I   I
+
+292.
+R2  H   X   H   R
+R2  R2  C   I   I
+
+293.
+R   H   X   H   S   X
+R2  R   C   R2  I   C
+
+294.
+R   H   H   S
+R2  R2  R   I
+
+295.
+R   X   H   H   S   R2
+R   C   R   R2  I   I
+
+296.
+R   X   H   X   H   X   R
+R2  C   R   C   R2  C   I
+
+297.
+R   H   H   S   X
+R   I   R2  I   C
+
+298.
+I   X   H   X   H   S   X   R2
+R   C   R   C   I   I   C   I
+
+299.
+R2  H   X   H   R
+R   R2  C   I   I
+
+300.
+R2  H   X   H   S   X   R2
+R2  I   C   I   I   C   I
+
+301.
+I   X   H   H   X   R2
+R2  C   R2  R2  C   I
+
+302.
+I   X   H   X   H   X
+R   C   R2  C   R   C
+
+303.
+I   H   X   H   S   X   R
+R   R2  C   I   I   C   I
+
+304.
+R2  H   X   H   X   R2
+R   R   C   R2  C   I
+
+305.
+R2  X   H   X   H   S   R2
+I   C   I   C   R   I   I
+
+306.
+R   X   H   H   X   R
+I   C   R2  R2  C   I
+
+307.
+R2  H   H   R
+R   R   R2  I
+
+308.
+R   X   H   H   X   R2
+R   C   R   R   C   I
+
+309.
+R   X   H   X   H   S   X   R
+R2  C   R2  C   R2  I   C   I
+
+310.
+H   H   X
+R2  R2  C
+
+311.
+X   H   X   H   S   X   R2
+C   R   C   R   I   C   I
+
+312.
+R2  X   H   H   X   R
+I   C   I   R2  C   I
+
+313.
+R   H   H   X   R2
+I   R   I   C   I
+
+314.
+R2  X   H   H   S   X   R
+R   C   R   R   I   C   I
+
+315.
+R   X   H   X   H   X   R2
+R2  C   I   C   I   C   I
+
+316.
+X   H   X   H   S   X   R2
+C   I   C   I   I   C   I
+
+317.
+R2  X   H   X   H   X   R
+R2  C   I   C   R2  C   I
+
+318.
+I   H   H   X   R2
+R2  R2  R2  C   I
+
+319.
+R2  X   H   X   H   X   R2
+I   C   R   C   R2  C   I
+
+320.
+I   X   H   X   H   S   X   R2
+R   C   I   C   R   I   C   I
+
+321.
+X   H   X   H
+C   R   C   R
+
+322.
+R2  X   H   H
+R2  C   R2  R2
+
+323.
+I   X   H   X   H   X   R2
+R2  C   R2  C   R   C   I
+
+324.
+R2  X   H   X   H   S
+R2  C   R   C   R   I
+
+325.
+R   H   X   H   X
+R2  R2  C   I   C
+
+326.
+R2  X   H   X   H   R
+I   C   I   C   I   I
+
+327.
+X   H   H   S   X
+C   I   R   I   C
+
+328.
+R   X   H   H   R2
+I   C   I   I   I
+
+329.
+R   X   H   X   H   X
+R2  C   R2  C   R2  C
+
+330.
+R   X   H   X   H   S   X
+I   C   R   C   R   I   C
+
+331.
+R   X   H   H   X   R
+R2  C   I   R2  C   I
+
+332.
+R2  X   H   X   H   S   X   R2
+R   C   R2  C   R2  I   C   I
+
+333.
+R2  X   H   X   H   S   X   R2
+I   C   I   C   I   I   C   I
+
+334.
+R2  X   H   X   H   S   X
+I   C   R2  C   R2  I   C
+
+335.
+R2  X   H   X   H   X   R
+R2  C   I   C   I   C   I
+
+336.
+H   X   H   X   R2
+R2  C   R2  C   I
+
+337.
+R   X   H   X   H   S   X   R2
+R   C   I   C   I   I   C   I
+
+338.
+R2  X   H   H   S   X   R
+R2  C   R   R   I   C   I
+
+339.
+R   X   H   X   H   S   X
+I   C   I   C   I   I   C
+
+340.
+I   H   X   H   S   R
+R2  R   C   R2  I   I
+
+341.
+R2  X   H   X   H   X
+R2  C   R   C   R2  C
+
+342.
+R   H   X   H   S   X   R
+R   I   C   R   I   C   I
+
+343.
+R2  H   X   H   S   R2
+R2  R2  C   R2  I   I
+
+344.
+R2  X   H   X   H   X   R2
+I   C   I   C   I   C   I
+
+345.
+H   H   S
+I   R   I
+
+346.
+R2  H   X   H   S   R
+R2  R2  C   I   I   I
+
+347.
+H   X   H   X   R
+R   C   R2  C   I
+
+348.
+R2  X   H   X   H   S   X   R
+R   C   I   C   R   I   C   I
+
+349.
+R2  X   H   X   H   X   R2
+R   C   R2  C   I   C   I
+
+350.
+R   X   H   X   H   S   R2
+I   C   I   C   R   I   I
+
+351.
+I   X   H   H   S   X
+R   C   I   I   I   C
+
+352.
+R2  X   H   X   H   S   X
+I   C   R   C   I   I   C
+
+353.
+I   H   X   H   S   X   R
+R2  R   C   R2  I   C   I
+
+354.
+X   H   X   H   X   R
+C   I   C   R   C   I
+
+355.
+X   H   H   S   X
+C   I   I   I   C
+
+356.
+R2  X   H   H   X
+R   C   R2  R   C
+
+357.
+I   H   X   H   S   X
+R   R   C   R2  I   C
+
+358.
+R2  X   H   X   H
+I   C   R   C   R2
+
+359.
+R2  H   X   H   R2
+R2  R2  C   I   I
+
+360.
+R2  X   H   X   H   S   X
+I   C   I   C   I   I   C
+
+361.
+R2  X   H   X   H   S   X   R
+R   C   I   C   R2  I   C   I
+
+362.
+R2  H   X   H
+R   R   C   I
+
+363.
+R   X   H   X   H   S   X   R2
+I   C   R2  C   R   I   C   I
+
+364.
+R   H   H   S
+R   R2  R2  I
+
+365.
+I   X   H   X   H   S   X
+R2  C   R2  C   I   I   C
+
+366.
+X   H   X   H   S   X   R
+C   R   C   R2  I   C   I
+
+367.
+R   X   H   X   H   R2
+I   C   I   C   I   I
+
+368.
+I   H   H   S   X
+R2  R   R   I   C
+
+369.
+R2  H   H   X   R2
+R2  I   R   C   I
+
+370.
+X   H   X   H   S   X
+C   I   C   R2  I   C
+
+371.
+R   X   H   X   H   S   R
+R2  C   R   C   R2  I   I
+
+372.
+R   H   X   H   X   R
+R2  I   C   R   C   I
+
+373.
+R   H   X   H   X   R
+R   R   C   R2  C   I
+
+374.
+R   X   H   H   S   X   R
+R   C   R2  I   I   C   I
+
+375.
+X   H   H
+C   I   R
+
+376.
+X   H   H   X   R
+C   R2  R2  C   I
+
+377.
+R2  H   X   H   X
+R   R   C   R   C
+
+378.
+R2  X   H   X   H   S   X   R
+I   C   R2  C   R   I   C   I
+
+379.
+I   H   X   H   S   X
+R2  R   C   I   I   C
+
+380.
+I   X   H   H   R
+R   C   R   R2  I
+
+381.
+X   H   H   X   R2
+C   R   R2  C   I
+
+382.
+I   X   H   H   S   X
+R   C   I   R   I   C
+
+383.
+R   H   X   H   R
+R2  R2  C   R2  I
+
+384.
+I   X   H   X   H   S   R2
+R2  C   R   C   R   I   I
+
+385.
+R   H   X   H   S   X   R
+R2  R2  C   I   I   C   I
+
+386.
+R   X   H   X   H   X   R
+I   C   R2  C   I   C   I
+
+387.
+R2  X   H   X   H   S   X
+R2  C   I   C   I   I   C
+
+388.
+I   X   H   X   H   S   X   R
+R2  C   R   C   I   I   C   I
+
+389.
+R   X   H   X   H   S   X   R2
+R2  C   R   C   R2  I   C   I
+
+390.
+R2  X   H   X   H   X
+R   C   R   C   I   C
+
+391.
+R2  H   X   H   S
+R   R2  C   I   I
+
+392.
+R2  X   H   X   H   X   R2
+R   C   I   C   R2  C   I
+
+393.
+R   H   H   X
+R2  I   I   C
+
+394.
+I   H   H
+R2  R   R2
+
+395.
+R2  X   H   H   S   X   R2
+R   C   R   I   I   C   I
+
+396.
+R   X   H   X   H   X   R2
+R2  C   R   C   R2  C   I
+
+397.
+R   X   H   X   H   X
+R2  C   R   C   R2  C
+
+398.
+H   X   H   X   R2
+R2  C   R   C   I
+
+399.
+R   X   H   H   S   R2
+R   C   R2  R2  I   I
+
+400.
+H   H   X   R
+R2  I   C   I
+
+401.
+H   X   H   S   R
+I   C   R2  I   I
+
+402.
+I   X   H   H   S   R
+R   C   R   R2  I   I
+
+403.
+X   H   X   H   X   R
+C   R2  C   I   C   I
+
+404.
+R2  X   H   X   H   X   R2
+I   C   R2  C   I   C   I
+
+405.
+I   H   X   H   X   R
+R   R2  C   R   C   I
+
+406.
+R2  X   H   H   S   R
+R2  C   I   R   I   I
+
+407.
+I   X   H   X   H   S   X   R
+R   C   R   C   I   I   C   I
+
+408.
+R   X   H   X   H   R
+R   C   R2  C   I   I
+
+409.
+R   H   X   H   S   X   R2
+I   R   C   I   I   C   I
+
+410.
+I   X   H   X   H   S   R2
+R   C   R   C   R2  I   I
+
+411.
+I   X   H   X   H   X   R2
+R2  C   I   C   R   C   I
+
+412.
+R   X   H   X   H   X
+I   C   I   C   I   C
+
+413.
+R   X   H   X   H   X   R2
+R2  C   R   C   I   C   I
+
+414.
+R   H   X   H   S   X   R2
+R   R2  C   I   I   C   I
+
+415.
+R2  H   X   H   S   X   R2
+I   R   C   I   I   C   I
+
+416.
+R   X   H   H   S   R2
+I   C   R2  I   I   I
+
+417.
+I   X   H   X   H   S   X
+R   C   R   C   I   I   C
+
+418.
+I   H   H   S   X
+R2  I   R2  I   C
+
+419.
+R2  X   H   X   H   X   R2
+R2  C   R2  C   R2  C   I
+
+420.
+R   X   H   X   H   X   R
+R2  C   I   C   R2  C   I
+
+421.
+R   H   X   H   S   R2
+I   I   C   R2  I   I
+
+422.
+R   X   H   H   X
+R   C   R   I   C
+
+423.
+R2  H   X   H   S   X   R2
+I   R2  C   I   I   C   I
+
+424.
+R   X   H   H   S   R2
+I   C   I   I   I   I
+
+425.
+X   H   H   X
+C   R   I   C
+
+426.
+R2  X   H   X   H   X
+I   C   R2  C   R2  C
+
+427.
+R   H   X   H   S   X   R
+R2  R   C   I   I   C   I
+
+428.
+R   X   H   X   H   X
+R   C   R   C   R   C
+
+429.
+R2  H   X   H   X
+I   I   C   R   C
+
+430.
+H   H   X
+R2  R   C
+
+431.
+R2  X   H   X   H   S   X
+R   C   R   C   R2  I   C
+
+432.
+R   H   X   H   X
+I   I   C   R2  C
+
+433.
+R2  X   H   H   S   X   R2
+I   C   R2  I   I   C   I
+
+434.
+I   X   H   X   H   S   X
+R2  C   I   C   I   I   C
+
+435.
+R2  X   H   X   H   X
+R2  C   I   C   I   C
+
+436.
+R   H   X   H   X
+I   R   C   R   C
+
+437.
+R2  H   X   H   S   X   R
+R   I   C   R2  I   C   I
+
+438.
+R   H   H   S   X   R
+I   R2  R2  I   C   I
+
+439.
+R2  H   H   S   X   R
+R   I   R2  I   C   I
+
+440.
+R2  H   X   H   R2
+R2  I   C   R2  I
+
+441.
+R2  X   H   X   H   S   X
+R   C   I   C   I   I   C
+
+442.
+I   H   H   S   X   R
+R   R   R   I   C   I
+
+443.
+R   X   H   X   H   R
+R2  C   R2  C   I   I
+
+444.
+H   H   S
+R2  I   I
+
+445.
+R   H   H   S   X   R
+R2  I   R2  I   C   I
+
+446.
+R2  X   H   H   S
+R   C   R   R   I
+
+447.
+R2  X   H   X   H   S   X   R2
+I   C   I   C   R   I   C   I
+
+448.
+H   H   X   R
+I   R2  C   I
+
+449.
+I   X   H   H   S   X   R
+R2  C   R2  I   I   C   I
+
+450.
+X   H   H   X   R2
+C   R   R   C   I
+
+451.
+R   X   H   X   H   S   X   R
+R   C   R2  C   R2  I   C   I
+
+452.
+X   H   X   H   X   R2
+C   I   C   I   C   I
+
+453.
+R   X   H   X   H   X   R
+R2  C   I   C   R   C   I
+
+454.
+X   H   H   S   X   R2
+C   I   R2  I   C   I
+
+455.
+R2  X   H   X   H   X   R
+I   C   I   C   I   C   I
+
+456.
+R2  X   H   X   H   S
+R2  C   R   C   I   I
+
+457.
+R   X   H   X   H   S   X
+R2  C   R   C   R   I   C
+
+458.
+R   X   H   H   X
+I   C   R2  I   C
+
+459.
+I   H   H   S
+R   R2  I   I
+
+460.
+R   H   X   H   S   R2
+I   R   C   R   I   I
+
+461.
+R   H   X   H   S   X   R
+R   R   C   R   I   C   I
+
+462.
+I   X   H   X   H   X   R
+R2  C   I   C   R2  C   I
+
+463.
+R2  X   H   X   H   S   X
+I   C   R   C   R   I   C
+
+464.
+R   X   H   X   H   R2
+R2  C   R   C   R   I
+
+465.
+I   X   H   H
+R   C   R   I
+
+466.
+X   H   H   R
+C   R   R   I
+
+467.
+R   X   H   X   H   S   X   R
+R   C   R   C   I   I   C   I
+
+468.
+X   H   X   H   S
+C   R2  C   R2  I
+
+469.
+R2  H   X   H   S   X   R
+R   R2  C   R   I   C   I
+
+470.
+I   X   H   H   X   R
+R   C   R   R2  C   I
+
+471.
+R2  X   H   X   H   X   R
+R   C   R   C   R2  C   I
+
+472.
+R   X   H   X   H   R2
+R   C   R2  C   R2  I
+
+473.
+R2  H   X   H   S   X
+R2  I   C   R2  I   C
+
+474.
+R   H   H   R
+R2  R2  R2  I
+
+475.
+R2  X   H   H   R2
+I   C   I   I   I
+
+476.
+R   X   H   X   H   S
+R2  C   R   C   R   I
+
+477.
+R   X   H   X   H   X   R2
+R   C   R   C   R   C   I
+
+478.
+R   X   H   X   H   S   X
+R2  C   R   C   R2  I   C
+
+479.
+R2  H   X   H   S   X
+R   R2  C   I   I   C
+
+480.
+I   X   H   X   H   R
+R   C   I   C   R2  I
+
+481.
+R2  X   H   H   S   X   R
+R2  C   R2  I   I   C   I
+
+482.
+I   H   X   H   X   R2
+R2  R   C   R2  C   I
+
+483.
+I   X   H   X   H   X
+R   C   R   C   R   C
+
+484.
+R   X   H   H   S   X   R2
+I   C   R   R   I   C   I
+
+485.
+R   X   H   X   H   X
+I   C   R2  C   R   C
+
+486.
+X   H   X   H   S   R2
+C   I   C   R2  I   I
+
+487.
+I   X   H   X   H   S   R
+R2  C   R2  C   R   I   I
+
+488.
+I   H   X   H   R2
+R2  R   C   R   I
+
+489.
+R2  X   H   X   H   S   R
+R2  C   R2  C   R2  I   I
+
+490.
+R2  H   X   H   X
+R   R   C   R2  C
+
+491.
+X   H   X   H   X
+C   R   C   R   C
+
+492.
+R   H   H   S   X   R2
+R2  I   I   I   C   I
+
+493.
+I   X   H   X   H   X   R2
+R2  C   I   C   I   C   I
+
+494.
+R2  H   X   H   X   R2
+R2  I   C   R2  C   I
+
+495.
+R2  H   X   H   S   X   R
+I   I   C   R2  I   C   I
+
+496.
+I   X   H   X   H   S   X   R
+R   C   I   C   R2  I   C   I
+
+497.
+I   X   H   H   X
+R2  C   I   R   C
+
+498.
+R2  X   H   X   H   S   X   R
+R   C   R2  C   I   I   C   I
+
+499.
+I   X   H   X   H   R
+R2  C   R   C   I   I
+
+500.
+R2  H   X   H   S   X
+I   I   C   R2  I   C
+
+501.
+R   X   H   X   H   R
+R   C   R2  C   R2  I
+
+502.
+I   X   H   X   H   X   R2
+R   C   I   C   I   C   I
+
+503.
+R   H   X   H   X   R2
+R2  R2  C   R   C   I
+
+504.
+I   X   H   X   H   S   X   R
+R   C   R2  C   R   I   C   I
+
+505.
+R2  H   H   R
+R2  R2  I   I
+
+506.
+I   X   H   X   H   X
+R2  C   R   C   R2  C
+
+507.
+R   X   H   H   X   R
+R   C   R2  I   C   I
+
+508.
+I   X   H   X   H   X   R
+R2  C   R   C   R2  C   I
+
+509.
+X   H   X   H   S   X
+C   R2  C   R   I   C
+
+510.
+I   X   H   X   H   X
+R   C   R2  C   I   C
+
+511.
+R2  X   H   X   H   R2
+R2  C   R2  C   R   I
+
+512.
+I   H   H   X   R2
+R2  I   R2  C   I
+
+513.
+I   X   H   X   H   X   R2
+R2  C   R   C   R   C   I
+
+514.
+I   X   H   X   H   R2
+R2  C   R2  C   R   I
+
+515.
+R   X   H   X   H
+R2  C   R   C   R2
+
+516.
+R   X   H   X   H   X   R
+R   C   I   C   R2  C   I
+
+517.
+I   H   X   H   X   R2
+R   R2  C   I   C   I
+
+518.
+R2  X   H   X   H   S   X
+R2  C   R   C   R2  I   C
+
+519.
+R   H   X   H   S   X   R
+R2  R2  C   R2  I   C   I
+
+520.
+I   X   H   H   S   X
+R2  C   I   R2  I   C
+
+521.
+X   H   X   H   S   X   R2
+C   R   C   R2  I   C   I
+
+522.
+R   X   H   H   X
+R   C   R2  R   C
+
+523.
+I   H   X   H   R
+R   R2  C   R   I
+
+524.
+R   X   H   H   S   X   R
+R2  C   R   R   I   C   I
+
+525.
+R2  H   X   H   S   R
+R   R   C   I   I   I
+
+526.
+R2  X   H   X   H   X   R
+R   C   R2  C   R   C   I
+
+527.
+I   X   H   H   X   R2
+R2  C   I   R2  C   I
+
+528.
+I   X   H   X   H   X   R
+R   C   R   C   R   C   I
+
+529.
+R   X   H   X   H   S   X   R2
+I   C   I   C   I   I   C   I
+
+530.
+R   X   H   X   H   R2
+R   C   R2  C   I   I
+
+531.
+R2  X   H   X   H   X
+R2  C   R   C   I   C
+
+532.
+R   X   H   X   H
+I   C   R   C   R
+
+533.
+R2  X   H   X   H   S   X   R
+R   C   R   C   I   I   C   I
+
+534.
+R2  X   H   X   H   S   R2
+I   C   R2  C   R   I   I
+
+535.
+R2  H   X   H
+I   I   C   I
+
+536.
+R   H   X   H   R2
+R2  I   C   R2  I
+
+537.
+R   H   H   S   X
+R   I   I   I   C
+
+538.
+R2  X   H   X   H   R
+R   C   R   C   R   I
+
+539.
+R   H   H   S   X
+R   I   R   I   C
+
+540.
+R2  X   H   X   H   S   X   R
+I   C   R   C   R2  I   C   I
+
+541.
+I   X   H   X   H   S   X   R
+R   C   R2  C   I   I   C   I
+
+542.
+R   X   H   X   H   X   R2
+I   C   R   C   R2  C   I
+
+543.
+I   H   H   X   R2
+R   I   R2  C   I
+
+544.
+X   H   H   S   X   R2
+C   R   I   I   C   I
+
+545.
+R2  X   H   H   S   X   R2
+R2  C   R   I   I   C   I
+
+546.
+I   X   H   X   H   X
+R   C   R2  C   R2  C
+
+547.
+R2  H   H   X
+I   I   R   C
+
+548.
+I   X   H   X   H   R2
+R2  C   R2  C   R2  I
+
+549.
+R2  X   H   H   R2
+I   C   R2  R2  I
+
+550.
+I   X   H   H   X
+R2  C   R   R2  C
+
+551.
+R   X   H   X   H   S   X   R2
+R2  C   R2  C   R   I   C   I
+
+552.
+R2  X   H   H   R
+R2  C   I   R   I
+
+553.
+I   X   H   H   S   X   R
+R   C   R2  R2  I   C   I
+
+554.
+R2  X   H   X   H   X   R2
+R2  C   I   C   R2  C   I
+
+555.
+I   X   H   X   H   X
+R2  C   I   C   R   C
+
+556.
+I   H   X   H   X   R2
+R   R   C   I   C   I
+
+557.
+R2  H   H   S   R
+R   R   I   I   I
+
+558.
+R   H   X   H   S   X
+R   I   C   R   I   C
+
+559.
+R2  X   H   X   H   S   X   R
+R2  C   R2  C   R   I   C   I
+
+560.
+R   X   H   X   H   S   R
+R2  C   I   C   R2  I   I
+
+561.
+R   X   H   H   R
+R2  C   R2  R   I
+
+562.
+R2  X   H   X   H   S   X
+R   C   R2  C   R2  I   C
+
+563.
+R2  H   H   S   X
+R2  I   R2  I   C
+
+564.
+I   H   X   H   X   R
+R   R   C   R   C   I
+
+565.
+I   X   H   X   H   S   X
+R   C   R   C   R   I   C
+
+566.
+R   X   H   H   R
+R   C   R2  R2  I
+
+567.
+H   X   H
+R   C   R2
+
+568.
+X   H   X   H   X
+C   R2  C   R   C
+
+569.
+R   X   H   X   H   S   X   R2
+R   C   R2  C   R2  I   C   I
+
+570.
+R2  X   H   X   H   R2
+I   C   R2  C   I   I
+
+571.
+R2  X   H   X   H   X   R2
+R   C   R   C   R   C   I
+
+572.
+R   X   H   H   S   X   R2
+R2  C   R   R   I   C   I
+
+573.
+R   H   X   H
+R2  R   C   R2
+
+574.
+R   H   X   H   X   R2
+R   I   C   R2  C   I
+
+575.
+R2  X   H   H   S
+R2  C   R2  I   I
+
+576.
+R2  H   X   H   S
+R2  I   C   R2  I
+
+577.
+R2  H   X   H   S   X   R2
+R   R   C   R   I   C   I
+
+578.
+R2  X   H   X   H   S   X   R2
+R   C   I   C   R   I   C   I
+
+579.
+I   X   H   X   H   S   R
+R   C   R   C   I   I   I
+
+580.
+R   X   H   X   H   R2
+I   C   R2  C   I   I
+
+581.
+I   X   H   X   H   S   X   R2
+R2  C   I   C   I   I   C   I
+
+582.
+I   X   H   X   H   S   X   R2
+R2  C   R2  C   R   I   C   I
+
+583.
+R   X   H   X   H   R2
+R2  C   R   C   R2  I
+
+584.
+I   X   H   X   H   X   R2
+R2  C   R   C   I   C   I
+
+585.
+I   X   H   X   H   X   R2
+R   C   I   C   R   C   I
+
+586.
+R   X   H   X   H   S   X   R2
+I   C   I   C   R   I   C   I
+
+587.
+I   X   H   X   H
+R   C   I   C   I
+
+588.
+R   X   H   X   H   S
+I   C   R   C   I   I
+
+589.
+R2  X   H   X   H   S   R2
+R   C   I   C   I   I   I
+
+590.
+R   X   H   H   S
+R   C   I   R   I
+
+591.
+R2  H   H   S   X
+R   I   I   I   C
+
+592.
+R2  H   H   S   R2
+I   R2  R   I   I
+
+593.
+I   X   H   X   H   S   X   R
+R2  C   I   C   R   I   C   I
+
+594.
+I   X   H   X   H   X
+R2  C   I   C   I   C
+
+595.
+I   X   H   X   H   X   R
+R2  C   I   C   R   C   I
+
+596.
+R2  X   H   X   H   S   X
+I   C   I   C   R2  I   C
+
+597.
+R   H   X   H   S   X   R
+R2  R2  C   R   I   C   I
+
+598.
+R2  X   H   X   H   R2
+I   C   R2  C   R2  I
+
+599.
+R   X   H   X   H   S   X   R2
+R   C   R2  C   I   I   C   I
+
+600.
+I   X   H   X   H   X   R2
+R   C   R   C   R2  C   I
+
+601.
+R2  X   H   H   S   X
+R   C   I   R   I   C
+
+602.
+R2  X   H   X   H
+R   C   I   C   R
+
+603.
+R   X   H   H   X
+R2  C   I   R2  C
+
+604.
+R   X   H   H   S   R
+R   C   I   R2  I   I
+
+605.
+H   X   H   R2
+I   C   R2  I
+
+606.
+R2  H   X   H   S   X   R2
+R2  R   C   I   I   C   I
+
+607.
+R   X   H   X   H   X   R
+R2  C   R2  C   I   C   I
+
+608.
+I   H   H   S   X   R2
+R   R2  I   I   C   I
+
+609.
+R2  H   X   H   X
+R2  I   C   I   C
+
+610.
+R2  X   H   X   H   X   R
+R   C   R2  C   R2  C   I
+
+611.
+R   X   H   X   H   S   X
+R   C   R2  C   R2  I   C
+
+612.
+I   X   H   X   H   S   X   R2
+R2  C   R   C   I   I   C   I
+
+613.
+R   X   H   X   H   S   X   R2
+R   C   R   C   R2  I   C   I
+
+614.
+R2  X   H   X   H   X   R
+I   C   R   C   I   C   I
+
+615.
+R2  X   H   X   H   X
+R   C   R2  C   R   C
+
+616.
+I   X   H   H   S   R2
+R   C   R2  I   I   I
+
+617.
+R   H   H   X   R
+R2  R2  I   C   I
+
+618.
+I   X   H   X   H   R
+R2  C   R2  C   R2  I
+
+619.
+H   X   H   S   X   R2
+R2  C   R   I   C   I
+
+620.
+X   H   X   H   S   X
+C   I   C   I   I   C
+
+621.
+R   H   X   H
+I   R   C   R2
+
+622.
+R2  X   H   X   H   X   R2
+R2  C   I   C   R   C   I
+
+623.
+R   H   H   S   X   R2
+R   R2  R2  I   C   I
+
+624.
+I   X   H   X   H   X   R
+R   C   I   C   I   C   I
+
+625.
+H   X   H   X
+R   C   R   C
+
+626.
+R   H   X   H   X   R2
+R2  R   C   R2  C   I
+
+627.
+R2  X   H   H   X
+I   C   R2  R   C
+
+628.
+R2  X   H   X   H   X   R
+R2  C   R   C   R   C   I
+
+629.
+R2  X   H   X   H   X   R2
+R   C   I   C   I   C   I
+
+630.
+R2  X   H   X   H   S   X   R2
+I   C   R   C   R   I   C   I
+
+631.
+I   H   X   H   S   R
+R   R2  C   R2  I   I
+
+632.
+R2  H   X   H   S   R
+R   R2  C   R   I   I
+
+633.
+R2  X   H   X   H   X   R
+R   C   R2  C   I   C   I
+
+634.
+I   H   X   H   X   R
+R2  R   C   R   C   I
+
+635.
+I   X   H   H   X   R
+R2  C   R   R   C   I
+
+636.
+R   X   H   X   H   X   R
+R2  C   R2  C   R2  C   I
+
+637.
+R2  X   H   X   H   X   R2
+I   C   R   C   R   C   I
+
+638.
+I   X   H   X   H
+R2  C   R   C   I
+
+639.
+I   X   H   X   H   R
+R2  C   R2  C   R   I
+
+640.
+R2  X   H   X   H   S   X
+R   C   I   C   R   I   C
+
+641.
+R2  X   H   X   H   R
+I   C   I   C   R   I
+
+642.
+H   X   H   S   X   R2
+R2  C   I   I   C   I
+
+643.
+R2  H   H   X   R
+I   R2  R2  C   I
+
+644.
+R2  X   H   X   H   X
+R2  C   I   C   R2  C
+
+645.
+R2  H   H   S   R
+I   R   R   I   I
+
+646.
+X   H   X   H   X   R
+C   I   C   R2  C   I
+
+647.
+X   H   X   H   S   X
+C   R   C   R2  I   C
+
+648.
+R2  X   H   X   H   S   R
+I   C   I   C   R2  I   I
+
+649.
+R   H   X   H   S   X   R
+I   R   C   I   I   C   I
+
+650.
+R2  X   H   X   H   S   X   R2
+R2  C   R   C   R   I   C   I
+
+651.
+X   H   X   H   X   R2
+C   R2  C   R   C   I
+
+652.
+R   X   H   X   H   S   R
+I   C   R   C   R   I   I
+
+653.
+R2  X   H   X   H   S   X
+R   C   I   C   R2  I   C
+
+654.
+R   H   X   H   S   X
+R   I   C   R2  I   C
+
+655.
+X   H   X   H   S   R2
+C   R   C   R2  I   I
+
+656.
+I   X   H   X   H   S   X
+R2  C   R2  C   R2  I   C
+
+657.
+R   X   H   X   H   R2
+R2  C   R   C   I   I
+
+658.
+I   X   H   X   H   R
+R2  C   R   C   R2  I
+
+659.
+R   X   H   H   X   R
+R2  C   I   R   C   I
+
+660.
+R   X   H   X   H   X   R2
+R2  C   R2  C   R2  C   I
+
+661.
+R   X   H   X   H   S   X   R
+I   C   R2  C   R2  I   C   I
+
+662.
+R   X   H   X   H   X   R2
+R2  C   I   C   R2  C   I
+
+663.
+R2  X   H   X   H   X
+I   C   R   C   R2  C
+
+664.
+I   X   H   X   H   R
+R   C   R2  C   I   I
+
+665.
+R2  X   H   X   H   R
+R   C   R   C   R2  I
+
+666.
+R2  H   X   H   X   R
+I   R2  C   R2  C   I
+
+667.
+I   X   H   X   H   S   X   R
+R2  C   R   C   R   I   C   I
+
+668.
+R   X   H   H   S   X   R2
+R   C   R   I   I   C   I
+
+669.
+X   H   X   H   S   X   R2
+C   I   C   R   I   C   I
+
+670.
+R   H   X   H   S   X
+R2  R   C   I   I   C
+
+671.
+R   X   H   X   H   X   R
+R   C   R   C   I   C   I
+
+672.
+H   X   H   X   R2
+I   C   R2  C   I
+
+673.
+H   X   H   X
+I   C   I   C
+
+674.
+R   H   H   R
+R   R   I   I
+
+675.
+X   H   H   X
+C   I   R   C
+
+676.
+I   X   H   X   H
+R2  C   R2  C   I
+
+677.
+R2  X   H   X   H   S   X   R2
+R   C   R2  C   I   I   C   I
+
+678.
+R   H   X   H   S   R2
+R   R2  C   R2  I   I
+
+679.
+R2  X   H   X   H   S   R2
+R2  C   R2  C   R2  I   I
+
+680.
+X   H   X   H   X   R2
+C   I   C   R   C   I
+
+681.
+I   X   H   X   H   S   X   R2
+R2  C   R2  C   I   I   C   I
+
+682.
+I   X   H   X   H   S   R2
+R   C   I   C   I   I   I
+
+683.
+R2  H   H   X   R
+R2  R2  R   C   I
+
+684.
+R   H   H   X   R2
+R2  R   R   C   I
+
+685.
+R   X   H   X   H   S
+I   C   I   C   R2  I
+
+686.
+R2  H   X   H   S   X   R
+I   I   C   I   I   C   I
+
+687.
+R   X   H   H   X
+R   C   R   R2  C
+
+688.
+R   X   H   X   H   S   R2
+R   C   I   C   R   I   I
+
+689.
+R2  X   H   X   H   R
+R2  C   I   C   I   I
+
+690.
+X   H   H   X   R2
+C   I   R2  C   I
+
+691.
+X   H   X   H   R2
+C   R   C   I   I
+
+692.
+R   H   X   H   X   R2
+R   R2  C   R2  C   I
+
+693.
+I   X   H   X   H   S   R
+R2  C   R   C   I   I   I
+
+694.
+R   H   X   H   S   R
+R   R2  C   R   I   I
+
+695.
+I   X   H   H   X   R2
+R   C   R2  I   C   I
+
+696.
+R   H   X   H   X   R2
+R2  I   C   I   C   I
+
+697.
+R2  X   H   X   H   R2
+R   C   R   C   R   I
+
+698.
+R2  X   H   H   S   X   R2
+R   C   R2  R2  I   C   I
+
+699.
+R   H   X   H   X
+R   R2  C   R   C
+
+700.
+I   H   H   R2
+R2  I   R   I
+
+701.
+H   X   H   R2
+I   C   R   I
+
+702.
+R2  X   H   H   S   X   R2
+R2  C   R2  R   I   C   I
+
+703.
+R   X   H   X   H   X
+R2  C   R   C   I   C
+
+704.
+I   X   H   X   H
+R   C   R   C   I
+
+705.
+I   X   H   X   H   S   X   R2
+R   C   R2  C   R   I   C   I
+
+706.
+R2  X   H   H   S   X   R2
+R   C   R2  I   I   C   I
+
+707.
+R2  X   H   X   H   S   R
+R2  C   R   C   R2  I   I
+
+708.
+R   H   X   H   X
+R2  I   C   R   C
+
+709.
+R2  X   H   X   H   S   X
+R2  C   I   C   R2  I   C
+
+710.
+R   X   H   X   H   X   R
+R   C   R2  C   I   C   I
+
+711.
+R2  X   H   X   H   S   X
+I   C   I   C   R   I   C
+
+712.
+I   X   H   X   H   X   R2
+R2  C   R2  C   R2  C   I
+
+713.
+R2  X   H   X   H   X   R
+I   C   R   C   R   C   I
+
+714.
+X   H   X   H   X   R
+C   R2  C   R2  C   I
+
+715.
+R   X   H   X   H   X   R2
+R   C   I   C   R2  C   I
+
+716.
+R   X   H   H   S   R2
+I   C   R   R2  I   I
+
+717.
+R2  H   X   H   X   R
+I   R   C   R   C   I
+
+718.
+R   X   H   H   S   X   R2
+I   C   R2  I   I   C   I
+
+719.
+I   X   H   X   H   S
+R   C   I   C   I   I
+
+720.
+R   X   H   H   X   R2
+R2  C   I   R   C   I
+
+721.
+I   X   H   X   H   X   R2
+R   C   I   C   R2  C   I
+
+722.
+R2  X   H   X   H   S
+R   C   R2  C   R   I
+
+723.
+R   X   H   X   H   S   R
+R   C   R2  C   I   I   I
+
+724.
+R2  H   X   H   S   X   R
+R   I   C   I   I   C   I
+
+725.
+R   X   H   X   H   X
+I   C   I   C   R2  C
+
+726.
+R   X   H   X   H   X   R
+I   C   R   C   R   C   I
+
+727.
+R2  H   X   H   X   R
+I   R   C   R2  C   I
+
+728.
+R2  X   H   X   H   X   R
+I   C   R2  C   R   C   I
+
+729.
+R   X   H   X   H   S   X   R
+I   C   R2  C   I   I   C   I
+
+730.
+I   X   H   H   S   X   R2
+R   C   I   R   I   C   I
+
+731.
+I   H   H   X   R
+R   R   R   C   I
+
+732.
+I   H   X   H
+R   R   C   I
+
+733.
+R2  H   X   H   X   R2
+I   R   C   R2  C   I
+
+734.
+R2  X   H   X   H
+I   C   R2  C   R2
+
+735.
+I   X   H   H   S   X   R
+R   C   R2  I   I   C   I
+
+736.
+H   X   H   S   X   R2
+I   C   R2  I   C   I
+
+737.
+R2  X   H   X   H   S   R2
+I   C   I   C   I   I   I
+
+738.
+R   H   X   H   S   X   R2
+R   R   C   R   I   C   I
+
+739.
+I   X   H   X   H   X   R2
+R   C   R2  C   R2  C   I
+
+740.
+I   X   H   X   H   S   R2
+R2  C   R2  C   I   I   I
+
+741.
+I   H   X   H   S   X   R
+R2  R   C   R   I   C   I
+
+742.
+R   H   H   S   X   R2
+R   I   R   I   C   I
+
+743.
+R2  X   H   X   H
+R2  C   R   C   R2
+
+744.
+R2  H   X   H   S   X   R
+I   R   C   I   I   C   I
+
+745.
+R2  H   X   H   R
+I   R2  C   I   I
+
+746.
+R2  H   X   H   S   R2
+R   R2  C   I   I   I
+
+747.
+R   H   X   H   R2
+R   I   C   R   I
+
+748.
+H   X   H   S   R
+R2  C   R2  I   I
+
+749.
+I   X   H   H   X   R2
+R2  C   R   I   C   I
+
+750.
+R   X   H   H   S   R2
+R2  C   I   R   I   I
+
+751.
+R2  H   X   H   S   X
+R2  R   C   I   I   C
+
+752.
+R   X   H   H   S   X   R
+R2  C   I   R2  I   C   I
+
+753.
+R2  X   H   X   H   S   X   R
+I   C   R   C   R   I   C   I
+
+754.
+R   H   X   H   S   X   R2
+R2  I   C   R   I   C   I
+
+755.
+R2  X   H   H   S
+R   C   R2  R   I
+
+756.
+I   X   H   X   H   S   X   R
+R   C   R2  C   R2  I   C   I
+
+757.
+R   H   X   H   S
+R   I   C   I   I
+
+758.
+R   X   H   X   H   X
+R   C   R   C   R2  C
+
+759.
+R2  X   H   X   H   S   X   R2
+R2  C   I   C   R2  I   C   I
+
+760.
+R   X   H   H
+R   C   R   I
+
+761.
+R2  X   H   H   S   X
+I   C   I   I   I   C
+
+762.
+H   X   H   X   R
+I   C   I   C   I
+
+763.
+R   H   X   H   S   X
+I   I   C   R2  I   C
+
+764.
+I   X   H   X   H
+R   C   R   C   R
+
+765.
+R2  H   H   X
+R   I   R2  C
+
+766.
+X   H   H   X   R
+C   R2  I   C   I
+
+767.
+H   X   H   S   X
+R2  C   R2  I   C
+
+768.
+I   H   X   H   X
+R2  R   C   R   C
+
+769.
+R   X   H   X   H   S   X   R
+R2  C   R2  C   I   I   C   I
+
+770.
+R   X   H   H   R2
+I   C   R2  I   I
+
+771.
+R2  X   H   H   X
+R   C   I   I   C
+
+772.
+I   H   X   H   S   X   R2
+R   R2  C   R2  I   C   I
+
+773.
+R   X   H   X   H   S   R2
+R2  C   R2  C   R   I   I
+
+774.
+R   X   H   X   H   S   R
+I   C   R2  C   R2  I   I
+
+775.
+R2  H   X   H   X
+R2  I   C   R   C
+
+776.
+H   H   X
+R   R   C
+
+777.
+R2  X   H   X   H   S   X
+R2  C   R2  C   R2  I   C
+
+778.
+R   X   H   X   H   S   X
+I   C   I   C   R2  I   C
+
+779.
+R2  X   H   X   H   S   R2
+R2  C   R2  C   R   I   I
+
+780.
+R2  X   H   H   X   R2
+R2  C   I   R   C   I
+
+781.
+R2  X   H   H   X   R2
+I   C   R2  R2  C   I
+
+782.
+R2  X   H   X   H   S   X
+R2  C   R2  C   R   I   C
+
+783.
+R2  X   H   H   S   X
+R   C   R   R2  I   C
+
+784.
+R2  X   H   X   H
+R2  C   I   C   R2
+
+785.
+R   X   H   H   R2
+R   C   R   I   I
+
+786.
+R   H   X   H
+I   R   C   I
+
+787.
+R   X   H   X   H   S
+R2  C   R   C   R2  I
+
+788.
+R   X   H   X   H   S   X
+I   C   I   C   R   I   C
+
+789.
+R2  H   X   H   S   R
+R2  I   C   I   I   I
+
+790.
+R   H   X   H   X
+I   I   C   I   C
+
+791.
+R   X   H   X   H   S
+R   C   R2  C   I   I
+
+792.
+R2  X   H   H   S   R2
+R2  C   I   R   I   I
+
+793.
+R2  X   H   X   H   X   R
+R   C   R   C   R   C   I
+
+794.
+R   H   H   X   R
+R   R2  R   C   I
+
+795.
+R2  H   X   H   X   R2
+R2  I   C   R   C   I
+
+796.
+I   H   X   H   S   X   R2
+R   R   C   R   I   C   I
+
+797.
+I   X   H   X   H   S   X   R2
+R2  C   R   C   R2  I   C   I
+
+798.
+R   H   H   X   R2
+I   R   R2  C   I
+
+799.
+R2  X   H   X   H   S   X   R2
+R   C   R2  C   R   I   C   I
+
+800.
+R   X   H   H   X   R
+R   C   R   R2  C   I
+
+801.
+R   X   H   X   H   X
+R2  C   R2  C   I   C
+
+802.
+R2  X   H   X   H   X   R
+R   C   I   C   R2  C   I
+
+803.
+R2  H   X   H   S   R2
+R2  R2  C   R   I   I
+
+804.
+R2  H   X   H   S   X
+R2  R   C   R2  I   C
+
+805.
+R2  X   H   H   S   X   R2
+R   C   I   R   I   C   I
+
+806.
+R2  X   H   X   H   X   R2
+R   C   R2  C   R   C   I
+
+807.
+R   X   H   X   H   X   R2
+I   C   R2  C   R   C   I
+
+808.
+R2  X   H   X   H
+R   C   R   C   R
+
+809.
+R   X   H   X   H   S   X   R
+R2  C   R   C   R   I   C   I
+
+810.
+I   H   H   X   R2
+R2  I   R   C   I
+
+811.
+X   H   X   H   X   R2
+C   R   C   R2  C   I
+
+812.
+R   X   H   X   H   R2
+R2  C   I   C   R   I
+
+813.
+R2  X   H   X   H   S   X   R2
+R2  C   R   C   R2  I   C   I
+
+814.
+R2  X   H   X   H   S   X   R
+R   C   R   C   R   I   C   I
+
+815.
+I   H   X   H   S   X   R2
+R2  R2  C   R2  I   C   I
+
+816.
+R2  X   H   H   S   X   R
+R2  C   R2  R   I   C   I
+
+817.
+R2  X   H   X   H   S   X
+I   C   R2  C   R   I   C
+
+818.
+R2  H   X   H   S   R
+R   I   C   R2  I   I
+
+819.
+R   X   H   H   S
+I   C   R2  R2  I
+
+820.
+R   H   X   H   X   R
+I   R   C   R2  C   I
+
+821.
+R   H   X   H   S   X   R
+I   R   C   R   I   C   I
+
+822.
+R2  X   H   H   X
+R2  C   I   I   C
+
+823.
+I   X   H   X   H   X   R
+R2  C   R2  C   R2  C   I
+
+824.
+R   X   H   X   H   S   X   R2
+R2  C   R   C   R   I   C   I
+
+825.
+X   H   H   S   X   R2
+C   R2  R   I   C   I
+
+826.
+R   X   H   X   H   X   R
+I   C   R2  C   R   C   I
+
+827.
+R2  H   H   X
+R   R   I   C
+
+828.
+R   X   H   X   H   X   R2
+R   C   R2  C   R2  C   I
+
+829.
+R2  X   H   X   H   S   X   R2
+R2  C   I   C   I   I   C   I
+
+830.
+I   X   H   X   H   S   R
+R   C   I   C   R   I   I
+
+831.
+R   H   H   X   R
+I   I   R   C   I
+
+832.
+H   X   H   X   R
+R   C   R   C   I
+
+833.
+I   X   H   X   H   X   R
+R2  C   R2  C   R   C   I
+
+834.
+R   X   H   X   H   S   R
+R2  C   I   C   R   I   I
+
+835.
+X   H   X   H   S   X   R2
+C   R2  C   R2  I   C   I
+
+836.
+R   H   H   S   X
+R2  R   I   I   C
+
+837.
+I   H   X   H   S   X   R2
+R   I   C   R2  I   C   I
+
+838.
+R   X   H   X   H   X   R
+R   C   I   C   I   C   I
+
+839.
+R   X   H   H   R
+I   C   R   I   I
+
+840.
+X   H   X   H   S   X   R
+C   R2  C   R2  I   C   I
+
+841.
+R   H   X   H   X   R
+R   R   C   I   C   I
+
+842.
+R   X   H   H   S   X
+R2  C   R   R2  I   C
+
+843.
+R   X   H   H   S   X   R
+R2  C   R   I   I   C   I
+
+844.
+X   H   X   H   X   R
+C   I   C   I   C   I
+
+845.
+R2  H   X   H   X   R2
+I   R   C   R   C   I
+
+846.
+R   H   H   X
+R   I   R   C
+
+847.
+I   H   X   H   S   X   R
+R2  R2  C   R   I   C   I
+
+848.
+R   X   H   H   S   X
+R   C   I   R   I   C
+
+849.
+I   H   H   R
+R   R   R   I
+
+850.
+R2  X   H   H   S   X   R2
+R2  C   R   R2  I   C   I
+
+851.
+R   X   H   H   S   X
+R   C   R   R   I   C
+
+852.
+I   X   H   X   H   S   X   R2
+R   C   I   C   R2  I   C   I
+
+853.
+R   H   X   H   X   R
+R   R2  C   R   C   I
+
+854.
+R2  H   X   H   X   R2
+I   R2  C   I   C   I
+
+855.
+R2  X   H   X   H   S   R
+R2  C   R2  C   I   I   I
+
+856.
+R2  X   H   X   H   X
+I   C   R   C   R   C
+
+857.
+R2  X   H   H   S   R2
+I   C   I   R2  I   I
+
+858.
+R   X   H   X   H   S   X
+R   C   I   C   R   I   C
+
+859.
+R2  X   H   H   X   R2
+R   C   R   R2  C   I
+
+860.
+R2  X   H   H   X   R2
+R2  C   R   R2  C   I
+
+861.
+R2  X   H   X   H   S   R2
+R   C   R   C   R   I   I
+
+862.
+X   H   X   H   R
+C   R   C   R   I
+
+863.
+R2  H   H   S   X   R
+R   R2  I   I   C   I
+
+864.
+R2  X   H   H   S   X
+R   C   R2  I   I   C
+
+865.
+R2  H   H   X   R2
+I   R   I   C   I
+
+866.
+R   X   H   H   S   X   R2
+R   C   I   R2  I   C   I
+
+867.
+R   X   H   X   H
+R   C   R   C   R
+
+868.
+X   H   X   H   S   R2
+C   R2  C   I   I   I
+
+869.
+R   X   H   X   H   X
+R   C   R   C   I   C
+
+870.
+I   H   H   X   R
+R2  R   R2  C   I
+
+871.
+X   H   X   H   S   X
+C   R2  C   I   I   C
+
+872.
+R   H   X   H   S   R
+R   R   C   R2  I   I
+
+873.
+R2  H   H   X   R2
+R2  R2  I   C   I
+
+874.
+R2  X   H   H   X   R
+I   C   R2  I   C   I
+
+875.
+R   X   H   X   H   X   R2
+R   C   R   C   R2  C   I
+
+876.
+I   X   H   X   H   S   X   R
+R2  C   R   C   R2  I   C   I
+
+877.
+R2  X   H   X   H   R2
+I   C   R2  C   R   I
+
+878.
+R   X   H   H   R2
+I   C   R   R   I
+
+879.
+R2  H   H   R
+R   R   R   I
+
+880.
+X   H   X   H   X
+C   R   C   I   C
+
+881.
+I   X   H   H   S   X
+R2  C   R2  I   I   C
+
+882.
+I   X   H   X   H   X
+R2  C   I   C   R2  C
+
+883.
+R2  X   H   H   X
+R2  C   R   R   C
+
+884.
+R2  H   X   H
+R2  I   C   R
+
+885.
+X   H   H   S
+C   R   I   I
+
+886.
+R   H   H   X   R2
+R2  R2  I   C   I
+
+887.
+R2  X   H   X   H   R2
+R2  C   R2  C   R2  I
+
+888.
+R2  X   H   X   H   X   R
+I   C   R2  C   R2  C   I
+
+889.
+R   X   H   X   H   S   X   R2
+R2  C   R2  C   I   I   C   I
+
+890.
+R   X   H   H   S   X   R2
+I   C   R2  R   I   C   I
+
+891.
+R   X   H   H   X
+R2  C   R2  R2  C
+
+892.
+R2  H   X   H   R2
+I   I   C   R   I
+
+893.
+R   H   X   H   X   R
+I   R2  C   R   C   I
+
+894.
+R   X   H   X   H   S   X
+R   C   R   C   R2  I   C
+
+895.
+R2  X   H   H   X   R2
+R2  C   I   R2  C   I
+
+896.
+R2  X   H   H   S   R
+R2  C   R   I   I   I
+
+897.
+I   X   H   X   H   S   X
+R2  C   R   C   I   I   C
+
+898.
+R2  X   H   X   H   X
+R2  C   R2  C   R   C
+
+899.
+R   X   H   X   H
+R   C   R2  C   R
+
+900.
+I   X   H   H   X
+R2  C   I   R2  C
+
+901.
+R   H   X   H   R2
+I   R2  C   I   I
+
+902.
+R   X   H   X   H   S   X
+I   C   R2  C   R   I   C
+
+903.
+I   X   H   H   S   X   R2
+R2  C   I   R2  I   C   I
+
+904.
+R   X   H   X   H
+R2  C   I   C   R2
+
+905.
+R   X   H   X   H   S   R
+R   C   I   C   I   I   I
+
+906.
+R2  H   X   H   S   X   R2
+R2  R   C   R   I   C   I
+
+907.
+R   X   H   H   X   R2
+I   C   I   R   C   I
+
+908.
+H   X   H   X   R2
+I   C   I   C   I
+
+909.
+R   X   H   H   S   X   R2
+R   C   R   R2  I   C   I
+
+910.
+R   X   H   X   H   X   R2
+R   C   I   C   R   C   I
+
+911.
+R   X   H   H   X   R
+R   C   R2  R2  C   I
+
+912.
+I   H   X   H   X   R
+R2  R   C   I   C   I
+
+913.
+R   X   H   X   H   R
+R   C   R   C   R   I
+
+914.
+R   X   H   X   H   S   X
+R   C   R   C   I   I   C
+
+915.
+R   X   H   X   H   X   R2
+I   C   R   C   I   C   I
+
+916.
+R2  X   H   X   H   X
+R2  C   R2  C   R2  C
+
+917.
+R   X   H   X   H   S   X   R
+R2  C   I   C   R   I   C   I
+
+918.
+R2  X   H   H   X   R2
+R2  C   R2  I   C   I
+
+919.
+X   H   X   H   X
+C   I   C   I   C
+
+920.
+I   H   H   R
+R   I   R   I
+
+921.
+R   X   H   X   H   X
+R2  C   R2  C   R   C
+
+922.
+R   X   H   X   H
+I   C   R   C   R2
+
+923.
+I   X   H   H
+R2  C   R2  I
+
+924.
+I   H   X   H   S   X   R2
+R2  R2  C   I   I   C   I
+
+925.
+X   H   H   S   X
+C   R2  R2  I   C
+
+926.
+X   H   H   R2
+C   R   R2  I
+
+927.
+I   X   H   H   X
+R2  C   R2  I   C
+
+928.
+H   H   S   X   R
+R2  I   I   C   I
+
+929.
+R   X   H   H   S   R2
+R   C   I   I   I   I
+
+930.
+R   H   X   H   R2
+R2  R   C   R2  I
+
+931.
+R2  X   H   X   H   S
+R2  C   I   C   R2  I
+
+932.
+I   X   H   H   S   R
+R2  C   R2  R   I   I
+
+933.
+X   H   H
+C   R   R2
+
+934.
+I   X   H   X   H   S   R2
+R   C   R2  C   R2  I   I
+
+935.
+R2  H   H   S   X
+R   R   R2  I   C
+
+936.
+R   X   H   X   H   X   R2
+R2  C   R   C   R   C   I
+
+937.
+I   X   H   X   H   S   R2
+R   C   R2  C   R   I   I
+
+938.
+I   X   H   H   S   X
+R2  C   I   I   I   C
+
+939.
+R2  X   H   H   X
+I   C   I   I   C
+
+940.
+X   H   H   S   X   R
+C   R   R   I   C   I
+
+941.
+X   H   X   H   S   R
+C   I   C   R2  I   I
+
+942.
+I   H   H   X
+R2  R2  R   C
+
+943.
+R   X   H   X   H   X   R
+R   C   R2  C   R2  C   I
+
+944.
+R   X   H   H   S
+R   C   R   I   I
+
+945.
+R2  X   H   H   R2
+R2  C   I   I   I
+
+946.
+R2  H   X   H   X   R2
+R2  R2  C   I   C   I
+
+947.
+R   X   H   H   X
+I   C   R2  R   C
+
+948.
+R   X   H   X   H   S   X   R2
+R   C   R2  C   R   I   C   I
+
+949.
+R   X   H   H   S   X   R
+R2  C   R2  R2  I   C   I
+
+950.
+I   H   X   H   S   R2
+R2  R   C   R   I   I
+
+951.
+I   X   H   H   X   R2
+R2  C   R   R2  C   I
+
+952.
+H   X   H   S   X
+R   C   R   I   C
+
+953.
+I   X   H   X   H   X
+R   C   I   C   R2  C
+
+954.
+R   H   X   H   S   X
+R   R   C   R   I   C
+
+955.
+R   H   X   H   S   X
+I   R   C   I   I   C
+
+956.
+R   X   H   X   H
+R   C   R2  C   R2
+
+957.
+R   X   H   X   H   R2
+I   C   I   C   R   I
+
+958.
+R2  X   H   X   H   S
+R   C   I   C   R   I
+
+959.
+R2  X   H   X   H   S   X
+R2  C   I   C   R   I   C
+
+960.
+I   H   X   H   X   R
+R2  R2  C   R   C   I
+
+961.
+I   H   X   H   S   X   R2
+R2  R2  C   R   I   C   I
+
+962.
+R   X   H   X   H   S   X
+I   C   R2  C   I   I   C
+
+963.
+R2  X   H   X   H   X   R
+I   C   R   C   R2  C   I
+
+964.
+R   H   X   H   S   R
+I   I   C   R2  I   I
+
+965.
+X   H   X   H   X   R
+C   R   C   I   C   I
+
+966.
+R2  X   H   H   S   X   R
+R2  C   R2  R2  I   C   I
+
+967.
+R2  X   H   H   S   X   R
+I   C   R2  I   I   C   I
+
+968.
+I   X   H   X   H   S   R2
+R2  C   R   C   I   I   I
+
+969.
+R2  X   H   H   R
+I   C   I   R   I
+
+970.
+X   H   H   S
+C   R   R2  I
+
+971.
+R2  X   H   X   H   S   R
+R2  C   I   C   R   I   I
+
+972.
+R   X   H   H   S   X   R2
+R2  C   R   R2  I   C   I
+
+973.
+R2  X   H   X   H   R2
+I   C   I   C   I   I
+
+974.
+R   X   H   X   H   S   X   R
+R   C   R   C   R   I   C   I
+
+975.
+H   X   H   S   X   R2
+I   C   R   I   C   I
+
+976.
+R   X   H   H   R2
+R   C   R   R2  I
+
+977.
+R   X   H   X   H   S   X   R2
+R   C   R   C   I   I   C   I
+
+978.
+R2  H   X   H   R2
+R   R   C   R2  I
+
+979.
+I   H   X   H   S   R
+R   I   C   R2  I   I
+
+980.
+R   H   X   H   S   X   R
+R   R2  C   I   I   C   I
+
+981.
+R   X   H   X   H   X
+R2  C   R   C   R   C
+
+982.
+I   X   H   X   H   S
+R   C   I   C   R2  I
+
+983.
+I   X   H   X   H   S   X
+R2  C   I   C   R2  I   C
+
+984.
+I   X   H   X   H   X   R2
+R   C   R   C   R   C   I
+
+985.
+I   X   H   X   H   S   X   R2
+R2  C   R2  C   R2  I   C   I
+
+986.
+R   H   X   H   X
+I   R   C   I   C
+
+987.
+I   X   H   X   H   X
+R   C   I   C   I   C
+
+988.
+X   H   H   R
+C   R2  R   I
+
+989.
+R   H   X   H   S
+R2  R2  C   I   I
+
+990.
+R2  X   H   H   S   R
+I   C   R2  R   I   I
+
+991.
+I   H   X   H   S   X   R2
+R   R2  C   I   I   C   I
+
+992.
+R2  X   H   X   H   S   R2
+I   C   R2  C   R2  I   I
+
+993.
+R   X   H   H   S   X
+I   C   I   R2  I   C
+
+994.
+R   H   X   H   X   R
+I   I   C   R   C   I
+
+995.
+R2  X   H   X   H   S   X   R
+R   C   R2  C   R   I   C   I
+
+996.
+R2  H   H   S   X
+R   R2  I   I   C
+
+997.
+R   X   H   H   X   R2
+I   C   I   R2  C   I
+
+998.
+I   H   X   H   S   R
+R2  R   C   R   I   I
+
+999.
+R2  X   H   X   H   S
+R2  C   R   C   R2  I
+
+1000.
+X   H   X   H   S   X   R
+C   R2  C   I   I   C   I
+
+1001.
+R   X   H   H   S   X
+I   C   R   R   I   C
+
+1002.
+R2  H   X   H   S   X   R2
+R   R   C   I   I   C   I
+
+1003.
+R2  X   H   H   X   R2
+R   C   R   I   C   I
+
+1004.
+X   H   X   H   S   X
+C   R   C   R   I   C
+
+1005.
+R2  H   H   X   R
+R2  I   R   C   I
+
+1006.
+R2  H   H   X   R2
+R2  R2  R2  C   I
+
+1007.
+R2  X   H   X   H   X   R2
+R2  C   R2  C   I   C   I
+
+1008.
+X   H   X   H   S   X   R2
+C   R2  C   I   I   C   I
+
+1009.
+I   X   H   X   H   X
+R   C   I   C   R   C
+
+1010.
+R2  X   H   H   S   R
+R2  C   R   R2  I   I
+
+1011.
+R   H   X   H   S
+R   R   C   R   I
+
+1012.
+R2  H   X   H   S
+I   I   C   R2  I
+
+1013.
+R2  X   H   X   H   X
+R   C   R2  C   I   C
+
+1014.
+I   H   H   R
+R2  R2  I   I
+
+1015.
+I   H   X   H   R2
+R   R2  C   R2  I
+
+1016.
+H   H   S
+I   R2  I
+
+1017.
+R   H   H   S   X
+R   R2  R2  I   C
+
+1018.
+I   H   H   X   R
+R   I   R   C   I
+
+1019.
+X   H   X   H   X   R2
+C   R   C   I   C   I
+
+1020.
+R2  X   H   X   H   S   R
+I   C   I   C   R   I   I
+
+1021.
+R   X   H   X   H   S   R2
+R2  C   I   C   R   I   I
+
+1022.
+R2  H   H   R2
+R2  R2  I   I
+
+1023.
+R   X   H   H   X
+R   C   I   R   C
+
+1024.
+R   X   H   X   H   R2
+R   C   R   C   I   I
+
+1025.
+R   X   H   X   H
+R2  C   R   C   R
+
+1026.
+I   H   X   H
+R   R   C   R
+
+1027.
+R2  X   H   X   H   R
+R2  C   R2  C   R   I
+
+1028.
+H   X   H   S   X   R
+R   C   R   I   C   I
+
+1029.
+R   H   H   X
+R   R   R2  C
+
+1030.
+R2  X   H   H   X   R
+R2  C   R   R   C   I
+
+1031.
+R   H   H   S   X   R
+R   R   R   I   C   I
+
+1032.
+R2  X   H   X   H   S
+I   C   I   C   R2  I
+
+1033.
+R   H   X   H   X   R2
+I   R   C   R2  C   I
+
+1034.
+I   H   X   H   X   R2
+R2  I   C   I   C   I
+
+1035.
+R2  X   H   H   S   X   R2
+I   C   R2  R   I   C   I
+
+1036.
+H   X   H   X
+R2  C   R   C
+
+1037.
+R2  H   H   S   R2
+R2  I   R   I   I
+
+1038.
+I   X   H   H   X   R
+R2  C   I   I   C   I
+
+1039.
+R2  X   H   H   S   X   R
+R   C   I   R   I   C   I
+
+1040.
+R   H   X   H   S   X   R2
+R   R   C   R2  I   C   I
+
+1041.
+R   X   H   H   S   X
+R2  C   R2  R2  I   C
+
+1042.
+R   X   H   X   H   X
+R   C   R2  C   I   C
+
+1043.
+R   X   H   X   H   X   R
+R2  C   I   C   I   C   I
+
+1044.
+R2  H   H   S   X
+R2  R2  R   I   C
+
+1045.
+H   X   H   S   X
+I   C   R   I   C
+
+1046.
+R   X   H   X   H   X   R2
+I   C   R2  C   I   C   I
+
+1047.
+I   X   H   X   H   R
+R2  C   R2  C   I   I
+
+1048.
+R2  H   X   H   S   R
+I   I   C   R   I   I
+
+1049.
+R2  X   H   X   H   S   X   R
+I   C   I   C   R   I   C   I
+
+1050.
+R2  X   H   X   H   R
+I   C   I   C   R2  I
+
+1051.
+I   X   H   X   H   R
+R   C   R   C   I   I
+
+1052.
+R2  H   X   H   X   R
+R   R   C   R   C   I
+
+1053.
+I   X   H   X   H   R2
+R2  C   R   C   R   I
+
+1054.
+I   X   H   H   X   R2
+R   C   R2  R   C   I
+
+1055.
+R2  H   X   H   X   R
+R   I   C   I   C   I
+
+1056.
+H   X   H   X   R
+R2  C   R2  C   I
+
+1057.
+R   X   H   X   H   X   R
+R   C   R   C   R   C   I
+
+1058.
+R2  H   H   S   X   R2
+I   R2  R   I   C   I
+
+1059.
+I   X   H   H   R
+R2  C   I   R   I
+
+1060.
+R   H   X   H   X   R2
+I   R   C   I   C   I
+
+1061.
+X   H   H   S   R2
+C   R   I   I   I
+
+1062.
+R   X   H   X   H   S   X   R2
+I   C   R2  C   R2  I   C   I
+
+1063.
+R2  H   H   X   R2
+R   R   R   C   I
+
+1064.
+R2  X   H   X   H   X   R2
+R2  C   I   C   I   C   I
+
+1065.
+I   H   H   X   R
+R2  R2  R   C   I
+
+1066.
+R2  X   H   X   H   X   R
+R2  C   R2  C   R   C   I
+
+1067.
+I   X   H   H   X   R
+R2  C   R2  I   C   I
+
+1068.
+R2  X   H   H   X   R
+I   C   I   I   C   I
+
+1069.
+I   X   H   X   H   R2
+R2  C   R   C   I   I
+
+1070.
+I   H   X   H
+R   R2  C   I
+
+1071.
+R   X   H   H   S   X   R2
+R2  C   I   R2  I   C   I
+
+1072.
+R   H   X   H
+I   I   C   R
+
+1073.
+R2  X   H   H   S   X
+R2  C   R   R2  I   C
+
+1074.
+I   X   H   H   X   R
+R2  C   R2  R   C   I
+
+1075.
+I   H   H   R2
+R2  R   I   I
+
+1076.
+R   X   H   H   X   R2
+R   C   R   I   C   I
+
+1077.
+I   X   H   H   S   X   R
+R   C   I   R2  I   C   I
+
+1078.
+R2  X   H   H   X   R2
+I   C   R   R2  C   I
+
+1079.
+X   H   X   H   X
+C   R2  C   I   C
+
+1080.
+R2  X   H   X   H   S   R
+R   C   R2  C   I   I   I
+
+1081.
+R2  X   H   H   X   R2
+R2  C   R2  R   C   I
+
+1082.
+R   X   H   H   S
+R   C   R   R2  I
+
+1083.
+R2  H   H   X
+I   R2  I   C
+
+1084.
+R   H   X   H   S   X   R2
+R2  R2  C   R2  I   C   I
+
+1085.
+R2  X   H   X   H
+R   C   I   C   I
+
+1086.
+I   H   H   X
+R2  R2  R2  C
+
+1087.
+R   H   X   H   S   X   R
+I   I   C   I   I   C   I
+
+1088.
+X   H   H   S   X   R
+C   R2  R2  I   C   I
+
+1089.
+R   X   H   X   H   S   X   R
+R   C   I   C   I   I   C   I
+
+1090.
+R   X   H   X   H   X   R2
+R2  C   R2  C   R   C   I
+
+1091.
+R2  X   H   H   X
+R2  C   I   R   C
+
+1092.
+R   H   X   H   S   X   R
+R2  I   C   I   I   C   I
+
+1093.
+H   X   H   X   R
+I   C   R   C   I
+
+1094.
+H   H   S   R
+R2  R   I   I
+
+1095.
+R2  X   H   H   S   X   R
+I   C   I   I   I   C   I
+
+1096.
+R2  H   H   S   X   R
+R2  R   I   I   C   I
+
+1097.
+I   X   H   H   X
+R   C   R2  R   C
+
+1098.
+R   H   H   X   R2
+I   R2  R2  C   I
+
+1099.
+I   X   H   X   H   S   X   R2
+R2  C   R   C   R   I   C   I
+
+1100.
+X   H   H   X
+C   R2  R2  C
+
+1101.
+I   X   H   X   H   S   R
+R2  C   I   C   R2  I   I
+
+1102.
+X   H   H   S   X   R2
+C   R   R2  I   C   I
+
+1103.
+I   H   X   H   X   R
+R2  R2  C   R2  C   I
+
+1104.
+R   X   H   X   H   S   X   R2
+R   C   I   C   R   I   C   I
+
+1105.
+I   X   H   H   S   R
+R   C   I   I   I   I
+
+1106.
+R2  X   H   H   R2
+I   C   R2  R   I
+
+1107.
+H   H   S   X
+I   I   I   C
+
+1108.
+I   X   H   X   H   S   X
+R   C   I   C   I   I   C
+
+1109.
+R2  X   H   H   X   R2
+I   C   I   R   C   I
+
+1110.
+I   X   H   H
+R   C   R   R2
+
+1111.
+X   H   H   S   X   R
+C   R   I   I   C   I
+
+1112.
+R2  X   H   X   H   X   R2
+R2  C   R2  C   R   C   I
+
+1113.
+R   X   H   X   H   X
+R2  C   I   C   R   C
+
+1114.
+R2  H   X   H   R2
+R   R   C   I   I
+
+1115.
+H   X   H   S   X   R2
+R   C   R2  I   C   I
+
+1116.
+R   H   X   H   S   X   R
+I   R2  C   R   I   C   I
+
+1117.
+R   X   H   X   H   S   X   R
+I   C   I   C   R   I   C   I
+
+1118.
+R   X   H   X   H   S   X   R2
+I   C   I   C   R2  I   C   I
+
+1119.
+R   H   X   H   R
+I   R2  C   R   I
+
+1120.
+R   X   H   X   H   X   R
+I   C   I   C   I   C   I
+
+1121.
+R   H   H   S   X   R2
+R   I   I   I   C   I
+
+1122.
+R2  X   H   H   S   X   R
+R2  C   R   I   I   C   I
+
+1123.
+R   X   H   X   H   R2
+I   C   R   C   I   I
+
+1124.
+R   X   H   H   X
+R2  C   R   R2  C
+
+1125.
+R   H   X   H   S   X   R
+I   I   C   R2  I   C   I
+
+1126.
+I   X   H   X   H   X   R2
+R2  C   R   C   R2  C   I
+
+1127.
+R2  H   H   S   X   R2
+R   I   I   I   C   I
+
+1128.
+R2  X   H   X   H
+I   C   R   C   I
+
+1129.
+R2  X   H   H   X   R
+R   C   I   R2  C   I
+
+1130.
+R2  H   X   H   X   R
+R2  I   C   I   C   I
+
+1131.
+R2  H   X   H   X
+R   I   C   R2  C
+
+1132.
+R   X   H   X   H   X
+R   C   I   C   R   C
+
+1133.
+X   H   H   R
+C   R2  R2  I
+
+1134.
+R2  X   H   X   H
+R2  C   R2  C   R2
+
+1135.
+I   X   H   X   H   S
+R   C   R   C   R   I
+
+1136.
+R   X   H   H
+I   C   I   R2
+
+1137.
+R2  X   H   H   S   R2
+I   C   R2  R2  I   I
+
+1138.
+H   X   H   X   R
+R2  C   I   C   I
+
+1139.
+R   H   X   H   S   R2
+R   R2  C   R   I   I
+
+1140.
+R   X   H   H   X
+R2  C   R2  R   C
+
+1141.
+X   H   X   H   R
+C   R2  C   R   I
+
+1142.
+R   H   X   H   S   X   R
+R   R2  C   R   I   C   I
+
+1143.
+R   X   H   X   H   R2
+R2  C   R2  C   I   I
+
+1144.
+I   X   H   X   H   S   X
+R   C   R2  C   R2  I   C
+
+1145.
+R   X   H   X   H   X   R2
+I   C   I   C   R   C   I
+
+1146.
+R   H   X   H   X   R
+I   R   C   R   C   I
+
+1147.
+R   H   X   H   X   R2
+R   R   C   R2  C   I
+
+1148.
+I   H   H   S   X   R2
+R2  R   R2  I   C   I
+
+1149.
+R2  H   X   H   S
+R2  I   C   R   I
+
+1150.
+H   X   H   X   R
+R   C   I   C   I
+
+1151.
+I   X   H   X   H   S   X
+R   C   R2  C   I   I   C
+
+1152.
+R   H   X   H   S
+R   I   C   R2  I
+
+1153.
+R   H   X   H   X   R
+R2  R   C   R2  C   I
+
+1154.
+R   H   H   S   X
+I   R2  R2  I   C
+
+1155.
+R   X   H   X   H   S   R
+R2  C   R   C   R   I   I
+
+1156.
+R   X   H   X   H   X
+I   C   I   C   R   C
+
+1157.
+I   X   H   X   H   R
+R2  C   I   C   R2  I
+
+1158.
+R2  X   H   H   S   X
+R   C   R2  R   I   C
+
+1159.
+R   H   H   S   X   R
+R2  R   R2  I   C   I
+
+1160.
+I   X   H   H   S   X   R2
+R   C   R   I   I   C   I
+
+1161.
+R   H   X   H   S   X
+R2  R2  C   R2  I   C
+
+1162.
+I   X   H   H   S
+R2  C   R   R2  I
+
+1163.
+I   H   X   H   S   X
+R2  I   C   R2  I   C
+
+1164.
+R   X   H   H   S   X   R2
+R   C   R2  R   I   C   I
+
+1165.
+R   H   X   H   X
+R   R2  C   R2  C
+
+1166.
+R2  H   H   X   R2
+R   R   R2  C   I
+
+1167.
+R   X   H   X   H   X
+I   C   R2  C   I   C
+
+1168.
+R2  H   H   X
+I   R   R   C
+
+1169.
+R2  H   X   H   X   R
+I   R2  C   I   C   I
+
+1170.
+R   H   H   S   R2
+I   I   I   I   I
+
+1171.
+I   X   H   X   H   X   R
+R2  C   R   C   R   C   I
+
+1172.
+R2  X   H   H   X   R
+R   C   R   I   C   I
+
+1173.
+R2  X   H   H   S   X
+R2  C   R   I   I   C
+
+1174.
+I   X   H   H   X
+R2  C   R2  R   C
+
+1175.
+R2  X   H   X   H   S   X
+R   C   R   C   I   I   C
+
+1176.
+R   X   H   H   X   R
+R2  C   R2  R   C   I
+
+1177.
+I   X   H   X   H   S   R
+R   C   R2  C   R   I   I
+
+1178.
+R2  H   X   H   X   R
+R2  R   C   I   C   I
+
+1179.
+R   X   H   H   X
+R   C   R   R   C
+
+1180.
+I   X   H   X   H   X   R
+R   C   R   C   I   C   I
+
+1181.
+I   X   H   X   H   S
+R   C   R2  C   I   I
+
+1182.
+R2  X   H   X   H   X
+I   C   R2  C   I   C
+
+1183.
+I   H   H   S   R2
+R   R2  I   I   I
+
+1184.
+I   X   H   X   H   S   X   R
+R   C   R   C   R2  I   C   I
+
+1185.
+R2  X   H   H   S   X
+I   C   R2  I   I   C
+
+1186.
+H   X   H   X   R2
+R2  C   I   C   I
+
+1187.
+I   H   H   S   X
+R   I   R2  I   C
+
+1188.
+I   X   H   H   X   R
+R   C   R   I   C   I
+
+1189.
+I   X   H   X   H   X   R
+R   C   I   C   R   C   I
+
+1190.
+R   X   H   H   S   R2
+R2  C   R   R2  I   I
+
+1191.
+R2  X   H   H   S   R2
+R   C   R2  R2  I   I
+
+1192.
+R2  X   H   X   H   X   R2
+R2  C   R   C   I   C   I
+
+1193.
+X   H   X   H   S   X   R
+C   I   C   I   I   C   I
+
+1194.
+R2  H   X   H   S   X   R2
+I   R2  C   R2  I   C   I
+
+1195.
+R2  X   H   X   H
+R2  C   R2  C   R
+
+1196.
+R   X   H   X   H
+R   C   R2  C   I
+
+1197.
+R2  X   H   X   H   S   R2
+R2  C   R   C   I   I   I
+
+1198.
+R   H   X   H   S
+R   R2  C   I   I
+
+1199.
+I   H   X   H   X
+R   R2  C   I   C
+
+1200.
+R   H   X   H   S   X   R2
+R   I   C   R   I   C   I
+
+1201.
+R   H   H   X   R2
+I   I   I   C   I
+
+1202.
+R   X   H   H   S   X   R2
+R   C   R2  R2  I   C   I
+
+1203.
+R2  X   H   X   H   S   X   R
+R2  C   R2  C   I   I   C   I
+
+1204.
+H   H   S   X   R2
+R2  I   I   C   I
+
+1205.
+I   H   X   H   S   X
+R2  R2  C   R   I   C
+
+1206.
+I   H   X   H   X   R
+R   I   C   R   C   I
+
+1207.
+I   X   H   X   H   S   X
+R2  C   R   C   R   I   C
+
+1208.
+I   X   H   H   S   X   R
+R2  C   R2  R2  I   C   I
+
+1209.
+R2  X   H   H   R
+R2  C   R   R   I
+
+1210.
+I   X   H   X   H   S   X   R2
+R   C   R2  C   I   I   C   I
+
+1211.
+I   X   H   X   H   S
+R2  C   R   C   R2  I
+
+1212.
+I   H   H   X
+R2  R   I   C
+
+1213.
+H   H   S   X
+R   I   I   C
+
+1214.
+R   X   H   H   R
+R2  C   R2  I   I
+
+1215.
+I   H   H   X   R
+R2  I   R2  C   I
+
+1216.
+R   X   H   H   X   R2
+R2  C   R2  R   C   I
+
+1217.
+R   H   X   H   S   X   R2
+R2  R2  C   R   I   C   I
+
+1218.
+R   X   H   X   H   S   X   R2
+R2  C   R2  C   R2  I   C   I
+
+1219.
+R   H   H   R2
+R   I   R2  I
+
+1220.
+H   X   H   X
+R2  C   I   C
+
+1221.
+X   H   H   S   X
+C   R   R2  I   C
+
+1222.
+R   H   X   H   S   X   R2
+R2  R   C   I   I   C   I
+
+1223.
+R   H   X   H   X   R2
+I   R2  C   R2  C   I
+
+1224.
+R   H   H   S   X   R
+R   R2  R2  I   C   I
+
+1225.
+R2  X   H   H   S   X   R2
+I   C   R2  R2  I   C   I
+
+1226.
+R2  X   H   H   S   R
+I   C   R   I   I   I
+
+1227.
+R   X   H   X   H   X
+R2  C   I   C   I   C
+
+1228.
+R2  X   H   X   H   S   X   R
+R2  C   I   C   I   I   C   I
+
+1229.
+R2  H   X   H   R2
+R2  R2  C   R   I
+
+1230.
+R   X   H   H   R
+R   C   I   R   I
+
+1231.
+R   H   X   H   S   R
+R   I   C   R   I   I
+
+1232.
+I   X   H   X   H   S   R
+R2  C   R   C   R   I   I
+
+1233.
+R   H   H   S   X   R2
+R2  R   I   I   C   I
+
+1234.
+R   X   H   H   X   R2
+R   C   I   R   C   I
+
+1235.
+R   H   X   H   S
+R   R   C   I   I
+
+1236.
+R   H   H
+I   R   I
+
+1237.
+R2  X   H   X   H   S
+R   C   I   C   I   I
+
+1238.
+I   H   X   H   X
+R2  R   C   R2  C
+
+1239.
+H   X   H   X   R
+I   C   R2  C   I
+
+1240.
+I   X   H   H   X
+R   C   R   I   C
+
+1241.
+R2  X   H   H   S   X
+R2  C   I   I   I   C
+
+1242.
+R2  X   H   X   H   X
+R   C   R   C   R2  C
+
+1243.
+R   H   H   X
+I   R2  I   C
+
+1244.
+R2  X   H   H   X
+I   C   R2  R2  C
+
+1245.
+H   H   X   R
+R2  R   C   I
+
+1246.
+X   H   X   H
+C   R   C   R2
+
+1247.
+I   H   X   H   X
+R   R   C   R2  C
+
+1248.
+R2  X   H   X   H   S
+I   C   R2  C   I   I
+
+1249.
+R2  X   H   X   H   S   X   R2
+R   C   I   C   I   I   C   I
+
+1250.
+R   X   H   H   S   X   R
+R   C   R2  R2  I   C   I
+
+1251.
+R2  X   H   H   R2
+R   C   R2  I   I
+
+1252.
+R2  H   X   H   X   R
+R   I   C   R   C   I
+
+1253.
+R2  H   X   H   S
+I   R   C   I   I
+
+1254.
+R   X   H   H   S   X   R2
+R   C   R2  I   I   C   I
+
+1255.
+I   X   H   H   S   X
+R   C   R   R2  I   C
+
+1256.
+R2  H   X   H   S
+R2  R   C   R2  I
+
+1257.
+I   X   H   H   S   X   R
+R   C   R   R2  I   C   I
+
+1258.
+R   X   H   H   S   X   R2
+I   C   R   I   I   C   I
+
+1259.
+R2  X   H   H   S   X   R2
+R   C   R   R2  I   C   I
+
+1260.
+R2  X   H   X   H   S   R2
+I   C   R   C   R2  I   I
+
+1261.
+X   H   X   H   S
+C   R   C   I   I
+
+1262.
+R   X   H   H   X
+I   C   R   I   C
+
+1263.
+I   X   H   X   H   S   X   R2
+R2  C   I   C   R2  I   C   I
+
+1264.
+R   H   X   H   S   X
+I   R2  C   R2  I   C
+
+1265.
+R   X   H   H   X   R2
+R   C   R2  I   C   I
+
+1266.
+R   X   H   X   H   S   X   R
+R   C   R   C   R2  I   C   I
+
+1267.
+R2  X   H   H   X   R
+R   C   R2  R   C   I
+
+1268.
+I   X   H   X   H   R2
+R   C   R2  C   R2  I
+
+1269.
+R   X   H   X   H   R
+R   C   I   C   R2  I
+
+1270.
+R2  H   X   H   S   X   R
+R   R   C   R   I   C   I
+
+1271.
+I   H   X   H   S   R
+R   R2  C   R   I   I
+
+1272.
+I   H   X   H   S   X   R
+R2  I   C   I   I   C   I
+
+1273.
+R   X   H   H   S   X   R
+I   C   R   R2  I   C   I
+
+1274.
+X   H   X   H   S
+C   I   C   I   I
+
+1275.
+R   H   X   H   X
+R2  I   C   I   C
+
+1276.
+X   H   X   H   S   X   R
+C   I   C   R   I   C   I
+
+1277.
+X   H   X   H   X   R2
+C   R   C   R   C   I
+
+1278.
+I   H   X   H   X
+R2  R2  C   R2  C
+
+1279.
+I   X   H   X   H   S   X   R
+R   C   I   C   R   I   C   I
+
+1280.
+R2  X   H   X   H   S   X   R2
+R2  C   R2  C   R2  I   C   I
+
+1281.
+I   H   X   H   S   X   R2
+R   R2  C   R   I   C   I
+
+1282.
+I   X   H   H   R2
+R2  C   R   R2  I
+
+1283.
+I   H   X   H   S   R2
+R2  R2  C   I   I   I
+
+1284.
+I   X   H   X   H
+R   C   R2  C   R
+
+1285.
+I   X   H   H   S   X   R2
+R   C   R   R2  I   C   I
+
+1286.
+R2  X   H   H   S   X   R2
+R2  C   R2  I   I   C   I
+
+1287.
+R   X   H   X   H   S   R2
+R   C   I   C   R2  I   I
+
+1288.
+R2  H   X   H   X   R
+I   I   C   I   C   I
+
+1289.
+R   X   H   X   H   X   R
+I   C   R2  C   R2  C   I
+
+1290.
+R2  X   H   X   H   S
+R   C   I   C   R2  I
+
+1291.
+R2  X   H   X   H   X
+R   C   I   C   R2  C
+
+1292.
+R2  X   H   H   R
+I   C   R   R2  I
+
+1293.
+I   X   H   X   H   S   X
+R2  C   R2  C   R   I   C
+
+1294.
+R   H   H   S
+I   R2  I   I
+
+1295.
+R2  H   X   H   X   R2
+R   R2  C   R2  C   I
+
+1296.
+R   H   X   H   S   X   R2
+I   I   C   R2  I   C   I
+
+1297.
+R2  X   H   H   R
+R   C   R2  R2  I
+
+1298.
+R   H   X   H   R
+R2  R2  C   R   I
+
+1299.
+R   X   H   H   S   X   R2
+R2  C   I   I   I   C   I
+
+1300.
+R2  H   X   H   X   R
+R2  I   C   R   C   I
+
+1301.
+R   X   H   H   R2
+R2  C   I   R   I
+
+1302.
+H   X   H
+R2  C   R
+
+1303.
+R   H   X   H   R2
+R   R   C   R2  I
+
+1304.
+X   H   X   H   S   X
+C   R   C   I   I   C
+
+1305.
+R2  X   H   X   H   S   R
+R   C   I   C   R2  I   I
+
+1306.
+X   H   H   R2
+C   R2  R2  I
+
+1307.
+R2  H   X   H   S   X   R2
+R   R2  C   R2  I   C   I
+
+1308.
+R2  X   H   X   H   X   R
+R   C   I   C   R   C   I
+
+1309.
+R2  X   H   X   H   X   R
+R2  C   R   C   I   C   I
+
+1310.
+R2  X   H   X   H   R2
+R2  C   I   C   R   I
+
+1311.
+R   X   H   X   H   S   R2
+I   C   I   C   R2  I   I
+
+1312.
+R   X   H   X   H   S   R2
+R   C   R   C   R   I   I
+
+1313.
+X   H   X   H   R2
+C   I   C   R   I
+
+1314.
+R2  X   H   X   H   X
+I   C   R2  C   R   C
+
+1315.
+R2  X   H   H   S   R2
+R2  C   R   R   I   I
+
+1316.
+R2  H   H   S   R
+R2  R2  R   I   I
+
+1317.
+H   X   H   R
+R2  C   R2  I
+
+1318.
+I   H   X   H   S   X   R2
+R2  I   C   I   I   C   I
+
+1319.
+R2  H   X   H   X
+I   R   C   R2  C
+
+1320.
+R   H   H   S   X   R2
+R2  R2  R   I   C   I
+
+1321.
+R2  H   H   S   R
+I   I   R2  I   I
+
+1322.
+R2  X   H   X   H   S   R
+I   C   R   C   R2  I   I
+
+1323.
+R2  X   H   H
+R2  C   I   I
+
+1324.
+I   X   H   H   S   R2
+R2  C   R2  R   I   I
+
+1325.
+R2  H   X   H   S   X   R2
+R2  R2  C   R   I   C   I
+
+1326.
+R2  H   H   X   R2
+R   I   R   C   I
+
+1327.
+R2  H   X   H   X   R
+R   I   C   R2  C   I
+
+1328.
+R   X   H   X   H   R
+R2  C   I   C   I   I
+
+1329.
+I   X   H   X   H   S   R
+R   C   R   C   R   I   I
+
+1330.
+I   X   H   X   H   R2
+R   C   R2  C   R   I
+
+1331.
+R   H   X   H   S   R
+R2  R   C   I   I   I
+
+1332.
+R   X   H   X   H   S   X   R
+R2  C   I   C   I   I   C   I
+
+1333.
+R   H   X   H   X   R2
+R2  I   C   R   C   I
+
+1334.
+R2  X   H   X   H
+R2  C   I   C   I
+
+1335.
+X   H   H   S
+C   I   I   I
+
+1336.
+I   X   H   H   S   X   R2
+R   C   R2  R2  I   C   I
+
+1337.
+R2  X   H   X   H   S   R
+I   C   R   C   R   I   I
+
+1338.
+I   H   X   H   X
+R   R   C   R   C
+
+1339.
+R   X   H   X   H   S   X   R
+R   C   I   C   R2  I   C   I
+
+1340.
+R   H   X   H   X   R
+R2  I   C   I   C   I
+
+1341.
+I   H   X   H   X   R
+R   R   C   R2  C   I
+
+1342.
+R2  X   H   X   H   X   R
+I   C   I   C   R2  C   I
+
+1343.
+R   X   H   X   H   R2
+R   C   I   C   R   I
+
+1344.
+I   X   H   X   H   S   X   R
+R   C   R   C   R   I   C   I
+
+1345.
+R2  H   H   X   R2
+R   R2  R2  C   I
+
+1346.
+R2  H   H   S   X
+R2  R   I   I   C
+
+1347.
+X   H   X   H   S   R
+C   R   C   R   I   I
+
+1348.
+X   H   H
+C   R2  R
+
+1349.
+I   X   H   X   H   X
+R2  C   R2  C   R   C
+
+1350.
+I   X   H   H
+R2  C   R2  R2
+
+1351.
+I   X   H   H   S   X   R
+R2  C   R   R2  I   C   I
+
+1352.
+R2  X   H   X   H   R
+R2  C   R   C   R2  I
+
+1353.
+H   X   H   S   X   R
+R   C   I   I   C   I
+
+1354.
+R   X   H   H   X   R
+R2  C   I   I   C   I
+
+1355.
+R2  X   H   H   X
+I   C   R   I   C
+
+1356.
+R   X   H   X   H   S   X
+R2  C   I   C   R2  I   C
+
+1357.
+R   X   H   H   S   X   R2
+R2  C   R   I   I   C   I
+
+1358.
+R2  X   H   H   X
+I   C   R2  I   C
+
+1359.
+I   X   H   X   H   S   R
+R2  C   I   C   I   I   I
+
+1360.
+I   X   H   X   H   S   R2
+R2  C   I   C   R2  I   I
+
+1361.
+R   H   H   X
+R   R2  R2  C
+
+1362.
+R2  X   H   X   H
+I   C   R2  C   I
+
+1363.
+I   X   H   X   H   X   R2
+R   C   R2  C   I   C   I
+
+1364.
+R   X   H   H   R2
+R   C   I   R   I
+
+1365.
+R2  H   H   R2
+R   I   R2  I
+
+1366.
+X   H   X   H   S   R
+C   R2  C   I   I   I
+
+1367.
+R2  X   H   H   S   X   R2
+R   C   R2  R   I   C   I
+
+1368.
+R2  X   H   H   X   R2
+I   C   R   I   C   I
+
+1369.
+R2  H   X   H   R2
+I   I   C   R2  I
+
+1370.
+R2  H   H   X   R2
+I   R   R2  C   I
+
+1371.
+R   X   H   X   H
+R   C   I   C   I
+
+1372.
+H   X   H
+R   C   R
+
+1373.
+R2  X   H   H   X   R
+R   C   R   R   C   I
+
+1374.
+R2  X   H   H   S   X   R
+I   C   R2  R   I   C   I
+
+1375.
+I   X   H   H   X
+R   C   I   R   C
+
+1376.
+R   X   H   H   X
+R   C   R2  I   C
+
+1377.
+R2  X   H   H   S
+R   C   I   I   I
+
+1378.
+R2  X   H   X   H   S
+R   C   R   C   I   I
+
+1379.
+R   X   H   X   H   R
+I   C   I   C   I   I
+
+1380.
+R   X   H   X   H   S   X   R
+R2  C   R2  C   R   I   C   I
+
+1381.
+R   H   X   H   S   R
+R2  I   C   I   I   I
+
+1382.
+R   X   H   H   S
+R2  C   I   I   I
+
+1383.
+R2  X   H   H   S   X
+R2  C   I   R   I   C
+
+1384.
+R   X   H   X   H   S
+I   C   R   C   R   I
+
+1385.
+R   H   X   H   X   R
+R   R2  C   R2  C   I
+
+1386.
+R2  X   H   X   H   R2
+R2  C   R   C   R2  I
+
+1387.
+H   X   H   S   R
+R2  C   R   I   I
+
+1388.
+R   X   H   H   X   R
+I   C   I   I   C   I
+
+1389.
+R   X   H   X   H   X   R2
+R   C   R2  C   R   C   I
+
+1390.
+R   X   H   H   X   R
+I   C   R2  R   C   I
+
+1391.
+R   H   H   S   R
+R2  R   R   I   I
+
+1392.
+I   H   X   H   S   R
+R2  I   C   R2  I   I
+
+1393.
+I   H   X   H   S   X   R
+R   I   C   I   I   C   I
+
+1394.
+X   H   X   H   R
+C   R2  C   R2  I
+
+1395.
+R2  X   H   X   H   S   R2
+R2  C   R   C   R   I   I
+
+1396.
+I   H   X   H   X   R2
+R   R2  C   R   C   I
+
+1397.
+R   H   X   H   S   X
+I   I   C   R   I   C
+
+1398.
+R2  H   H   X   R
+R2  I   R2  C   I
+
+1399.
+R2  H   H   X   R
+R2  R2  R2  C   I
+
+1400.
+R   X   H   X   H   S
+R   C   I   C   I   I
+
+1401.
+I   X   H   X   H   R2
+R2  C   I   C   I   I
+
+1402.
+I   X   H   X   H   S
+R2  C   I   C   R2  I
+
+1403.
+I   H   X   H
+R   R   C   R2
+
+1404.
+R2  X   H   X   H   R2
+R   C   R   C   R2  I
+
+1405.
+I   X   H   H   R2
+R   C   I   I   I
+
+1406.
+I   H   X   H   S   X
+R   I   C   R2  I   C
+
+1407.
+I   X   H   X   H
+R2  C   R   C   R
+
+1408.
+X   H   X   H   S
+C   R   C   R2  I
+
+1409.
+R   H   X   H   S   X   R2
+I   R2  C   R2  I   C   I
+
+1410.
+R2  X   H   X   H   S   R2
+R   C   R2  C   R2  I   I
+
+1411.
+R   H   X   H   S   X   R2
+R2  R   C   R   I   C   I
+
+1412.
+R2  X   H   X   H   S   X
+R   C   R2  C   I   I   C
+
+1413.
+R2  H   H   S   X
+I   I   I   I   C
+
+1414.
+R2  H   X   H   S   X   R2
+I   I   C   I   I   C   I
+
+1415.
+R   X   H   X   H   R
+R   C   R   C   R2  I
+
+1416.
+I   H   X   H   R
+R2  I   C   R2  I
+
+1417.
+I   H   X   H   X   R
+R2  I   C   I   C   I
+
+1418.
+R2  H   X   H   S   X
+I   I   C   I   I   C
+
+1419.
+R   X   H   X   H   R2
+I   C   R   C   R   I
+
+1420.
+R   X   H   H   X   R2
+I   C   R2  I   C   I
+
+1421.
+I   X   H   H   S
+R2  C   R2  I   I
+
+1422.
+R2  X   H   H   S   R
+R   C   I   R   I   I
+
+1423.
+R   H   H   X   R2
+R   R   R   C   I
+
+1424.
+I   X   H   H   X
+R   C   I   R2  C
+
+1425.
+H   X   H   X   R2
+R   C   R   C   I
+
+1426.
+R   H   X   H   X   R
+R2  R   C   I   C   I
+
+1427.
+R   X   H   X   H
+I   C   I   C   R
+
+1428.
+R   X   H   X   H   X   R
+R   C   R2  C   R   C   I
+
+1429.
+R   X   H   X   H   S   R
+R2  C   I   C   I   I   I
+
+1430.
+R2  X   H   X   H   R
+R2  C   I   C   R2  I
+
+1431.
+R   X   H   X   H   S   R2
+R   C   R2  C   R   I   I
+
+1432.
+I   H   H   S   X   R2
+R2  R2  R   I   C   I
+
+1433.
+R2  X   H   H   X   R2
+R   C   R2  I   C   I
+
+1434.
+H   X   H   S   X
+I   C   R2  I   C
+
+1435.
+R2  H   X   H   S   R2
+R   I   C   I   I   I
+
+1436.
+R   X   H   X   H   R2
+I   C   R2  C   R   I
+
+1437.
+R2  X   H   X   H   X
+R2  C   R   C   R   C
+
+1438.
+R   X   H   X   H   S   R
+R   C   R2  C   R   I   I
+
+1439.
+H   H   S   X   R
+R2  R2  I   C   I
+
+1440.
+R2  X   H   X   H   S
+R2  C   I   C   R   I
+
+1441.
+R   H   X   H   S   X   R
+R   R   C   R2  I   C   I
+
+1442.
+R   X   H   H
+I   C   R   R2
+
+1443.
+I   H   X   H   S
+R   I   C   R2  I
+
+1444.
+I   X   H   H   S   X
+R2  C   R   R2  I   C
+
+1445.
+X   H   X   H   S   X
+C   I   C   R   I   C
+
+1446.
+I   H   X   H   X
+R   I   C   R2  C
+
+1447.
+R2  X   H   H   X   R2
+R   C   R2  R   C   I
+
+1448.
+R   X   H   X   H   X   R
+R2  C   R   C   I   C   I
+
+1449.
+I   X   H   H   S   R2
+R2  C   R   I   I   I
+
+1450.
+R2  X   H   H
+R   C   R2  I
+
+1451.
+I   H   X   H
+R2  R2  C   I
+
+1452.
+X   H   X   H
+C   R2  C   R
+
+1453.
+I   X   H   X   H   X   R
+R   C   I   C   R2  C   I
+
+1454.
+R2  X   H   X   H   S   R2
+R2  C   I   C   R   I   I
+
+1455.
+I   X   H   H   S   X   R
+R   C   R2  R   I   C   I
+
+1456.
+R   H   H   S   X
+I   I   I   I   C
+
+1457.
+R   H   X   H   X   R2
+R   I   C   I   C   I
+
+1458.
+R2  H   X   H
+R2  R2  C   I
+
+1459.
+R2  X   H   X   H   S   X   R
+R2  C   I   C   R2  I   C   I
+
+1460.
+R   H   X   H   S   X
+I   R2  C   I   I   C
+
+1461.
+R   X   H   H   S   X
+I   C   I   R   I   C
+
+1462.
+I   X   H   H   X   R
+R   C   R   R   C   I
+
+1463.
+I   H   X   H   X
+R2  R   C   I   C
+
+1464.
+R   H   X   H   R2
+I   R   C   R   I
+
+1465.
+R   H   H   S   R2
+I   R2  R   I   I
+
+1466.
+R2  X   H   X   H   R
+R2  C   I   C   R   I
+
+1467.
+R   H   X   H   X   R
+R   R   C   R   C   I
+
+1468.
+I   X   H   H   S   X   R2
+R2  C   R   R   I   C   I
+
+1469.
+R2  X   H   X   H   X
+R   C   I   C   R   C
+
+1470.
+R2  X   H   H   S   X
+R   C   R   R   I   C
+
+1471.
+R2  H   X   H   S   R
+I   I   C   R2  I   I
+
+1472.
+R2  H   X   H   X
+R   I   C   I   C
+
+1473.
+I   X   H   X   H   S
+R   C   R2  C   R2  I
+
+1474.
+X   H   X   H   S   R2
+C   R   C   I   I   I
+
+1475.
+R   X   H   X   H   S   R
+I   C   R2  C   I   I   I
+
+1476.
+R   H   H   X
+R2  R   I   C
+
+1477.
+R2  H   X   H   S   X   R
+R2  R   C   R   I   C   I
+
+1478.
+R   X   H   H
+R   C   R   R
+
+1479.
+R   X   H   X   H   S   R2
+I   C   R2  C   R2  I   I
+
+1480.
+R2  X   H   X   H   S   R
+I   C   R2  C   I   I   I
+
+1481.
+R2  H   X   H
+R2  R   C   R2
+
+1482.
+I   X   H   X   H   S   R2
+R2  C   I   C   I   I   I
+
+1483.
+R   X   H   X   H   S
+I   C   R   C   R2  I
+
+1484.
+X   H   X   H   S   R
+C   R2  C   R2  I   I
+
+1485.
+R2  X   H   X   H
+R   C   I   C   R2
+
+1486.
+X   H   H   X
+C   R   R2  C
+
+1487.
+I   H   H   R2
+R   R   I   I
+
+1488.
+R2  H   X   H   S   X   R
+R2  R2  C   R   I   C   I
+
+1489.
+R   H   X   H   S   X
+R   R2  C   R   I   C
+
+1490.
+R2  H   X   H   S   X
+R   I   C   R2  I   C
+
+1491.
+R2  X   H   X   H   R
+I   C   R2  C   R2  I
+
+1492.
+R2  H   X   H   S   X   R
+I   R2  C   R   I   C   I
+
+1493.
+R2  H   X   H   S   R
+R   R2  C   R2  I   I
+
+1494.
+X   H   H   X   R
+C   I   R   C   I
+
+1495.
+R2  X   H   H   X
+R2  C   R   R2  C
+
+1496.
+I   X   H   H   X
+R   C   R   R   C
+
+1497.
+R2  H   X   H
+R2  R   C   I
+
+1498.
+R2  H   H
+R   R   I
+
+1499.
+R   X   H   X   H   S   X   R2
+R2  C   I   C   R2  I   C   I
+
+1500.
+R2  H   X   H   X
+R2  I   C   R2  C
+
+1501.
+R2  H   X   H   X   R2
+R2  R   C   I   C   I
+
+1502.
+H   X   H   S   X   R2
+R   C   R   I   C   I
+
+1503.
+I   H   X   H   R2
+R   I   C   R2  I
+
+1504.
+I   X   H   X   H   X   R
+R   C   R2  C   R2  C   I
+
+1505.
+R2  H   X   H   S   X   R
+I   I   C   R   I   C   I
+
+1506.
+R   H   X   H   S   X   R2
+R   R2  C   R2  I   C   I
+
+1507.
+I   X   H   X   H   X   R
+R   C   R   C   R2  C   I
+
+1508.
+I   H   H   S
+R2  R   R2  I
+
+1509.
+R2  X   H   H   S   R2
+R2  C   R   I   I   I
+
+1510.
+R2  X   H   H   S   X
+I   C   R   R   I   C
+
+1511.
+R   X   H   H   S   X   R
+I   C   I   R   I   C   I
+
+1512.
+R   X   H   H   X   R2
+R2  C   R   R2  C   I
+
+1513.
+R2  X   H   X   H
+R2  C   R2  C   I
+
+1514.
+I   X   H   X   H   S   R2
+R   C   R   C   I   I   I
+
+1515.
+I   X   H   X   H
+R2  C   I   C   R2
+
+1516.
+H   X   H   S   R
+I   C   R   I   I
+
+1517.
+I   X   H   X   H   X   R2
+R   C   R2  C   R   C   I
+
+1518.
+R   X   H   H   S   X
+I   C   R   R2  I   C
+
+1519.
+I   X   H   H   X   R2
+R   C   I   I   C   I
+
+1520.
+I   H   H   S   X
+R   I   I   I   C
+
+1521.
+R   X   H   X   H   S   R
+I   C   I   C   R   I   I
+
+1522.
+R   X   H   X   H   S   R2
+I   C   R   C   R2  I   I
+
+1523.
+X   H   X   H   R2
+C   R2  C   I   I
+
+1524.
+R   X   H   H   S
+R2  C   I   R   I
+
+1525.
+X   H   X   H   R2
+C   R   C   R   I
+
+1526.
+R2  X   H   H   X   R
+I   C   R   R2  C   I
+
+1527.
+R   H   H   R
+R2  I   R   I
+
+1528.
+R2  X   H   H   X
+R2  C   R2  I   C
+
+1529.
+I   H   X   H   X   R
+R2  I   C   R2  C   I
+
+1530.
+R2  H   H   S   R
+R   R2  R2  I   I
+
+1531.
+R2  X   H   X   H   S   X   R2
+I   C   R   C   R2  I   C   I
+
+1532.
+H   H   R2
+I   R   I
+
+1533.
+R   X   H   X   H   S   R
+R   C   R2  C   R2  I   I
+
+1534.
+R2  X   H   X   H   R
+I   C   R2  C   I   I
+
+1535.
+R   H   X   H   X
+R2  R   C   R   C
+
+1536.
+R2  H   H   S   X
+R2  R2  R2  I   C
+
+1537.
+R2  X   H   H   X   R2
+I   C   R2  I   C   I
+
+1538.
+R   H   X   H   X   R
+R2  R2  C   R2  C   I
+
+1539.
+R2  H   X   H   S   R
+I   R   C   R   I   I
+
+1540.
+R2  X   H   X   H   S   X   R2
+I   C   R   C   I   I   C   I
+
+1541.
+R2  X   H   H   X
+R2  C   R2  R   C
+
+1542.
+R2  H   X   H   S   X   R2
+I   I   C   R   I   C   I
+
+1543.
+I   H   X   H   S   R
+R   R   C   R2  I   I
+
+1544.
+R2  X   H   H   S   X   R
+R2  C   R   R2  I   C   I
+
+1545.
+H   H   S   X   R2
+R2  R2  I   C   I
+
+1546.
+R2  X   H   X   H   S   X   R2
+R   C   R   C   I   I   C   I
+
+1547.
+R2  X   H   H   X
+R   C   I   R2  C
+
+1548.
+R2  X   H   X   H
+R2  C   R   C   I
+
+1549.
+R2  H   X   H   S   X
+I   I   C   R   I   C
+
+1550.
+I   X   H   X   H   X
+R2  C   R2  C   I   C
+
+1551.
+R2  H   X   H   S   X
+R   R   C   I   I   C
+
+1552.
+R   H   X   H   S   X   R
+R   I   C   R2  I   C   I
+
+1553.
+R   H   H   R2
+R   R2  I   I
+
+1554.
+R   H   H   S
+I   I   R2  I
+
+1555.
+I   X   H   H   S   R
+R2  C   R2  I   I   I
+
+1556.
+I   H   X   H   S
+R2  R2  C   R   I
+
+1557.
+R2  H   H   X   R
+R   R2  R2  C   I
+
+1558.
+I   X   H   H   S   R2
+R   C   I   R2  I   I
+
+1559.
+R2  X   H   X   H   S   X
+R   C   R2  C   R   I   C
+
+1560.
+I   H   X   H   S   X   R2
+R2  I   C   R2  I   C   I
+
+1561.
+R   X   H   H   R2
+R   C   R2  R   I
+
+1562.
+R2  H   X   H   S   X
+I   R2  C   R2  I   C
+
+1563.
+R2  X   H   X   H   R
+R2  C   R   C   R   I
+
+1564.
+R2  H   X   H   X
+R   R2  C   I   C
+
+1565.
+X   H   X   H   S   R2
+C   R2  C   R2  I   I
+
+1566.
+R   H   X   H   X   R
+R   I   C   R2  C   I
+
+1567.
+I   X   H   H   X   R2
+R   C   R   I   C   I
+
+1568.
+R2  X   H   H   S   X   R
+I   C   I   R2  I   C   I
+
+1569.
+R   X   H   X   H   S
+R   C   R   C   I   I
+
+1570.
+R2  H   X   H   S   X   R2
+R   I   C   I   I   C   I
+
+1571.
+I   X   H   H   X   R
+R2  C   I   R2  C   I
+
+1572.
+H   X   H   S   X   R
+I   C   R   I   C   I
+
+1573.
+R   H   X   H   S   X
+R2  I   C   I   I   C
+
+1574.
+I   X   H   X   H   X   R
+R   C   R2  C   I   C   I
+
+1575.
+I   X   H   H   X   R2
+R   C   I   R   C   I
+
+1576.
+R   H   H   S   X   R
+I   I   R   I   C   I
+
+1577.
+R   H   H   S   R
+R2  I   R   I   I
+
+1578.
+R   X   H   X   H   S
+R   C   R   C   R   I
+
+1579.
+R   H   X   H   R2
+R   R   C   I   I
+
+1580.
+R2  H   H   S   R2
+R   R2  R   I   I
+
+1581.
+I   X   H   X   H   S   R2
+R2  C   I   C   R   I   I
+
+1582.
+R   X   H   X   H   R2
+R   C   I   C   I   I
+
+1583.
+R2  H   X   H   X   R2
+R   R   C   I   C   I
+
+1584.
+R2  X   H   H   R
+R2  C   R2  R2  I
+
+1585.
+R   H   X   H   S   X   R2
+I   R2  C   I   I   C   I
+
+1586.
+R2  H   X   H   S   R2
+R2  I   C   I   I   I
+
+1587.
+R   X   H   X   H
+R2  C   R2  C   R2
+
+1588.
+I   X   H   X   H   S   R
+R2  C   I   C   R   I   I
+
+1589.
+I   X   H   X   H   S   R2
+R   C   R2  C   I   I   I
+
+1590.
+R   H   X   H   S   R
+R   I   C   R2  I   I
+
+1591.
+I   X   H   H   S   X   R2
+R   C   I   R2  I   C   I
+
+1592.
+X   H   H   S
+C   R   R   I
+
+1593.
+X   H   X   H   R2
+C   I   C   R2  I
+
+1594.
+R2  X   H   X   H   S   X   R2
+R   C   R   C   R2  I   C   I
+
+1595.
+R2  H   X   H   S   X
+R   I   C   R   I   C
+
+1596.
+I   H   H   X   R2
+R   R2  R2  C   I
+
+1597.
+R   X   H   X   H
+I   C   R   C   I
+
+1598.
+R   X   H   X   H   S   X   R
+I   C   R   C   R   I   C   I
+
+1599.
+R   H   X   H   S   X   R2
+R   I   C   I   I   C   I
+
+1600.
+R   X   H   H   S   R
+R   C   I   R   I   I
+
+1601.
+R2  H   X   H   R
+I   I   C   R2  I
+
+1602.
+X   H   X   H   R2
+C   R2  C   R2  I
+
+1603.
+R2  H   X   H   S   X
+R   R2  C   R   I   C
+
+1604.
+R   X   H   H   X
+R2  C   R   I   C
+
+1605.
+R   X   H   H   S   X   R
+I   C   R2  R   I   C   I
+
+1606.
+H   H   S   X   R
+I   I   I   C   I
+
+1607.
+R2  X   H   H   S   X   R2
+I   C   R   R2  I   C   I
+
+1608.
+X   H   X   H   R
+C   I   C   R   I
+
+1609.
+R   X   H   X   H   S   X   R
+I   C   R   C   I   I   C   I
+
+1610.
+R2  H   H
+R   R2  R
+
+1611.
+H   H   X   R2
+R   R2  C   I
+
+1612.
+R2  H   H   S   X
+R2  R   R   I   C
+
+1613.
+H   H   X   R
+R   I   C   I
+
+1614.
+I   H   X   H   X
+R2  I   C   R2  C
+
+1615.
+R2  H   H   S   X   R2
+I   R2  I   I   C   I
+
+1616.
+I   X   H   X   H   S   X
+R   C   R2  C   R   I   C
+
+1617.
+R2  X   H   H   S   X   R2
+R   C   I   I   I   C   I
+
+1618.
+R2  X   H   H   X
+R   C   R   I   C
+
+1619.
+R2  H   X   H   S   X   R
+R   R2  C   I   I   C   I
+
+1620.
+R2  X   H   H   S   X
+I   C   R2  R2  I   C
+
+1621.
+R2  X   H   X   H   X
+R   C   R2  C   R2  C
+
+1622.
+R2  X   H   X   H   S   X   R
+R2  C   R   C   I   I   C   I
+
+1623.
+R2  X   H   X   H   S   R
+R   C   I   C   I   I   I
+
+1624.
+R2  X   H   H   S   X   R2
+I   C   I   R   I   C   I
+
+1625.
+R2  H   X   H   X   R
+R2  R2  C   R   C   I
+
+1626.
+R   X   H   X   H   R
+R2  C   R2  C   R2  I
+
+1627.
+I   H   X   H   R
+R   R   C   R   I
+
+1628.
+R   H   X   H   S   X   R
+R2  I   C   R   I   C   I
+
+1629.
+R2  H   H   S   X   R2
+R2  R   R2  I   C   I
+
+1630.
+R   X   H   X   H   S   X
+R   C   I   C   I   I   C
+
+1631.
+R   H   X   H   X
+R2  R   C   I   C
+
+1632.
+I   X   H   X   H   X   R
+R2  C   R2  C   I   C   I
+
+1633.
+I   H   X   H   X   R2
+R2  R2  C   R2  C   I
+
+1634.
+I   X   H   H   S   X   R2
+R2  C   I   I   I   C   I
+
+1635.
+R2  X   H   H   X   R
+I   C   I   R   C   I
+
+1636.
+R2  X   H   H   S   X   R2
+R2  C   R   R   I   C   I
+
+1637.
+R   X   H   X   H   R
+I   C   R2  C   R2  I
+
+1638.
+R2  H   H   S   R
+R   R2  R   I   I
+
+1639.
+R   X   H   X   H   X   R
+R2  C   R   C   R   C   I
+
+1640.
+X   H   H   S   X   R
+C   R2  I   I   C   I
+
+1641.
+I   H   H   X   R2
+R   R   R2  C   I
+
+1642.
+R2  X   H   H   X   R
+I   C   R2  R   C   I
+
+1643.
+R2  H   X   H   R2
+I   R2  C   R   I
+
+1644.
+R   X   H   X   H   S   R2
+R2  C   R   C   I   I   I
+
+1645.
+R   H   X   H   X   R
+I   R2  C   I   C   I
+
+1646.
+I   X   H   X   H   S   R
+R   C   R   C   R2  I   I
+
+1647.
+R   H   X   H   X
+R   R2  C   I   C
+
+1648.
+R   H   X   H   X
+R   I   C   R   C
+
+1649.
+R   X   H   X   H   S
+R2  C   R2  C   R   I
+
+1650.
+R2  X   H   X   H   X   R2
+I   C   R2  C   R2  C   I
+
+1651.
+I   X   H   H   S   R2
+R2  C   R   R2  I   I
+
+1652.
+R   H   H   X   R
+R   I   R   C   I
+
+1653.
+R2  X   H   H   S   X
+I   C   R   I   I   C
+
+1654.
+I   H   X   H   X   R2
+R2  I   C   R2  C   I
+
+1655.
+R2  H   X   H   X   R2
+I   I   C   R2  C   I
+
+1656.
+I   X   H   X   H   X
+R2  C   R   C   I   C
+
+1657.
+R2  H   X   H   X   R2
+R   I   C   I   C   I
+
+1658.
+I   X   H   H   X   R
+R   C   I   I   C   I
+
+1659.
+R   H   X   H   S
+I   I   C   R   I
+
+1660.
+R   H   X   H   X
+R2  R   C   R2  C
+
+1661.
+I   X   H   H   X   R2
+R2  C   I   I   C   I
+
+1662.
+I   H   H   S   R
+R   I   I   I   I
+
+1663.
+R   H   X   H   X   R
+I   I   C   I   C   I
+
+1664.
+R2  H   H
+R2  R   I
+
+1665.
+I   H   X   H   S   X
+R2  R   C   R2  I   C
+
+1666.
+I   X   H   X   H   S
+R2  C   R   C   R   I
+
+1667.
+I   X   H   H   S   R
+R2  C   R   R2  I   I
+
+1668.
+X   H   X   H   R
+C   R   C   I   I
+
+1669.
+H   X   H   S   X   R
+R2  C   R2  I   C   I
+
+1670.
+R2  X   H   X   H   S   R2
+I   C   R2  C   I   I   I
+
+1671.
+R2  X   H   H   R2
+I   C   R   I   I
+
+1672.
+R   X   H   X   H   S   X
+R2  C   R2  C   R   I   C
+
+1673.
+R   H   X   H   X   R2
+R2  R   C   I   C   I
+
+1674.
+R   X   H   H   S   X
+R   C   R2  I   I   C
+
+1675.
+I   X   H   H
+R2  C   R   R2
+
+1676.
+R   H   X   H   S   X   R2
+R   R2  C   R   I   C   I
+
+1677.
+H   X   H   S
+R   C   R   I
+
+1678.
+R   H   H   S   X   R
+R2  R   R   I   C   I
+
+1679.
+R   H   X   H   S   X
+I   R   C   R2  I   C
+
+1680.
+R   H   X   H   X   R
+R2  R   C   R   C   I
+
+1681.
+R   X   H   H   X   R
+I   C   R2  I   C   I
+
+1682.
+R2  X   H   X   H   S   R
+R   C   R   C   I   I   I
+
+1683.
+I   X   H   H
+R   C   R2  I
+
+1684.
+R   X   H   X   H   S
+R   C   I   C   R2  I
+
+1685.
+R   X   H   H   S
+R   C   R2  I   I
+
+1686.
+R2  H   H   X
+R   R2  R2  C
+
+1687.
+I   H   X   H   S   X   R
+R2  R   C   I   I   C   I
+
+1688.
+R2  X   H   H   X   R
+R2  C   I   I   C   I
+
+1689.
+R   X   H   X   H   R2
+R2  C   I   C   R2  I
+
+1690.
+R   H   X   H   S   R
+I   R   C   R2  I   I
+
+1691.
+R2  X   H   H   S   R
+R2  C   R2  R   I   I
+
+1692.
+R   X   H   H   X   R
+R   C   R2  R   C   I
+
+1693.
+H   X   H   X
+R   C   R2  C
+
+1694.
+I   X   H   H   R2
+R2  C   R2  R   I
+
+1695.
+R2  X   H   X   H   X
+R2  C   R2  C   I   C
+
+1696.
+R2  H   H   S   X   R
+R   R2  R2  I   C   I
+
+1697.
+R   H   X   H   S
+R   I   C   R   I
+
+1698.
+R   H   X   H   R2
+R   I   C   I   I
+
+1699.
+I   X   H   H   X   R
+R   C   I   R   C   I
+
+1700.
+R2  X   H   H   R2
+R2  C   R2  I   I
+
+1701.
+R   X   H   H   X
+R   C   R2  R2  C
+
+1702.
+R   H   X   H   X
+R2  I   C   R2  C
+
+1703.
+R2  X   H   X   H   S   X
+R   C   R   C   R   I   C
+
+1704.
+R   X   H   H   S
+R   C   R2  R2  I
+
+1705.
+R2  H   X   H   X   R2
+R2  R2  C   R2  C   I
+
+1706.
+R2  H   H   S   X   R
+I   I   R   I   C   I
+
+1707.
+R2  X   H   H   X   R
+R2  C   I   R   C   I
+
+1708.
+I   X   H   X   H   X   R
+R   C   R2  C   R   C   I
+
+1709.
+H   X   H   R
+R2  C   I   I
+
+1710.
+X   H   X   H   S   X   R
+C   I   C   R2  I   C   I
+
+1711.
+R2  H   X   H   S   X
+I   R   C   I   I   C
+
+1712.
+R2  H   X   H   X   R2
+R2  R2  C   R   C   I
+
+1713.
+R   H   X   H   X   R2
+I   R2  C   R   C   I
+
+1714.
+R   X   H   H   S   X
+R2  C   I   I   I   C
+
+1715.
+R2  X   H   X   H   S   R2
+R2  C   R   C   R2  I   I
+
+1716.
+X   H   H   S   X
+C   R2  I   I   C
+
+1717.
+R2  H   X   H   X
+I   R   C   I   C
+
+1718.
+R   H   X   H   S
+I   R2  C   I   I
+
+1719.
+X   H   H   S   X
+C   R   I   I   C
+
+1720.
+R2  H   H
+I   I   R
+
+1721.
+R   X   H   X   H   R
+I   C   R   C   I   I
+
+1722.
+I   X   H   H   X
+R   C   I   I   C
+
+1723.
+I   H   X   H   S
+R   I   C   I   I
+
+1724.
+R   X   H   X   H   R2
+R2  C   R2  C   R   I
+
+1725.
+R   H   X   H   R
+R   I   C   R2  I
+
+1726.
+I   X   H   H   X   R
+R2  C   R2  R2  C   I
+
+1727.
+R   X   H   X   H   X   R
+I   C   R   C   R2  C   I
+
+1728.
+I   H   H   X
+R   I   R   C
+
+1729.
+R   H   X   H   S   R
+R   R2  C   I   I   I
+
+1730.
+R2  X   H   H   S   X   R2
+R2  C   I   R   I   C   I
+
+1731.
+X   H   H   X
+C   I   I   C
+
+1732.
+I   X   H   X   H   X
+R   C   R   C   R2  C
+
+1733.
+R2  H   H
+I   I   I
+
+1734.
+R   X   H   H   X
+R2  C   R2  I   C
+
+1735.
+R   X   H   X   H   S   X
+I   C   R   C   I   I   C
+
+1736.
+R   X   H   X   H
+R   C   R   C   R2
+
+1737.
+R   X   H   H   X   R
+R2  C   R2  I   C   I
+
+1738.
+R   H   X   H   S   R2
+R2  I   C   R2  I   I
+
+1739.
+I   X   H   H   R
+R   C   R2  R   I
+
+1740.
+R2  H   X   H   S   R2
+I   R   C   I   I   I
+
+1741.
+R   X   H   X   H   X   R2
+R   C   R2  C   I   C   I
+
+1742.
+R2  X   H   H   X   R2
+I   C   I   R2  C   I
+
+1743.
+I   H   X   H   S   X
+R   R2  C   R2  I   C
+
+1744.
+R2  H   H   S
+I   R2  R2  I
+
+1745.
+R   X   H   H
+R2  C   R   I
+
+1746.
+R   H   X   H   X   R
+R2  I   C   R2  C   I
+
+1747.
+I   H   H   R
+R   R2  I   I
+
+1748.
+I   X   H   X   H   S   R
+R   C   R2  C   I   I   I
+
+1749.
+I   X   H   X   H   S   X   R
+R   C   I   C   I   I   C   I
+
+1750.
+H   X   H   X   R
+R2  C   R   C   I
+
+1751.
+X   H   X   H   S   R2
+C   I   C   R   I   I
+
+1752.
+R   X   H   X   H
+I   C   I   C   R2
+
+1753.
+R   X   H   X   H   S   R2
+I   C   I   C   I   I   I
+
+1754.
+R2  X   H   X   H   S   X   R
+R2  C   R   C   R   I   C   I
+
+1755.
+R   H   H   S   X   R2
+R2  R2  I   I   C   I
+
+1756.
+R2  H   X   H   R
+R2  I   C   R2  I
+
+1757.
+X   H   X   H   S   R
+C   R   C   I   I   I
+
+1758.
+I   H   X   H   S   X   R
+R2  I   C   R   I   C   I
+
+1759.
+I   H   H   X   R2
+R   R   I   C   I
+
+1760.
+X   H   X   H   X   R2
+C   R2  C   R2  C   I
+
+1761.
+R   X   H   H   S
+I   C   R2  R   I
+
+1762.
+I   H   H   S   R2
+R   R2  R   I   I
+
+1763.
+I   H   X   H   S   X   R
+R   R   C   R2  I   C   I
+
+1764.
+R2  X   H   H   S   X   R2
+R   C   R   R   I   C   I
+
+1765.
+R2  X   H   X   H   S
+R2  C   I   C   I   I
+
+1766.
+R   X   H   H   X   R2
+R   C   R2  R   C   I
+
+1767.
+R   H   X   H   X   R2
+R2  R   C   R   C   I
+
+1768.
+X   H   H   S
+C   R2  I   I
+
+1769.
+I   H   X   H   S   X
+R   R2  C   I   I   C
+
+1770.
+H   X   H   S   X   R2
+R   C   I   I   C   I
+
+1771.
+R2  H   X   H   S   X   R
+I   R2  C   I   I   C   I
+
+1772.
+R   H   X   H   S   X
+R2  R   C   R   I   C
+
+1773.
+R   X   H   H   X   R
+R   C   I   R2  C   I
+
+1774.
+R   H   X   H   R2
+I   R2  C   R2  I
+
+1775.
+R   H   H   R
+R   I   R2  I
+
+1776.
+H   X   H   S   X   R
+R2  C   I   I   C   I
+
+1777.
+I   H   X   H   S
+R2  R   C   R   I
+
+1778.
+R   H   H
+R   I   I
+
+1779.
+I   X   H   H   S   R
+R   C   R2  I   I   I
+
+1780.
+R2  X   H   X   H   S   R
+R2  C   I   C   R2  I   I
+
+1781.
+I   H   H   X   R
+R   R   R2  C   I
+
+1782.
+R   H   X   H   R2
+I   I   C   I   I
+
+1783.
+R   X   H   H   S   X   R
+R   C   I   I   I   C   I
+
+1784.
+I   X   H   H   X
+R2  C   I   I   C
+
+1785.
+R2  X   H   X   H   X   R2
+R   C   R   C   I   C   I
+
+1786.
+R   H   X   H   X
+R   I   C   R2  C
+
+1787.
+R2  X   H   H   S   X   R
+R   C   I   R2  I   C   I
+
+1788.
+I   H   X   H   R
+R   R2  C   I   I
+
+1789.
+R   H   X   H   X   R2
+I   R2  C   I   C   I
+
+1790.
+X   H   H   X   R2
+C   R   I   C   I
+
+1791.
+R   X   H   X   H   R
+I   C   I   C   R   I
+
+1792.
+R2  X   H   H
+I   C   R   R
+
+1793.
+I   H   H   X
+R2  R   R2  C
+
+1794.
+R2  H   X   H   X   R2
+I   I   C   R   C   I
+
+1795.
+R   X   H   X   H   R
+R2  C   R   C   I   I
+
+1796.
+R2  H   X   H   S   X
+I   R   C   R2  I   C
+
+1797.
+R2  H   X   H   R
+R   R   C   R2  I
+
+1798.
+R2  H   H   S   R
+R2  R   R2  I   I
+
+1799.
+I   X   H   H   X   R2
+R   C   R2  R2  C   I
+
+1800.
+X   H   X   H   R2
+C   I   C   I   I
+
+1801.
+R2  X   H   X   H   S   R
+R2  C   R2  C   R   I   I
+
+1802.
+I   H   X   H   X
+R2  R2  C   I   C
+
+1803.
+R   X   H   H   R
+R   C   R   R2  I
+
+1804.
+R2  H   X   H   S   X
+R   R   C   R   I   C
+
+1805.
+R   H   H   R2
+I   R   R2  I
+
+1806.
+X   H   H   X   R
+C   I   I   C   I
+
+1807.
+R2  X   H   H   S   X   R2
+I   C   R   I   I   C   I
+
+1808.
+R   X   H   H   X   R2
+R2  C   I   I   C   I
+
+1809.
+R2  H   X   H   X
+R2  R   C   R2  C
+
+1810.
+H   X   H   S
+I   C   R2  I
+
+1811.
+R2  H   X   H   S
+R2  R   C   I   I
+
+1812.
+X   H   H   S   X   R
+C   I   R   I   C   I
+
+1813.
+I   H   X   H   S   X   R
+R2  I   C   R2  I   C   I
+
+1814.
+R   H   H   X   R
+R   R   R   C   I
+
+1815.
+R   X   H   H   S   X   R
+I   C   I   R2  I   C   I
+
+1816.
+I   X   H   X   H
+R   C   R2  C   R2
+
+1817.
+R   X   H   X   H   X   R2
+I   C   I   C   R2  C   I
+
+1818.
+I   H   X   H   X
+R   R2  C   R   C
+
+1819.
+R2  X   H   X   H   R2
+I   C   I   C   R   I
+
+1820.
+I   X   H   H   S   X   R
+R   C   I   I   I   C   I
+
+1821.
+R2  H   X   H   X   R
+I   R   C   I   C   I
+
+1822.
+R   X   H   H   S   X   R2
+R   C   I   I   I   C   I
+
+1823.
+R   H   X   H   S
+R   R2  C   R2  I
+
+1824.
+I   X   H   X   H   R
+R   C   R2  C   R2  I
+
+1825.
+R2  H   X   H   S
+I   R   C   R2  I
+
+1826.
+R2  X   H   H   X   R
+R   C   I   I   C   I
+
+1827.
+R   X   H   H   S   R
+I   C   R   R2  I   I
+
+1828.
+R   H   H   S   X
+I   I   R2  I   C
+
+1829.
+I   H   H
+R2  R   R
+
+1830.
+I   H   H   R2
+R2  R   R2  I
+
+1831.
+I   X   H   H   S   X   R
+R   C   R   I   I   C   I
+
+1832.
+X   H   X   H   X
+C   I   C   R2  C
+
+1833.
+R   X   H   H   R
+R   C   R2  R   I
+
+1834.
+I   H   X   H   X   R
+R2  R2  C   I   C   I
+
+1835.
+R2  X   H   X   H   S   X   R
+I   C   I   C   I   I   C   I
+
+1836.
+R2  X   H   X   H   S   X   R
+I   C   R   C   I   I   C   I
+
+1837.
+R2  X   H   H   S   X   R2
+R2  C   R2  R2  I   C   I
+
+1838.
+R   X   H   H   S   R2
+R   C   R2  I   I   I
+
+1839.
+R   H   H   S   X
+R2  R2  R2  I   C
+
+1840.
+R2  X   H   H   X   R2
+R2  C   R   R   C   I
+
+1841.
+R   X   H   X   H
+I   C   I   C   I
+
+1842.
+I   X   H   X   H   S   R2
+R2  C   R   C   R2  I   I
+
+1843.
+I   H   H   X
+R   R2  I   C
+
+1844.
+R   H   H   S   X   R2
+R2  R   R2  I   C   I
+
+1845.
+I   H   H   X   R2
+R2  I   I   C   I
+
+1846.
+R   X   H   X   H   S   R2
+R   C   R2  C   I   I   I
+
+1847.
+R2  H   X   H   S   X
+I   R2  C   R   I   C
+
+1848.
+R   X   H   H   X   R2
+I   C   R   I   C   I
+
+1849.
+I   H   X   H   R2
+R   R   C   R2  I
+
+1850.
+I   H   X   H   X   R
+R   R2  C   R2  C   I
+
+1851.
+R2  H   H   S   X   R
+I   I   R2  I   C   I
+
+1852.
+I   X   H   H   S
+R   C   I   I   I
+
+1853.
+R   X   H   H   X   R2
+R2  C   R2  R2  C   I
+
+1854.
+R2  H   X   H   R
+R   I   C   R   I
+
+1855.
+R   H   X   H   R
+I   R   C   I   I
+
+1856.
+R2  X   H   X   H   S   R
+R2  C   I   C   I   I   I
+
+1857.
+R2  X   H   H   X
+R   C   R   R   C
+
+1858.
+R   X   H   H   S   X   R
+I   C   R   I   I   C   I
+
+1859.
+R   X   H   H   X   R2
+I   C   R2  R   C   I
+
+1860.
+I   H   X   H   S   R2
+R   R   C   R2  I   I
+
+1861.
+R   X   H   H   S   R
+R   C   R   I   I   I
+
+1862.
+R   X   H   H   S   X
+R   C   I   R2  I   C
+
+1863.
+R2  H   X   H   S   R2
+R2  R   C   I   I   I
+
+1864.
+R2  X   H   H   S
+R2  C   R2  R2  I
+
+1865.
+I   X   H   H   S   X   R
+R2  C   R   I   I   C   I
+
+1866.
+I   X   H   H   X
+R2  C   R   R   C
+
+1867.
+I   X   H   X   H   R
+R   C   R2  C   R   I
+
+1868.
+I   H   X   H
+R2  R2  C   R
+
+1869.
+R   H   X   H   S   X   R
+I   R2  C   I   I   C   I
+
+1870.
+R2  X   H   X   H   R
+R2  C   R   C   I   I
+
+1871.
+R2  X   H   X   H   S
+I   C   R2  C   R2  I
+
+1872.
+R2  H   H   S   R
+R   R   R   I   I
+
+1873.
+R   H   X   H   R
+I   R   C   R   I
+
+1874.
+R2  H   H   X   R2
+R   I   I   C   I
+
+1875.
+R2  H   X   H   X   R2
+R   R2  C   R   C   I
+
+1876.
+R2  X   H   H   X   R2
+I   C   R   R   C   I
+
+1877.
+R   X   H   X   H   R2
+R2  C   I   C   I   I
+
+1878.
+R   X   H   H   S   X   R
+R   C   R   R   I   C   I
+
+1879.
+R2  H   X   H   X   R
+I   R2  C   R   C   I
+
+1880.
+R   H   X   H   S   R2
+I   R2  C   I   I   I
+
+1881.
+R   X   H   X   H   S
+I   C   R2  C   R   I
+
+1882.
+I   X   H   H
+R2  C   R   R
+
+1883.
+R2  X   H   X   H   X   R
+I   C   I   C   R   C   I
+
+1884.
+R   H   X   H   S   R
+R2  I   C   R2  I   I
+
+1885.
+R   X   H   X   H
+R2  C   R2  C   I
+
+1886.
+R2  H   H   S   R
+I   R2  I   I   I
+
+1887.
+R2  H   X   H   S   X
+R   I   C   I   I   C
+
+1888.
+R   H   H   X   R
+I   I   I   C   I
+
+1889.
+R   H   X   H   X   R2
+R   R   C   I   C   I
+
+1890.
+R2  X   H   H   S   R2
+R   C   I   R   I   I
+
+1891.
+R   H   X   H   S   X   R
+I   I   C   R   I   C   I
+
+1892.
+H   X   H   S   X
+R   C   I   I   C
+
+1893.
+R2  X   H   H   S   X
+I   C   R   R2  I   C
+
+1894.
+R2  X   H   X   H   R
+I   C   R2  C   R   I
+
+1895.
+R   H   X   H   S   X   R2
+R   I   C   R2  I   C   I
+
+1896.
+H   X   H   X
+I   C   R   C
+
+1897.
+X   H   H   S   R
+C   R2  R   I   I
+
+1898.
+R   H   H   X   R2
+R   R2  I   C   I
+
+1899.
+R2  X   H   H   R2
+I   C   R2  I   I
+
+1900.
+R   X   H   H   R2
+R2  C   R   R2  I
+
+1901.
+I   X   H   H   X
+R2  C   R   I   C
+
+1902.
+R2  X   H   X   H   R2
+R   C   I   C   R   I
+
+1903.
+R   H   X   H   S   X   R
+R2  R   C   R2  I   C   I
+
+1904.
+I   H   X   H   X   R2
+R2  R   C   I   C   I
+
+1905.
+R   X   H   H   S   R2
+R2  C   I   I   I   I
+
+1906.
+R2  X   H   H   S   X   R
+I   C   I   R   I   C   I
+
+1907.
+R   X   H   H   S   X
+R   C   R   R2  I   C
+
+1908.
+H   H   X   R2
+R2  I   C   I
+
+1909.
+R2  X   H   X   H   X   R2
+R   C   I   C   R   C   I
+
+1910.
+R2  H   X   H   R2
+R2  R   C   I   I
+
+1911.
+R2  X   H   H
+I   C   R2  R
+
+1912.
+R2  X   H   X   H   X   R2
+I   C   I   C   R   C   I
+
+1913.
+R   X   H   H   X
+R   C   I   R2  C
+
+1914.
+R2  X   H   X   H
+R   C   R   C   I
+
+1915.
+R2  X   H   X   H   S   R
+R2  C   R   C   I   I   I
+
+1916.
+R2  X   H   H   R
+I   C   R2  I   I
+
+1917.
+R2  H   H   S   X   R
+R   I   I   I   C   I
+
+1918.
+R   H   H   X   R2
+R   R2  R   C   I
+
+1919.
+R   X   H   H   S
+R   C   R2  R   I
+
+1920.
+R2  H   H   X
+I   I   I   C
+
+1921.
+R2  X   H   H   X
+R   C   R2  I   C
+
+1922.
+X   H   H   R2
+C   R   I   I
+
+1923.
+R2  X   H   H   R2
+R2  C   R2  R   I
+
+1924.
+R2  X   H   X   H   R2
+R   C   R2  C   I   I
+
+1925.
+R   H   H   R2
+I   R2  R2  I
+
+1926.
+I   X   H   H   S   R
+R   C   I   R   I   I
+
+1927.
+R   X   H   H   S   R
+R   C   I   I   I   I
+
+1928.
+R   X   H   X   H
+R   C   I   C   R2
+
+1929.
+I   X   H   H   S   X   R2
+R   C   R   R   I   C   I
+
+1930.
+R2  H   H
+R2  I   I
+
+1931.
+I   H   X   H   S
+R   R2  C   I   I
+
+1932.
+I   X   H   X   H   R2
+R2  C   I   C   R2  I
+
+1933.
+R   H   X   H
+R2  I   C   R
+
+1934.
+R   H   X   H   S   X
+R2  R2  C   R   I   C
+
+1935.
+I   X   H   X   H   R2
+R2  C   I   C   R   I
+
+1936.
+R2  H   X   H   X   R
+R   R   C   I   C   I
+
+1937.
+R2  X   H   X   H   X   R
+R2  C   R   C   R2  C   I
+
+1938.
+R   X   H   X   H   X   R
+R2  C   R2  C   R   C   I
+
+1939.
+R   X   H   X   H   S   X
+R   C   I   C   R2  I   C
+
+1940.
+R   X   H   H   X   R2
+R2  C   R2  I   C   I
+
+1941.
+R2  X   H   X   H   R
+I   C   R   C   R   I
+
+1942.
+I   H   X   H   R2
+R   I   C   R   I
+
+1943.
+I   H   X   H   X   R2
+R   R   C   R   C   I
+
+1944.
+R2  H   H   R2
+R2  R2  R2  I
+
+1945.
+R2  H   X   H   S   X   R2
+R2  I   C   R2  I   C   I
+
+1946.
+R2  H   H   X   R
+R   R   I   C   I
+
+1947.
+R   X   H   X   H   X   R
+I   C   I   C   R2  C   I
+
+1948.
+R2  X   H   H   S
+R   C   R   I   I
+
+1949.
+R   X   H   X   H   S   X
+R2  C   I   C   R   I   C
+
+1950.
+R2  H   X   H   S   X
+R2  R2  C   R   I   C
+
+1951.
+R2  H   X   H   S   X   R2
+R   R2  C   R   I   C   I
+
+1952.
+R   H   X   H   X
+I   I   C   R   C
+
+1953.
+R2  H   X   H   S   X   R
+I   R   C   R2  I   C   I
+
+1954.
+R2  X   H   X   H   S   X   R
+R2  C   R   C   R2  I   C   I
+
+1955.
+R   X   H   X   H   S   R
+R2  C   R   C   I   I   I
+
+1956.
+R2  X   H   H   S   X   R2
+I   C   R   R   I   C   I
+
+1957.
+I   H   X   H   X   R2
+R   I   C   I   C   I
+
+1958.
+X   H   X   H
+C   R2  C   R2
+
+1959.
+R2  X   H   X   H   S
+R2  C   R2  C   R   I
+
+1960.
+R2  X   H   X   H   R2
+I   C   R   C   R   I
+
+1961.
+R   H   X   H   R2
+R2  R2  C   I   I
+
+1962.
+R2  H   X   H   S
+R2  R2  C   R   I
+
+1963.
+R   H   X   H   R2
+R2  I   C   I   I
+
+1964.
+R   X   H   X   H   S   R
+I   C   I   C   I   I   I
+
+1965.
+I   X   H   H   R
+R2  C   R2  I   I
+
+1966.
+R2  X   H   H   S   X
+R2  C   R2  R2  I   C
+
+1967.
+R   X   H   X   H   R
+R   C   R2  C   R   I
+
+1968.
+R   X   H   H   X
+I   C   R   R   C
+
+1969.
+I   X   H   X   H   X
+R2  C   R2  C   R2  C
+
+1970.
+H   X   H   S   X   R
+I   C   I   I   C   I
+
+1971.
+R   X   H   X   H   S   R2
+R2  C   I   C   I   I   I
+
+1972.
+X   H   H
+C   R   R
+
+1973.
+R   X   H   X   H   S   R2
+R   C   R   C   R2  I   I
+
+1974.
+R   H   X   H   X
+R   R   C   I   C
+
+1975.
+R2  X   H   X   H   S   R
+R   C   I   C   R   I   I
+
+1976.
+R   H   X   H   R
+R2  I   C   I   I
+
+1977.
+H   H   X   R2
+R2  R2  C   I
+
+1978.
+R   H   X   H   S   R
+I   R2  C   I   I   I
+
+1979.
+R2  H   X   H   X
+R2  R2  C   I   C
+
+1980.
+X   H   X   H
+C   I   C   R2
+
+1981.
+I   H   X   H   X
+R2  R2  C   R   C
+
+1982.
+R   X   H   X   H   S   R2
+R   C   R2  C   R2  I   I
+
+1983.
+R   H   X   H   X   R
+I   R2  C   R2  C   I
+
+1984.
+I   X   H   H   X
+R   C   R2  I   C
+
+1985.
+X   H   H   S   X   R
+C   I   R2  I   C   I
+
+1986.
+X   H   H   X   R
+C   R   R2  C   I
+
+1987.
+I   X   H   H   X   R2
+R2  C   R2  I   C   I
+
+1988.
+R   X   H   X   H   S   X   R
+R2  C   I   C   R2  I   C   I
+
+1989.
+R   H   X   H   S   X   R2
+I   R2  C   R   I   C   I
+
+1990.
+R2  X   H   X   H   S   R2
+I   C   R   C   I   I   I
+
+1991.
+R   X   H   H   X
+I   C   I   I   C
+
+1992.
+I   H   X   H   S   X
+R   I   C   I   I   C
+
+1993.
+R   H   X   H   S   X
+R   R2  C   I   I   C
+
+1994.
+R   H   X   H   X   R2
+I   I   C   R   C   I
+
+1995.
+R   X   H   X   H
+R   C   I   C   R
+
+1996.
+R2  H   H
+I   R2  R2
+
+1997.
+X   H   H   X   R2
+C   I   I   C   I
+
+1998.
+R2  H   X   H
+R   I   C   R
+
+1999.
+I   X   H   H
+R2  C   I   I
+
+2000.
+I   H   X   H   S   R
+R2  I   C   I   I   I
+
+2001.
+R   H   X   H   X   R2
+I   R   C   R   C   I
+
+2002.
+R   H   X   H   S   X
+R   R   C   I   I   C
+
+2003.
+R   H   H   R2
+I   R2  I   I
+
+2004.
+R2  X   H   H   X   R2
+R   C   I   I   C   I
+
+2005.
+R2  X   H   H   S   X   R2
+R   C   I   R2  I   C   I
+
+2006.
+R   X   H   X   H   R2
+I   C   R   C   R2  I
+
+2007.
+I   H   X   H   X   R2
+R   I   C   R   C   I
+
+2008.
+R2  X   H   H   R2
+I   C   I   R   I
+
+2009.
+I   X   H   H   S   X   R
+R2  C   R2  R   I   C   I
+
+2010.
+I   X   H   H   X   R
+R   C   I   R2  C   I
+
+2011.
+R2  X   H   H   S   X   R
+I   C   R   R   I   C   I
+
+2012.
+R   H   H   X   R
+R2  R   R2  C   I
+
+2013.
+R2  X   H   X   H   S   R
+I   C   R2  C   R   I   I
+
+2014.
+I   X   H   H   S
+R2  C   I   R   I
+
+2015.
+R   X   H   H   S   X   R
+I   C   R2  I   I   C   I
+
+2016.
+R   H   X   H
+R   R   C   R2
+
+2017.
+R   X   H   H   S   R2
+R2  C   R2  I   I   I
+
+2018.
+I   H   X   H   R
+R   I   C   I   I
+
+2019.
+I   X   H   X   H   S   X   R2
+R   C   R   C   R2  I   C   I
+
+2020.
+R   X   H   H   S   R
+R2  C   R   R   I   I
+
+2021.
+I   H   X   H
+R2  R   C   R2
+
+2022.
+I   X   H   H   S   R
+R   C   R2  R   I   I
+
+2023.
+R   H   X   H   S   R
+R   I   C   I   I   I
+
+2024.
+R   X   H   H
+R   C   I   R
+
+2025.
+R   X   H   H   S   X   R
+R   C   R   I   I   C   I
+
+2026.
+I   H   X   H   S   X   R2
+R   I   C   I   I   C   I
+
+2027.
+R   X   H   X   H   R2
+R   C   R2  C   R   I
+
+2028.
+R   H   H   X
+R   R   R   C
+
+2029.
+R   H   X   H   R2
+R2  R2  C   R   I
+
+2030.
+R2  X   H   H   S
+R2  C   I   I   I
+
+2031.
+R2  H   X   H   X
+I   I   C   I   C
+
+2032.
+H   H   S   X
+R2  R   I   C
+
+2033.
+R   X   H   X   H   X   R2
+I   C   R2  C   R2  C   I
+
+2034.
+R   H   H   S   R
+R   R   R   I   I
+
+2035.
+R   X   H   X   H   R
+R2  C   R2  C   R   I
+
+2036.
+R2  X   H   H   R2
+I   C   R   R   I
+
+2037.
+R2  X   H   X   H   R
+R2  C   R2  C   R2  I
+
+2038.
+R   X   H   H   R
+R2  C   R   I   I
+
+2039.
+I   H   X   H
+R   R2  C   R2
+
+2040.
+R   H   X   H   X   R2
+R   I   C   R   C   I
+
+2041.
+H   X   H
+I   C   R2
+
+2042.
+R2  H   X   H   R2
+I   R   C   R2  I
+
+2043.
+R2  H   X   H   S   R2
+R2  I   C   R2  I   I
+
+2044.
+R2  H   X   H
+R   I   C   I
+
+2045.
+R2  X   H   H   R
+I   C   R   R   I
+
+2046.
+R2  X   H   X   H   S   R
+I   C   R   C   I   I   I
+
+2047.
+R2  X   H   X   H   X
+I   C   I   C   R2  C
+
+2048.
+R   H   H   S   X   R2
+I   R   R   I   C   I
+
+2049.
+R2  X   H   H   X
+I   C   R   R2  C
+
+2050.
+I   X   H   H   S   X
+R   C   R   R   I   C
+
+2051.
+R   X   H   X   H   S   X   R2
+R2  C   R   C   I   I   C   I
+
+2052.
+R2  X   H   H   R2
+R   C   R2  R2  I
+
+2053.
+I   X   H   H   S   X
+R   C   I   R2  I   C
+
+2054.
+R2  X   H   X   H   R2
+R2  C   I   C   R2  I
+
+2055.
+R   H   H   S   X   R
+R2  I   R   I   C   I
+
+2056.
+I   X   H   H   R2
+R   C   R   R2  I
+
+2057.
+R   X   H   X   H   R
+R2  C   R   C   R   I
+
+2058.
+R2  H   X   H   S   X   R
+R2  R2  C   I   I   C   I
+
+2059.
+R   H   X   H
+R2  R   C   I
+
+2060.
+R   H   X   H
+I   R2  C   I
+
+2061.
+I   X   H   H   X   R2
+R   C   R   R   C   I
+
+2062.
+R2  X   H   H   S   X
+R2  C   I   R2  I   C
+
+2063.
+R   X   H   H   S   X   R2
+R   C   R   R   I   C   I
+
+2064.
+R2  H   X   H   S   R2
+I   I   C   R   I   I
+
+2065.
+R2  X   H   H
+R   C   R2  R
+
+2066.
+H   H   X   R2
+I   R   C   I
+
+2067.
+R   H   X   H   X   R2
+I   I   C   I   C   I
+
+2068.
+R2  H   X   H
+R2  I   C   R2
+
+2069.
+R   X   H   H   S   X   R2
+I   C   I   I   I   C   I
+
+2070.
+I   H   X   H   S   X
+R   R2  C   R   I   C
+
+2071.
+I   H   X   H   S
+R2  I   C   I   I
+
+2072.
+H   X   H   S
+R2  C   I   I
+
+2073.
+R2  H   H   S   R
+I   R   R2  I   I
+
+2074.
+I   X   H   H   R
+R2  C   R2  R2  I
+
+2075.
+R2  H   H   X
+R2  R   R2  C
+
+2076.
+I   H   X   H   S   X   R2
+R2  R   C   I   I   C   I
+
+2077.
+R2  H   X   H   R2
+I   R   C   R   I
+
+2078.
+R   H   X   H   S   R2
+R   I   C   R   I   I
+
+2079.
+R   H   H   S
+I   I   R   I
+
+2080.
+R2  X   H   H   R2
+R2  C   R   I   I
+
+2081.
+R2  H   H   R
+I   I   I   I
+
+2082.
+R   X   H   X   H   S   R2
+I   C   R   C   I   I   I
+
+2083.
+X   H   X   H   R
+C   R2  C   I   I
+
+2084.
+R2  H   X   H   S   X   R2
+R2  R2  C   R2  I   C   I
+
+2085.
+I   X   H   X   H   S
+R   C   R   C   I   I
+
+2086.
+I   H   X   H   X   R2
+R2  I   C   R   C   I
+
+2087.
+I   X   H   H   R
+R   C   R   R   I
+
+2088.
+R2  X   H   H   S   X
+I   C   R2  R   I   C
+
+2089.
+I   X   H   H   X   R2
+R2  C   I   R   C   I
+
+2090.
+R2  X   H   X   H   S   R2
+I   C   R   C   R   I   I
+
+2091.
+X   H   H
+C   I   R2
+
+2092.
+I   H   X   H
+R2  I   C   I
+
+2093.
+R   X   H   H   X   R
+R   C   I   R   C   I
+
+2094.
+R2  X   H   X   H
+I   C   I   C   R
+
+2095.
+I   X   H   X   H   R2
+R   C   R   C   R2  I
+
+2096.
+R   X   H   H   X   R2
+I   C   R2  R2  C   I
+
+2097.
+R2  X   H   H   S
+R2  C   R   I   I
+
+2098.
+R2  X   H   H   S   X   R2
+R2  C   I   R2  I   C   I
+
+2099.
+H   H   S   X   R2
+I   I   I   C   I
+
+2100.
+I   H   H   S   X   R
+R2  I   R   I   C   I
+
+2101.
+I   H   H   X
+R   R   R2  C
+
+2102.
+R   H   X   H   R
+R   R2  C   I   I
+
+2103.
+R2  H   H   S   X   R2
+R   I   R   I   C   I
+
+2104.
+R2  H   X   H   S   X   R
+I   R2  C   R2  I   C   I
+
+2105.
+R2  H   X   H   X
+I   R2  C   R   C
+
+2106.
+R2  X   H   X   H   S
+R   C   R   C   R2  I
+
+2107.
+R   X   H   H   S   X   R
+R   C   R2  R   I   C   I
+
+2108.
+H   X   H   S   X   R
+I   C   R2  I   C   I
+
+2109.
+R   X   H   X   H   S   X   R2
+R2  C   I   C   R   I   C   I
+
+2110.
+R2  X   H   X   H   S   R2
+R   C   R2  C   I   I   I
+
+2111.
+R2  X   H   X   H   R2
+R2  C   R   C   R   I
+
+2112.
+I   X   H   X   H   S
+R2  C   I   C   I   I
+
+2113.
+X   H   X   H   S   X   R2
+C   R2  C   R   I   C   I
+
+2114.
+R   H   H   S   X
+R   R   I   I   C
+
+2115.
+R   H   X   H   X   R
+R   R2  C   I   C   I
+
+2116.
+R   X   H   H   X   R2
+R   C   I   R2  C   I
+
+2117.
+R   X   H   H   S   X
+I   C   R2  R2  I   C
+
+2118.
+R2  H   H   S   X
+I   R2  I   I   C
+
+2119.
+H   X   H
+R2  C   R2
+
+2120.
+R2  X   H   X   H   S
+I   C   R   C   I   I
+
+2121.
+R   H   X   H   S   R2
+I   I   C   I   I   I
+
+2122.
+R   H   X   H   S
+R2  I   C   R   I
+
+2123.
+X   H   X   H   S   R
+C   I   C   I   I   I
+
+2124.
+R2  X   H   X   H   R
+R2  C   R2  C   I   I
+
+2125.
+I   X   H   H
+R2  C   R   I
+
+2126.
+I   X   H   X   H
+R2  C   I   C   I
+
+2127.
+R2  H   H   S
+I   R2  R   I
+
+2128.
+X   H   H   S
+C   R2  R   I
+
+2129.
+R2  H   H   X   R2
+I   I   R2  C   I
+
+2130.
+R   X   H   H   X   R
+I   C   I   R   C   I
+
+2131.
+R   X   H   X   H   R
+R2  C   R   C   R2  I
+
+2132.
+R   X   H   H
+I   C   R2  I
+
+2133.
+R   X   H   H   X   R2
+R   C   R   R2  C   I
+
+2134.
+R   X   H   X   H
+R2  C   R   C   I
+
+2135.
+R   X   H   H   S   X
+R   C   R   I   I   C
+
+2136.
+R   H   X   H
+R2  R2  C   I
+
+2137.
+X   H   X   H   X   R2
+C   I   C   R2  C   I
+
+2138.
+R   H   X   H
+R   R2  C   I
+
+2139.
+R2  H   X   H   S
+I   I   C   R   I
+
+2140.
+R2  H   H   S   X   R2
+R2  R2  I   I   C   I
+
+2141.
+R2  X   H   X   H   X   R
+R2  C   I   C   R   C   I
+
+2142.
+R2  X   H   X   H   R2
+R2  C   I   C   I   I
+
+2143.
+R2  H   H   X
+I   R   I   C
+
+2144.
+I   X   H   H   S   X   R2
+R   C   R2  R   I   C   I
+
+2145.
+R2  X   H   X   H   S   R2
+I   C   I   C   R2  I   I
+
+2146.
+I   H   H   X
+R2  R2  I   C
+
+2147.
+I   H   H   X   R
+R   I   R2  C   I
+
+2148.
+R   H   X   H   S   X   R2
+R2  R   C   R2  I   C   I
+
+2149.
+R2  X   H   H   S   X
+R2  C   R   R   I   C
+
+2150.
+R   H   X   H   S   R2
+R2  R   C   I   I   I
+
+2151.
+I   H   H   S   X   R2
+R   R   R   I   C   I
+
+2152.
+H   H   S   X   R2
+I   R   I   C   I
+
+2153.
+R   X   H   H
+R   C   R2  I
+
+2154.
+I   X   H   H
+R   C   I   I
+
+2155.
+X   H   H   X   R
+C   R   R   C   I
+
+2156.
+R2  H   H   X   R
+R   R2  I   C   I
+
+2157.
+I   H   X   H   S   X
+R2  R   C   R   I   C
+
+2158.
+R   H   X   H   S   R2
+R   I   C   R2  I   I
+
+2159.
+I   H   X   H   S   R2
+R2  I   C   I   I   I
+
+2160.
+R2  H   H   X
+R   R2  I   C
+
+2161.
+R   H   X   H   X   R2
+I   I   C   R2  C   I
+
+2162.
+R   H   X   H
+R   R   C   I
+
+2163.
+X   H   X   H   R
+C   R   C   R2  I
+
+2164.
+X   H   H   X
+C   R2  R   C
+
+2165.
+R   X   H   H   X   R
+R   C   R   R   C   I
+
+2166.
+R   H   X   H   S
+I   R2  C   R   I
+
+2167.
+R2  X   H   X   H   R
+I   C   R   C   I   I
+
+2168.
+R2  X   H   H   S   X   R
+I   C   R   R2  I   C   I
+
+2169.
+R   X   H   H   S   X   R
+R2  C   I   R   I   C   I
+
+2170.
+R   H   H   X
+R2  R   R   C
+
+2171.
+R2  H   H   X   R2
+R   I   R2  C   I
+
+2172.
+I   H   X   H   R2
+R2  R   C   R2  I
+
+2173.
+R   H   H   S   X
+R2  R   R   I   C
+
+2174.
+I   H   X   H   S   X   R2
+R   R   C   R2  I   C   I
+
+2175.
+I   H   X   H   S   X
+R2  R2  C   R2  I   C
+
+2176.
+I   X   H   H   S   X
+R   C   R2  R2  I   C
+
+2177.
+R   X   H   X   H   R
+I   C   I   C   R2  I
+
+2178.
+R2  H   H   X   R
+R2  R2  I   C   I
+
+2179.
+R   X   H   X   H   S
+R   C   R2  C   R   I
+
+2180.
+R   X   H   H   R
+I   C   R2  R2  I
+
+2181.
+R   H   X   H   S   R2
+R2  I   C   I   I   I
+
+2182.
+I   H   H   S   X   R
+R   I   R   I   C   I
+
+2183.
+R   H   X   H   S
+R2  R   C   R2  I
+
+2184.
+R2  X   H   H   S
+R   C   I   R2  I
+
+2185.
+R   X   H   X   H   S   X   R
+R2  C   R   C   I   I   C   I
+
+2186.
+I   X   H   H   R
+R   C   I   R2  I
+
+2187.
+X   H   H   S   R2
+C   I   R   I   I
+
+2188.
+H   X   H   X   R2
+I   C   R   C   I
+
+2189.
+R2  H   X   H   X   R
+R   R2  C   R2  C   I
+
+2190.
+R2  H   X   H   R
+R   I   C   R2  I
+
+2191.
+R2  H   H   S   X   R2
+R2  I   R   I   C   I
+
+2192.
+R   H   X   H   S   R
+I   R   C   I   I   I
+
+2193.
+R2  H   H   S   X   R2
+R   R   I   I   C   I
+
+2194.
+I   X   H   H   X   R2
+R2  C   R   R   C   I
+
+2195.
+I   H   X   H   X   R
+R2  R   C   R2  C   I
+
+2196.
+I   H   X   H   S   X   R
+R   I   C   R2  I   C   I
+
+2197.
+R   X   H   H   X   R
+R2  C   R   R2  C   I
+
+2198.
+H   H   S   X   R
+I   R   I   C   I
+
+2199.
+R   X   H   X   H   R2
+I   C   R2  C   R2  I
+
+2200.
+H   X   H   S
+R2  C   R2  I
+
+2201.
+R   H   X   H   X   R2
+R   R   C   R   C   I
+
+2202.
+R   H   X   H   R
+R   R   C   R   I
+
+2203.
+R   H   H   S   R
+I   R   R   I   I
+
+2204.
+R2  H   X   H   S   R
+I   I   C   I   I   I
+
+2205.
+R   H   H   S   R
+I   R   I   I   I
+
+2206.
+R2  H   X   H   X   R2
+R   I   C   R   C   I
+
+2207.
+R2  H   X   H   S
+I   I   C   I   I
+
+2208.
+R   H   X   H   S   X   R2
+R   R   C   I   I   C   I
+
+2209.
+R   H   H   S   X
+R   R2  R   I   C
+
+2210.
+R   H   X   H   S   X
+R2  I   C   R2  I   C
+
+2211.
+I   H   X   H   S   R2
+R2  I   C   R2  I   I
+
+2212.
+R2  H   H   S   X   R
+I   R   R   I   C   I
+
+2213.
+R2  X   H   X   H   X   R2
+I   C   I   C   R2  C   I
+
+2214.
+R2  H   H
+I   R2  I
+
+2215.
+H   H   S   X   R2
+I   R2  I   C   I
+
+2216.
+R2  H   X   H
+I   R   C   R2
+
+2217.
+R2  X   H   H   S   X   R
+R2  C   I   R2  I   C   I
+
+2218.
+R2  X   H   H   S   X
+I   C   I   R2  I   C
+
+2219.
+R2  X   H   H   S   R
+R   C   R   R   I   I
+
+2220.
+R   H   H   X   R2
+R2  R   R2  C   I
+
+2221.
+R2  H   X   H   S   X
+I   R2  C   I   I   C
+
+2222.
+R   X   H   H
+I   C   I   R
+
+2223.
+I   X   H   H   S
+R   C   R2  R   I
+
+2224.
+X   H   X   H   S   R
+C   R   C   R2  I   I
+
+2225.
+R2  H   X   H   X   R2
+I   R2  C   R   C   I
+
+2226.
+R2  H   X   H   S   X   R2
+R2  I   C   R   I   C   I
+
+2227.
+R2  X   H   H   S   R2
+R2  C   R2  R   I   I
+
+2228.
+R2  X   H   X   H   S   R2
+R2  C   R2  C   I   I   I
+
+2229.
+R2  H   X   H   S   R
+R2  R   C   R2  I   I
+
+2230.
+R   H   X   H
+R2  I   C   R2
+
+2231.
+R   X   H   H   S   X
+R   C   I   I   I   C
+
+2232.
+I   X   H   H   S   X
+R2  C   I   R   I   C
+
+2233.
+R   X   H   H   R
+R   C   R   R   I
+
+2234.
+R2  H   X   H   X   R
+I   I   C   R   C   I
+
+2235.
+R2  X   H   X   H   S
+R   C   R2  C   I   I
+
+2236.
+R2  H   X   H   S   X
+R2  R   C   R   I   C
+
+2237.
+R2  X   H   H   S   X
+R   C   R   I   I   C
+
+2238.
+R2  H   X   H   X   R2
+I   R2  C   R2  C   I
+
+2239.
+R   H   X   H   R
+R   I   C   I   I
+
+2240.
+R   X   H   H   S   R2
+R   C   I   R2  I   I
+
+2241.
+R   X   H   H
+R   C   R2  R
+
+2242.
+R2  H   X   H   R
+I   I   C   I   I
+
+2243.
+H   X   H   X
+I   C   R2  C
+
+2244.
+R   X   H   X   H   S
+R   C   I   C   R   I
+
+2245.
+R2  X   H   X   H   S   X   R
+R2  C   R2  C   R2  I   C   I
+
+2246.
+R2  X   H   H   S   R
+I   C   R2  R2  I   I
+
+2247.
+R2  H   X   H   S   X   R
+R2  R   C   I   I   C   I
+
+2248.
+I   H   X   H   S   X
+R   I   C   R   I   C
+
+2249.
+I   H   X   H   X
+R   I   C   I   C
+
+2250.
+R2  X   H   H   R2
+R2  C   I   R   I
+
+2251.
+I   H   X   H   X   R2
+R   R2  C   R2  C   I
+
+2252.
+H   H   S   X   R
+I   R2  I   C   I
+
+2253.
+R2  H   X   H   S
+R   R   C   R2  I
+
+2254.
+I   H   X   H   S
+R   R   C   R2  I
+
+2255.
+R   H   X   H   R2
+R2  I   C   R   I
+
+2256.
+H   X   H
+I   C   R
+
+2257.
+R2  H   X   H   S   X   R
+R   R   C   I   I   C   I
+
+2258.
+R2  H   X   H   S   X   R2
+R   I   C   R   I   C   I
+
+2259.
+I   H   X   H   X
+R   R   C   I   C
+
+2260.
+X   H   H   X   R2
+C   R2  R   C   I
+
+2261.
+R2  X   H   X   H   S   R2
+R   C   R   C   R2  I   I
+
+2262.
+R2  H   H   S
+I   I   R   I
+
+2263.
+R   X   H   H   S
+I   C   I   R   I
+
+2264.
+R2  H   X   H   S   X   R2
+I   R2  C   R   I   C   I
+
+2265.
+I   H   X   H   X   R2
+R   R   C   R2  C   I
+
+2266.
+R2  X   H   X   H   R
+I   C   R   C   R2  I
+
+2267.
+I   H   X   H   R
+R2  I   C   R   I
+
+2268.
+R   H   X   H   X   R
+R   I   C   I   C   I
+
+2269.
+R   X   H   H
+I   C   R   R
+
+2270.
+I   H   H   S   X   R2
+R2  I   R2  I   C   I
+
+2271.
+R2  H   H   S   X   R2
+R   R2  I   I   C   I
+
+2272.
+R2  H   X   H   R2
+R   R2  C   R2  I
+
+2273.
+R2  H   H   X
+I   R   R2  C
+
+2274.
+R2  X   H   X   H   X   R
+R2  C   R2  C   I   C   I
+
+2275.
+R   X   H   X   H
+R   C   R   C   I
+
+2276.
+R2  H   H   R
+R2  R   R   I
+
+2277.
+R   X   H   X   H   S
+R2  C   R   C   I   I
+
+2278.
+R2  X   H   H   S   X   R2
+R2  C   I   I   I   C   I
+
+2279.
+R   X   H   X   H   X   R2
+I   C   I   C   I   C   I
+
+2280.
+R2  H   X   H   S   X
+I   R   C   R   I   C
+
+2281.
+I   X   H   X   H   R2
+R2  C   R2  C   I   I
+
+2282.
+I   H   X   H   R
+R2  R2  C   R   I
+
+2283.
+H   H   S   X
+R2  I   I   C
+
+2284.
+R   H   X   H   S   X   R2
+I   I   C   I   I   C   I
+
+2285.
+R2  H   H   S   X
+R2  R2  I   I   C
+
+2286.
+R2  X   H   X   H   S   X   R2
+I   C   I   C   R2  I   C   I
+
+2287.
+R   H   H   S   X
+I   R2  I   I   C
+
+2288.
+R2  X   H   H
+R2  C   R   R2
+
+2289.
+R2  H   X   H   X
+R   R   C   I   C
+
+2290.
+R   X   H   X   H
+R2  C   R2  C   R
+
+2291.
+I   H   H   S   X   R2
+R2  R2  I   I   C   I
+
+2292.
+R2  H   H   X   R
+R   I   R2  C   I
+
+2293.
+R2  X   H   H   S   X   R
+R   C   R   R2  I   C   I
+
+2294.
+R2  X   H   X   H   S
+R   C   R   C   R   I
+
+2295.
+R   H   H   S   X   R
+R2  R   I   I   C   I
+
+2296.
+I   H   H   S   X   R2
+R2  R   I   I   C   I
+
+2297.
+R2  H   H   S   X   R
+R2  R   R   I   C   I
+
+2298.
+R2  X   H   H   S   X   R2
+I   C   I   I   I   C   I
+
+2299.
+R2  X   H   H   R2
+R   C   I   R   I
+
+2300.
+R2  X   H   H   X   R
+I   C   R   I   C   I
+
+2301.
+R2  X   H   X   H   R
+R   C   R2  C   R   I
+
+2302.
+R2  H   H   X
+R2  R   R   C
+
+2303.
+R2  X   H   H   X   R2
+I   C   R2  R   C   I
+
+2304.
+R   X   H   H   S   X
+R   C   R2  R2  I   C
+
+2305.
+R2  X   H   H   S
+I   C   I   R   I
+
+2306.
+X   H   X   H   S   X   R
+C   R2  C   R   I   C   I
+
+2307.
+I   X   H   X   H   R2
+R2  C   R   C   R2  I
+
+2308.
+R   H   X   H   S   X
+R   R2  C   R2  I   C
+
+2309.
+R2  H   H   X   R2
+I   R2  R2  C   I
+
+2310.
+R2  H   X   H   R2
+R2  R2  C   R2  I
+
+2311.
+R2  H   H   X
+I   R2  R2  C
+
+2312.
+R2  X   H   H   S   R
+R   C   R2  R2  I   I
+
+2313.
+I   H   H   X   R
+R   R2  R2  C   I
+
+2314.
+R   X   H   H   R
+R2  C   I   R   I
+
+2315.
+R   H   H   S   X
+R2  I   I   I   C
+
+2316.
+I   H   X   H   S   R
+R2  I   C   R   I   I
+
+2317.
+R2  H   X   H   S   R
+R2  I   C   R2  I   I
+
+2318.
+R2  X   H   H
+R   C   I   I
+
+2319.
+R   X   H   H   X   R2
+R   C   R2  R2  C   I
+
+2320.
+R2  H   H   X
+R   I   R   C
+
+2321.
+R   X   H   H   S   R
+R   C   R   R2  I   I
+
+2322.
+R2  X   H   H   X   R
+R   C   I   R   C   I
+
+2323.
+H   H   S   X
+R2  R2  I   C
+
+2324.
+R2  H   X   H   S   X   R
+R   R2  C   R2  I   C   I
+
+2325.
+R2  H   X   H   S   X
+R2  R2  C   R2  I   C
+
+2326.
+I   H   X   H   S   X
+R   R   C   R   I   C
+
+2327.
+I   X   H   X   H
+R2  C   I   C   R
+
+2328.
+I   X   H   X   H   R
+R   C   R   C   R   I
+
+2329.
+R2  H   H   S   X   R
+R2  I   I   I   C   I
+
+2330.
+R   X   H   H   S   X
+R   C   R2  R   I   C
+
+2331.
+R2  H   X   H   S   X   R
+I   R   C   R   I   C   I
+
+2332.
+R2  H   X   H   X   R2
+I   R   C   I   C   I
+
+2333.
+R2  H   X   H   X
+R   R2  C   R2  C
+
+2334.
+I   X   H   H   S
+R   C   I   R   I
+
+2335.
+I   X   H   X   H   S   R2
+R   C   I   C   R   I   I
+
+2336.
+R   X   H   H   X   R
+I   C   R   I   C   I
+
+2337.
+I   H   X   H
+R   R2  C   R
+
+2338.
+R2  H   H   S   X
+I   R   R   I   C
+
+2339.
+R2  X   H   H   S   R2
+R   C   I   I   I   I
+
+2340.
+R2  H   X   H   R2
+I   R2  C   I   I
+
+2341.
+R2  H   X   H   S   X
+R   R2  C   R2  I   C
+
+2342.
+I   X   H   H   S   R
+R   C   R2  R2  I   I
+
+2343.
+R   H   X   H   S   X
+R2  R2  C   I   I   C
+
+2344.
+R   X   H   X   H   S   R2
+R2  C   R2  C   I   I   I
+
+2345.
+R   H   H   X   R
+R   R2  I   C   I
+
+2346.
+R   X   H   X   H   S   R2
+R2  C   R   C   R2  I   I
+
+2347.
+I   X   H   H
+R   C   I   R2
+
+2348.
+I   H   X   H   S   X   R2
+R2  R   C   R2  I   C   I
+
+2349.
+I   H   X   H   S   R
+R   I   C   I   I   I
+
+2350.
+X   H   H   S   R
+C   R2  R2  I   I
+
+2351.
+H   X   H   S   X   R
+R   C   R2  I   C   I
+
+2352.
+R   X   H   X   H   S
+I   C   I   C   I   I
+
+2353.
+H   X   H   R
+I   C   R   I
+
+2354.
+R2  H   X   H   X   R
+R2  I   C   R2  C   I
+
+2355.
+R   H   X   H   S
+I   R2  C   R2  I
+
+2356.
+R2  X   H   X   H   R2
+R2  C   R2  C   I   I
+
+2357.
+R2  H   H   X   R
+R2  R   I   C   I
+
+2358.
+R2  H   X   H
+R2  R2  C   R
+
+2359.
+R   H   H   S   R2
+R   R   R2  I   I
+
+2360.
+R2  H   X   H   S   R2
+R   I   C   R   I   I
+
+2361.
+R2  X   H   X   H   S
+R   C   R2  C   R2  I
+
+2362.
+R   H   H   X
+R2  R   R2  C
+
+2363.
+I   H   H   X
+R   I   I   C
+
+2364.
+R2  H   H   X
+R2  I   R2  C
+
+2365.
+I   H   H   S
+R   I   R   I
+
+2366.
+X   H   H   X   R2
+C   R2  I   C   I
+
+2367.
+R2  H   H   X   R2
+I   R2  I   C   I
+
+2368.
+R   X   H   H   R2
+R   C   R2  I   I
+
+2369.
+R   X   H   X   H   S   X
+R2  C   R2  C   R2  I   C
+
+2370.
+I   H   X   H   X   R2
+R2  R2  C   R   C   I
+
+2371.
+R   X   H   X   H   S   R
+I   C   R   C   R2  I   I
+
+2372.
+R2  X   H   H   R
+R2  C   R2  R   I
+
+2373.
+I   H   X   H   S   R2
+R   R2  C   R2  I   I
+
+2374.
+I   H   H   S   X   R
+R   R2  R   I   C   I
+
+2375.
+R   H   H   S   X   R
+R   R2  I   I   C   I
+
+2376.
+R2  H   X   H   R
+R   R   C   I   I
+
+2377.
+R2  X   H   X   H   R
+R   C   I   C   I   I
+
+2378.
+R   H   H   S   X
+I   R   R2  I   C
+
+2379.
+R2  H   X   H   S   X   R2
+I   R   C   R   I   C   I
+
+2380.
+I   H   H   X
+R2  R   R   C
+
+2381.
+X   H   X   H
+C   R2  C   I
+
+2382.
+H   X   H   S   R2
+I   C   I   I   I
+
+2383.
+I   H   H   X   R2
+R   I   I   C   I
+
+2384.
+R   H   X   H   S   R2
+R   R   C   R   I   I
+
+2385.
+R2  X   H   X   H
+I   C   R2  C   R
+
+2386.
+I   H   X   H   R
+R   I   C   R2  I
+
+2387.
+I   X   H   H   X
+R2  C   R2  R2  C
+
+2388.
+H   H   S   X   R2
+R2  R   I   C   I
+
+2389.
+R   H   X   H   X
+R2  R2  C   R2  C
+
+2390.
+I   X   H   X   H   R
+R   C   I   C   R   I
+
+2391.
+R2  X   H   H
+I   C   R2  R2
+
+2392.
+R2  X   H   X   H   R2
+R   C   I   C   I   I
+
+2393.
+I   X   H   X   H   S
+R2  C   R   C   I   I
+
+2394.
+R   X   H   X   H
+I   C   R2  C   I
+
+2395.
+R   H   X   H   R2
+I   I   C   R   I
+
+2396.
+X   H   H   S   R2
+C   I   R2  I   I
+
+2397.
+I   H   H   S   X
+R   R   R2  I   C
+
+2398.
+R   X   H   H   R2
+R2  C   I   I   I
+
+2399.
+I   H   H   S   X   R
+R2  R2  R   I   C   I
+
+2400.
+R2  X   H   H   R
+R2  C   I   I   I
+
+2401.
+R2  X   H   H   X   R2
+R2  C   I   I   C   I
+
+2402.
+R2  X   H   X   H
+I   C   I   C   R2
+
+2403.
+I   H   X   H
+R2  I   C   R2
+
+2404.
+H   H   S   X   R2
+R   R2  I   C   I
+
+2405.
+X   H   X   H   S
+C   R   C   R   I
+
+2406.
+H   H
+I   I
+
+2407.
+R   H   X   H   S   X   R
+R2  I   C   R2  I   C   I
+
+2408.
+H   H   X   R2
+R   I   C   I
+
+2409.
+R   H   X   H   X
+R   R   C   R   C
+
+2410.
+I   X   H   H   S   R
+R2  C   R   I   I   I
+
+2411.
+R2  X   H   X   H   S   R
+R2  C   R   C   R   I   I
+
+2412.
+R2  X   H   X   H   S   R
+R   C   R   C   R2  I   I
+
+2413.
+H   H   X   R
+I   I   C   I
+
+2414.
+R2  H   X   H   S   X   R
+R   I   C   R   I   C   I
+
+2415.
+R   H   X   H   S   X
+R2  I   C   R   I   C
+
+2416.
+R2  H   X   H
+R   R2  C   I
+
+2417.
+I   X   H   X   H
+R   C   I   C   R
+
+2418.
+R   H   X   H   R
+R   R2  C   R2  I
+
+2419.
+R   H   X   H   R
+R   R   C   R2  I
+
+2420.
+R   H   H   R2
+R2  R2  R2  I
+
+2421.
+X   H   X   H   R2
+C   R   C   R2  I
+
+2422.
+R2  X   H   H   X   R2
+R2  C   R2  R2  C   I
+
+2423.
+R   X   H   H   R2
+I   C   R2  R2  I
+
+2424.
+R2  X   H   H   X   R2
+R   C   R   R   C   I
+
+2425.
+I   H   H   S   X
+R   I   R   I   C
+
+2426.
+I   X   H   X   H
+R   C   R   C   R2
+
+2427.
+I   X   H   H   S   X   R2
+R2  C   R   I   I   C   I
+
+2428.
+R   H   H   S   X
+R2  I   R2  I   C
+
+2429.
+H   H   S   R2
+I   I   I   I
+
+2430.
+R   H   X   H   X   R
+R2  R2  C   R   C   I
+
+2431.
+R2  X   H   X   H
+R   C   R2  C   R
+
+2432.
+R   H   X   H   S   X
+I   R2  C   R   I   C
+
+2433.
+H   X   H   R2
+I   C   I   I
+
+2434.
+R2  H   H   S   X   R
+I   R2  R   I   C   I
+
+2435.
+R2  H   X   H   X   R
+R2  R   C   R   C   I
+
+2436.
+H   H   S   R
+R2  R2  I   I
+
+2437.
+R2  X   H   H   X
+I   C   R   R   C
+
+2438.
+R2  H   X   H   R2
+R   I   C   R   I
+
+2439.
+I   H   X   H
+R2  R2  C   R2
+
+2440.
+I   H   X   H   S   X
+R2  I   C   R   I   C
+
+2441.
+H   X   H   S   R
+R2  C   I   I   I
+
+2442.
+R   X   H   H   X
+R2  C   R   R   C
+
+2443.
+R   X   H   H   S   X   R
+R   C   I   R2  I   C   I
+
+2444.
+R   X   H   H   S   X   R
+I   C   I   I   I   C   I
+
+2445.
+R   H   X   H   S   R
+R2  R   C   R2  I   I
+
+2446.
+R   H   H   S   R
+R2  R2  I   I   I
+
+2447.
+R2  H   X   H   X
+R2  R2  C   R2  C
+
+2448.
+I   H   H   X
+R   R   I   C
+
+2449.
+R   X   H   H   S   X
+R2  C   I   R   I   C
+
+2450.
+X   H   H   X
+C   I   R2  C
+
+2451.
+R   X   H   X   H   R
+I   C   R   C   R   I
+
+2452.
+R   H   X   H   S   X
+R   R   C   R2  I   C
+
+2453.
+R2  H   X   H   S   X   R
+R2  I   C   R   I   C   I
+
+2454.
+R2  H   X   H   X
+I   R2  C   I   C
+
+2455.
+I   X   H   X   H
+R2  C   R   C   R2
+
+2456.
+R   X   H   H   X
+R2  C   I   I   C
+
+2457.
+R   X   H   H   S
+R   C   R   R   I
+
+2458.
+R2  H   H   S   X   R
+R   R2  R   I   C   I
+
+2459.
+R2  H   H   X   R
+R   R   R   C   I
+
+2460.
+R   X   H   H   S   R
+I   C   R   R   I   I
+
+2461.
+R   X   H   H   S   X   R
+R2  C   R2  I   I   C   I
+
+2462.
+R2  X   H   H   S   R
+I   C   R   R   I   I
+
+2463.
+I   X   H   X   H   R
+R2  C   I   C   I   I
+
+2464.
+R2  X   H   H   S   R2
+R   C   I   R2  I   I
+
+2465.
+R2  H   X   H   S   R2
+I   R2  C   R2  I   I
+
+2466.
+H   X   H   R
+R   C   I   I
+
+2467.
+R   H   X   H   S   X   R
+R   I   C   I   I   C   I
+
+2468.
+R2  H   H   X   R2
+R   R2  I   C   I
+
+2469.
+R   X   H   H   X   R
+R2  C   R2  R2  C   I
+
+2470.
+R   X   H   H   X
+I   C   R   R2  C
+
+2471.
+R   H   H   S   R
+I   R2  I   I   I
+
+2472.
+R   H   X   H   X
+I   R2  C   R2  C
+
+2473.
+R2  H   H   S   X
+I   R   R2  I   C
+
+2474.
+R   X   H   H   S   X
+R2  C   I   R2  I   C
+
+2475.
+I   X   H   H   S   R2
+R2  C   I   R   I   I
+
+2476.
+R2  H   H   R2
+I   R2  R   I
+
+2477.
+H   X   H   R
+I   C   R2  I
+
+2478.
+R2  X   H   H   X   R
+R   C   R2  I   C   I
+
+2479.
+R2  X   H   H   X
+I   C   I   R   C
+
+2480.
+I   X   H   H   S
+R2  C   R2  R   I
+
+2481.
+R2  H   H   X   R
+R   I   I   C   I
+
+2482.
+R   H   X   H   S   R2
+R   R   C   I   I   I
+
+2483.
+X   H   X   H   S   R2
+C   R2  C   R   I   I
+
+2484.
+R2  H   H   X   R2
+R2  R2  R   C   I
+
+2485.
+X   H   H   X   R2
+C   R2  R2  C   I
+
+2486.
+I   H   H   X
+R   R2  R2  C
+
+2487.
+I   X   H   H   R
+R2  C   R   I   I
+
+2488.
+R2  H   H   S
+I   R   R   I
+
+2489.
+H   X   H   S   X
+I   C   I   I   C
+
+2490.
+R2  H   H   X   R
+I   R   R   C   I
+
+2491.
+X   H   H   S   X   R
+C   R   R2  I   C   I
+
+2492.
+R   H   X   H   S   R2
+R   R2  C   I   I   I
+
+2493.
+R   H   X   H   X
+I   R   C   R2  C
+
+2494.
+X   H   H   S   X   R
+C   I   I   I   C   I
+
+2495.
+I   X   H   X   H   S
+R   C   R   C   R2  I
+
+2496.
+I   H   H   X   R
+R2  I   R   C   I
+
+2497.
+R   H   X   H   X   R
+I   R   C   I   C   I
+
+2498.
+R   H   H   X
+R2  R2  I   C
+
+2499.
+I   X   H   H   S
+R2  C   R   R   I
+
+2500.
+R   H   X   H   S   X   R2
+I   R   C   R   I   C   I
+
+2501.
+R2  X   H   X   H   S   R2
+R   C   R   C   I   I   I
+
+2502.
+R2  X   H   H   R
+R   C   R   I   I
+
+2503.
+R2  H   X   H   R2
+R2  R   C   R2  I
+
+2504.
+R   H   H   S   X   R2
+R2  R2  R2  I   C   I
+
+2505.
+H   H   S
+R2  R   I
+
+2506.
+R2  H   X   H   X
+R2  R2  C   R   C
+
+2507.
+R   H   X   H   S   R2
+R   R   C   R2  I   I
+
+2508.
+I   X   H   X   H   S   R2
+R2  C   R2  C   R   I   I
+
+2509.
+I   X   H   X   H   X   R
+R2  C   I   C   I   C   I
+
+2510.
+R2  H   X   H
+I   R2  C   R
+
+2511.
+R2  X   H   H   S
+R2  C   I   R2  I
+
+2512.
+R2  H   X   H   S   X   R2
+R2  R2  C   I   I   C   I
+
+2513.
+I   H   X   H   S   R2
+R   R2  C   I   I   I
+
+2514.
+R   X   H   H   S   X   R
+R2  C   I   I   I   C   I
+
+2515.
+R   H   X   H   R
+R2  R   C   I   I
+
+2516.
+I   X   H   H   S   X   R2
+R2  C   R2  R   I   C   I
+
+2517.
+R   X   H   H   R
+I   C   R2  R   I
+
+2518.
+R2  H   H   S   X   R2
+I   R   R2  I   C   I
+
+2519.
+R   H   H   S   X
+R   R   R2  I   C
+
+2520.
+R2  H   H   S   R2
+R2  R   R   I   I
+
+2521.
+I   H   H   X   R2
+R2  R2  R   C   I
+
+2522.
+R   H   X   H
+I   I   C   R2
+
+2523.
+R2  H   H   S   X   R
+R   R   I   I   C   I
+
+2524.
+R   H   H
+R   R2  R2
+
+2525.
+R2  H   H   S   X   R
+R   I   R   I   C   I
+
+2526.
+R2  H   X   H   R
+R2  R   C   R2  I
+
+2527.
+R2  X   H   H   X   R
+R2  C   R   I   C   I
+
+2528.
+R2  X   H   H   S
+I   C   R2  R2  I
+
+2529.
+R2  H   X   H   X   R2
+R2  R   C   R2  C   I
+
+2530.
+H   X   H   S   R2
+R   C   R2  I   I
+
+2531.
+R2  X   H   X   H   S   R
+R   C   R2  C   R   I   I
+
+2532.
+I   X   H   H   R
+R2  C   R   R   I
+
+2533.
+I   H   H   X   R
+R2  R   R   C   I
+
+2534.
+R2  X   H   H   S   R2
+R   C   R   R   I   I
+
+2535.
+R   H   X   H   S   X
+R   I   C   I   I   C
+
+2536.
+R   X   H   X   H   R
+I   C   R2  C   R   I
+
+2537.
+I   X   H   X   H   S   R
+R2  C   R   C   R2  I   I
+
+2538.
+R2  X   H   H   S   R2
+I   C   I   R   I   I
+
+2539.
+R   H   H   X   R
+R2  I   I   C   I
+
+2540.
+I   H   X   H   X   R2
+R2  R2  C   I   C   I
+
+2541.
+R   X   H   H   S   X   R2
+I   C   I   R2  I   C   I
+
+2542.
+R2  X   H   H   S   X   R
+R2  C   I   R   I   C   I
+
+2543.
+R   H   X   H   R
+R2  I   C   R2  I
+
+2544.
+R2  H   X   H   R
+R2  I   C   R   I
+
+2545.
+R2  X   H   H   S   X   R
+I   C   R2  R2  I   C   I
+
+2546.
+R   H   X   H   X
+I   R2  C   I   C
+
+2547.
+I   X   H   X   H
+R2  C   R2  C   R2
+
+2548.
+R   H   H   S   R
+I   I   I   I   I
+
+2549.
+R2  H   H   S   X   R2
+R   R   R   I   C   I
+
+2550.
+R   X   H   H   S   R
+R   C   R2  R   I   I
+
+2551.
+H   X   H
+I   C   I
+
+2552.
+R2  X   H   H   X   R2
+R2  C   R   I   C   I
+
+2553.
+I   H   H   S   X
+R   R   I   I   C
+
+2554.
+R2  H   X   H   X
+I   R2  C   R2  C
+
+2555.
+R2  X   H   H   X
+R2  C   R2  R2  C
+
+2556.
+R   H   X   H   S   R2
+R2  R2  C   I   I   I
+
+2557.
+R2  H   X   H   S   R
+R   R2  C   I   I   I
+
+2558.
+R2  H   X   H   S
+R   I   C   R2  I
+
+2559.
+R2  H   H   S   X
+R   R2  R2  I   C
+
+2560.
+R2  X   H   H   S   R
+I   C   R2  I   I   I
+
+2561.
+R   H   X   H   S   X   R2
+R2  R2  C   I   I   C   I
+
+2562.
+R   H   H   S   R
+R   R   I   I   I
+
+2563.
+R2  H   H   S   R
+R2  I   R   I   I
+
+2564.
+I   H   X   H   R
+R2  R2  C   R2  I
+
+2565.
+R   X   H   H   S
+R2  C   R2  R   I
+
+2566.
+I   H   X   H   S
+R   R   C   I   I
+
+2567.
+R2  X   H   H
+R   C   I   R
+
+2568.
+H   H   S   X
+R   R2  I   C
+
+2569.
+X   H   H
+C   R2  I
+
+2570.
+R2  H   X   H   R
+I   R   C   I   I
+
+2571.
+I   H   X   H   S   X   R2
+R2  R   C   R   I   C   I
+
+2572.
+R2  X   H   H
+R   C   I   R2
+
+2573.
+I   H   X   H   S   R2
+R   I   C   R   I   I
+
+2574.
+R2  X   H   H   S   R
+I   C   I   R2  I   I
+
+2575.
+X   H   X   H   S   R2
+C   R   C   R   I   I
+
+2576.
+R   H   X   H
+R2  I   C   I
+
+2577.
+X   H   H   X
+C   R2  I   C
+
+2578.
+I   H   H   R
+R   I   R2  I
+
+2579.
+X   H   H   R2
+C   R   R   I
+
+2580.
+R   X   H   H   R2
+R2  C   R2  R2  I
+
+2581.
+R   X   H   H   S   R2
+R2  C   R   R   I   I
+
+2582.
+H   X   H   X   R2
+R   C   I   C   I
+
+2583.
+R   X   H   H
+R   C   R2  R2
+
+2584.
+R2  H   X   H   S   X
+R2  R2  C   I   I   C
+
+2585.
+R   H   H   S   R2
+R2  I   R2  I   I
+
+2586.
+R   H   X   H   S   X   R2
+R2  I   C   R2  I   C   I
+
+2587.
+R   H   H   R2
+R   R   R   I
+
+2588.
+R2  X   H   H   S   X
+R   C   I   I   I   C
+
+2589.
+R   X   H   H   R2
+R2  C   R   I   I
+
+2590.
+H   H   S   R2
+R2  I   I   I
+
+2591.
+H   X   H   S   R2
+I   C   R2  I   I
+
+2592.
+R   X   H   H   X
+I   C   R2  R2  C
+
+2593.
+H   X   H   X   R2
+R   C   R2  C   I
+
+2594.
+R   X   H   H   S   R
+R2  C   I   I   I   I
+
+2595.
+R2  H   H   S   X   R
+R2  I   R   I   C   I
+
+2596.
+R2  X   H   X   H   S
+I   C   R2  C   R   I
+
+2597.
+R   X   H   H   S   R2
+R2  C   I   R2  I   I
+
+2598.
+R2  X   H   X   H   S   R2
+R2  C   I   C   I   I   I
+
+2599.
+R2  X   H   H   S
+R   C   R2  I   I
+
+2600.
+R   X   H   H   S   X
+I   C   R2  R   I   C
+
+2601.
+I   H   H   S   X   R
+R   R2  I   I   C   I
+
+2602.
+I   H   H   X   R
+R2  I   I   C   I
+
+2603.
+I   H   H   S   X
+R   R   R   I   C
+
+2604.
+R2  H   H   S   X   R2
+I   R2  R2  I   C   I
+
+2605.
+R   H   H   X
+R   I   R2  C
+
+2606.
+R   H   H
+R   R   R
+
+2607.
+I   X   H   H   S   R
+R   C   I   R2  I   I
+
+2608.
+R   H   H   S   R
+I   I   R   I   I
+
+2609.
+I   H   X   H   S   R2
+R   R   C   R   I   I
+
+2610.
+R   X   H   H   S   R2
+I   C   R2  R2  I   I
+
+2611.
+R   X   H   H   X   R
+R   C   I   I   C   I
+
+2612.
+I   H   H   S
+R2  R2  I   I
+
+2613.
+R   X   H   H   R
+R   C   R2  I   I
+
+2614.
+R2  H   X   H   S   X   R
+R2  R   C   R2  I   C   I
+
+2615.
+R2  H   X   H   S   R2
+I   R2  C   R   I   I
+
+2616.
+R   X   H   H   S   X
+I   C   I   I   I   C
+
+2617.
+R2  X   H   X   H   S   R
+R   C   R   C   R   I   I
+
+2618.
+R   X   H   H   R2
+I   C   R   R2  I
+
+2619.
+R2  H   X   H   X   R
+R   R   C   R2  C   I
+
+2620.
+H   H   S   X   R2
+R   R   I   C   I
+
+2621.
+R2  X   H   X   H   R
+R   C   R2  C   I   I
+
+2622.
+R   X   H   H   X   R
+I   C   I   R2  C   I
+
+2623.
+I   H   X   H   R2
+R   R2  C   I   I
+
+2624.
+R   H   H   S   R
+R2  R   R2  I   I
+
+2625.
+I   H   X   H   X
+R   I   C   R   C
+
+2626.
+I   H   X   H   R2
+R2  R2  C   R   I
+
+2627.
+R2  X   H   H   S   R2
+R2  C   R2  R2  I   I
+
+2628.
+R2  H   X   H   S   R
+R2  I   C   R   I   I
+
+2629.
+R2  X   H   H
+I   C   R   I
+
+2630.
+I   X   H   X   H   S
+R2  C   R2  C   I   I
+
+2631.
+R2  X   H   H
+I   C   R2  I
+
+2632.
+X   H   H   S   R2
+C   R   R2  I   I
+
+2633.
+R   H   X   H   R
+R2  R   C   R   I
+
+2634.
+R2  X   H   H   X
+R2  C   I   R2  C
+
+2635.
+R   X   H   H   S   X   R
+R2  C   R   R2  I   C   I
+
+2636.
+I   X   H   H   S   X
+R2  C   R2  R   I   C
+
+2637.
+R2  H   X   H   X   R
+R   R2  C   R   C   I
+
+2638.
+H   X   H   S   X   R2
+R2  C   R2  I   C   I
+
+2639.
+R2  H   X   H   S   X   R2
+R   R2  C   I   I   C   I
+
+2640.
+I   H   X   H   S   X   R
+R   R2  C   R2  I   C   I
+
+2641.
+R2  H   H   S
+R   I   I   I
+
+2642.
+R   H   H   S   X
+I   I   R   I   C
+
+2643.
+R   X   H   X   H   S   R
+R   C   I   C   R2  I   I
+
+2644.
+R2  H   X   H
+R2  R   C   R
+
+2645.
+R2  H   H   X   R
+I   I   I   C   I
+
+2646.
+X   H   H   X   R
+C   R   I   C   I
+
+2647.
+R   X   H   H   S   R2
+I   C   I   R2  I   I
+
+2648.
+I   H   H
+R   R2  R
+
+2649.
+I   X   H   H   R2
+R2  C   R2  I   I
+
+2650.
+I   X   H   H   X   R
+R   C   R2  I   C   I
+
+2651.
+R2  H   X   H   X   R2
+R2  R   C   R   C   I
+
+2652.
+R2  H   X   H   X
+R2  R   C   I   C
+
+2653.
+R2  H   H   S
+R   R   R2  I
+
+2654.
+R2  H   X   H   X   R2
+R2  I   C   I   C   I
+
+2655.
+R2  X   H   H   S
+I   C   R2  I   I
+
+2656.
+R   H   H   S   X   R2
+R   R   R   I   C   I
+
+2657.
+R2  H   H   S   X
+R2  R   R2  I   C
+
+2658.
+X   H   H   R2
+C   I   R   I
+
+2659.
+R2  X   H   X   H   S   R
+I   C   I   C   I   I   I
+
+2660.
+H   H   S   X
+I   R   I   C
+
+2661.
+R2  H   X   H   S   X   R2
+I   R   C   R2  I   C   I
+
+2662.
+R2  X   H   H   X   R
+R   C   R   R2  C   I
+
+2663.
+I   H   X   H   S   R
+R2  R2  C   R2  I   I
+
+2664.
+R2  H   H   S   X   R2
+R   I   R2  I   C   I
+
+2665.
+R   X   H   H   S   X   R2
+R2  C   I   R   I   C   I
+
+2666.
+X   H   H   R
+C   I   R2  I
+
+2667.
+R2  H   H   S   X   R
+I   I   I   I   C   I
+
+2668.
+R2  H   H   S   X
+R   R2  R   I   C
+
+2669.
+X   H   H   X   R2
+C   I   R   C   I
+
+2670.
+R2  H   X   H   S   R
+R2  R2  C   R2  I   I
+
+2671.
+X   H   H   X
+C   R   R   C
+
+2672.
+H   X   H   R
+R   C   R   I
+
+2673.
+R   X   H   X   H   S
+R2  C   I   C   I   I
+
+2674.
+R   H   X   H   S   R
+I   R   C   R   I   I
+
+2675.
+I   H   X   H   S   X   R
+R   R2  C   R   I   C   I
+
+2676.
+I   X   H   H   S
+R   C   R2  R2  I
+
+2677.
+I   X   H   H   S   R2
+R2  C   R2  I   I   I
+
+2678.
+I   X   H   H   R2
+R   C   I   R2  I
+
+2679.
+H   H   X   R2
+I   R2  C   I
+
+2680.
+I   X   H   H   R2
+R   C   R2  R2  I
+
+2681.
+I   X   H   H   S   R2
+R   C   R2  R   I   I
+
+2682.
+R   X   H   H   S
+I   C   R   R   I
+
+2683.
+I   H   H   R2
+R2  I   I   I
+
+2684.
+R   H   X   H   S   R
+R   R   C   I   I   I
+
+2685.
+R   H   X   H   X   R
+I   I   C   R2  C   I
+
+2686.
+R2  H   X   H   S   R
+R2  R2  C   R   I   I
+
+2687.
+R   H   H   S   X   R
+R   R   I   I   C   I
+
+2688.
+R   H   X   H   S   R
+R   R   C   R   I   I
+
+2689.
+I   H   H   X   R2
+R2  R2  I   C   I
+
+2690.
+I   X   H   X   H   R2
+R   C   I   C   R2  I
+
+2691.
+I   X   H   X   H   S   R
+R2  C   R2  C   I   I   I
+
+2692.
+R   X   H   H   S
+R   C   I   R2  I
+
+2693.
+R2  X   H   H   S   X   R2
+I   C   I   R2  I   C   I
+
+2694.
+R2  H   H   S   X
+R   R   I   I   C
+
+2695.
+R   H   H
+R2  R2  R
+
+2696.
+R2  H   X   H
+R2  R2  C   R2
+
+2697.
+I   H   H
+R2  R2  R
+
+2698.
+R2  H   H   X   R
+I   I   R2  C   I
+
+2699.
+R   H   H   S   R
+R   R2  I   I   I
+
+2700.
+I   H   H   R
+R   R   R2  I
+
+2701.
+R   H   H   R
+R2  R2  R   I
+
+2702.
+H   X   H   S   R2
+R2  C   R   I   I
+
+2703.
+H   H   X
+I   R2  C
+
+2704.
+R2  H   X   H   X   R2
+R   R   C   R   C   I
+
+2705.
+I   H   H   X   R2
+R   I   R   C   I
+
+2706.
+X   H   H   S   X
+C   R   R   I   C
+
+2707.
+R2  X   H   H   S   R2
+I   C   R   R2  I   I
+
+2708.
+R   X   H   H   R2
+R2  C   R2  I   I
+
+2709.
+I   H   H   S   X   R2
+R   R   R2  I   C   I
+
+2710.
+I   X   H   H   R2
+R   C   R   I   I
+
+2711.
+R   H   H
+R2  R   I
+
+2712.
+I   X   H   H   R2
+R2  C   R   I   I
+
+2713.
+R   H   X   H
+I   R2  C   R2
+
+2714.
+R2  X   H   H   S   R
+I   C   I   R   I   I
+
+2715.
+I   H   X   H   R2
+R2  I   C   R2  I
+
+2716.
+R   H   H   X
+R2  R2  R2  C
+
+2717.
+R2  H   X   H   S   X   R2
+R2  R   C   R2  I   C   I
+
+2718.
+R   H   X   H   S
+R2  I   C   R2  I
+
+2719.
+R2  X   H   H   R2
+R   C   R   R   I
+
+2720.
+H   H   S   R
+R   R   I   I
+
+2721.
+I   X   H   X   H   S   R
+R   C   R2  C   R2  I   I
+
+2722.
+R2  H   X   H
+R   R   C   R2
+
+2723.
+R2  X   H   X   H   S   R
+R   C   R2  C   R2  I   I
+
+2724.
+R2  X   H   H   S   X
+R   C   I   R2  I   C
+
+2725.
+I   X   H   X   H   R
+R   C   R   C   R2  I
+
+2726.
+I   H   X   H   S   R2
+R   I   C   I   I   I
+
+2727.
+R2  H   H   R
+I   I   R   I
+
+2728.
+I   H   H   S   X
+R2  R2  R2  I   C
+
+2729.
+R   X   H   X   H   R2
+I   C   I   C   R2  I
+
+2730.
+R2  X   H   X   H   S
+I   C   I   C   I   I
+
+2731.
+R2  H   X   H   S   R2
+R2  R   C   R2  I   I
+
+2732.
+H   X   H   R2
+R   C   I   I
+
+2733.
+I   X   H   H   S   R
+R2  C   I   R2  I   I
+
+2734.
+R2  H   H   R2
+I   I   R   I
+
+2735.
+X   H   X   H   S
+C   R2  C   R   I
+
+2736.
+R2  X   H   H   S   R
+I   C   I   I   I   I
+
+2737.
+R   X   H   X   H   S
+I   C   R2  C   R2  I
+
+2738.
+R2  H   X   H   S   R2
+R2  R   C   R   I   I
+
+2739.
+X   H   H   R2
+C   I   R2  I
+
+2740.
+R   X   H   H   X   R
+I   C   R   R   C   I
+
+2741.
+R2  X   H   H
+I   C   I   R2
+
+2742.
+R   X   H   H   S   X   R
+I   C   R   R   I   C   I
+
+2743.
+R   H   X   H   S   R
+R2  R2  C   R2  I   I
+
+2744.
+R2  X   H   H
+R   C   R   R
+
+2745.
+R2  X   H   X   H   S   R2
+R   C   R2  C   R   I   I
+
+2746.
+R   X   H   X   H   S   R2
+R   C   I   C   I   I   I
+
+2747.
+R   X   H   H   S
+R2  C   R   I   I
+
+2748.
+I   H   X   H   S   R
+R   R   C   I   I   I
+
+2749.
+I   X   H   X   H   R
+R2  C   I   C   R   I
+
+2750.
+R2  X   H   X   H   R2
+I   C   R   C   I   I
+
+2751.
+R2  H   H
+I   I   R2
+
+2752.
+X   H   H   R
+C   R   I   I
+
+2753.
+R2  H   X   H   R
+R   I   C   I   I
+
+2754.
+R   X   H   X   H   S   R
+R2  C   R2  C   R   I   I
+
+2755.
+H   H   S   X   R
+R   R2  I   C   I
+
+2756.
+R   H   H
+R2  I   R
+
+2757.
+I   X   H   H   S   R2
+R2  C   I   R2  I   I
+
+2758.
+R2  X   H   H   X   R
+R2  C   I   R2  C   I
+
+2759.
+R   H   H   X   R2
+R2  R2  R   C   I
+
+2760.
+R2  X   H   X   H   R
+R   C   I   C   R2  I
+
+2761.
+I   X   H   H   R
+R2  C   I   R2  I
+
+2762.
+R2  X   H   H   X   R
+I   C   R   R   C   I
+
+2763.
+I   H   X   H   S
+R2  I   C   R   I
+
+2764.
+I   X   H   X   H   S
+R   C   I   C   R   I
+
+2765.
+R2  X   H   H   S   X   R
+R   C   R2  R   I   C   I
+
+2766.
+X   H   H   S   X   R2
+C   R2  I   I   C   I
+
+2767.
+R   H   H   X   R
+R2  R2  R2  C   I
+
+2768.
+H   X   H   R2
+R   C   R2  I
+
+2769.
+R   H   X   H   S   X
+I   R   C   R   I   C
+
+2770.
+R   H   X   H
+R2  R2  C   R2
+
+2771.
+R2  H   X   H   R2
+R2  I   C   I   I
+
+2772.
+R   H   X   H   S   R
+R2  R   C   R   I   I
+
+2773.
+R2  H   X   H   S   R
+R2  R   C   I   I   I
+
+2774.
+R   X   H   H   S   X   R2
+R2  C   R2  I   I   C   I
+
+2775.
+R2  H   H   X   R
+R   R2  R   C   I
+
+2776.
+I   X   H   X   H   S   R
+R2  C   R2  C   R2  I   I
+
+2777.
+R   H   X   H
+R   R   C   R
+
+2778.
+R2  X   H   H   X
+R   C   R   R2  C
+
+2779.
+R   X   H   H   S   R
+I   C   R2  R2  I   I
+
+2780.
+R   H   H   S   R
+R2  I   I   I   I
+
+2781.
+I   H   H   S   X
+R2  R   I   I   C
+
+2782.
+R   H   X   H   S   R
+R2  I   C   R   I   I
+
+2783.
+X   H   X   H
+C   R   C   I
+
+2784.
+R   H   X   H   R
+R   I   C   R   I
+
+2785.
+R   X   H   X   H   S   R
+I   C   I   C   R2  I   I
+
+2786.
+R2  X   H   H   S
+R2  C   I   R   I
+
+2787.
+R2  H   H   R2
+R2  R   I   I
+
+2788.
+R   H   H   R2
+R2  R2  I   I
+
+2789.
+R2  X   H   H
+R   C   R   R2
+
+2790.
+R   H   H   X
+I   I   R2  C
+
+2791.
+R2  H   X   H   S   R2
+R   R   C   I   I   I
+
+2792.
+I   X   H   H   S   X   R
+R2  C   R   R   I   C   I
+
+2793.
+R2  H   X   H   S
+R2  R   C   R   I
+
+2794.
+R   H   X   H   R2
+I   R2  C   R   I
+
+2795.
+R2  X   H   H   S
+R   C   R2  R2  I
+
+2796.
+H   H   R2
+R   R   I
+
+2797.
+R   X   H   H   S   R
+R2  C   R2  I   I   I
+
+2798.
+R2  H   H   X   R
+I   I   R   C   I
+
+2799.
+R   H   H   S
+R   I   R   I
+
+2800.
+R   H   X   H   R2
+R2  R2  C   R2  I
+
+2801.
+R2  X   H   X   H   R2
+R   C   R2  C   R   I
+
+2802.
+R2  H   X   H   X   R
+R2  R2  C   I   C   I
+
+2803.
+R2  X   H   H   S   X   R
+R   C   R2  R2  I   C   I
+
+2804.
+R   X   H   X   H   S
+R   C   R2  C   R2  I
+
+2805.
+R   X   H   X   H   S   R
+R2  C   R2  C   R2  I   I
+
+2806.
+I   X   H   H   S   X   R2
+R2  C   R2  I   I   C   I
+
+2807.
+I   H   H   R2
+R2  R2  R2  I
+
+2808.
+R2  X   H   H   S   R2
+I   C   R2  I   I   I
+
+2809.
+R2  H   H   S   X
+I   I   R   I   C
+
+2810.
+H   H   S
+R2  R2  I
+
+2811.
+X   H   H   R
+C   I   I   I
+
+2812.
+R2  H   X   H   S   R2
+I   R2  C   I   I   I
+
+2813.
+R2  X   H   H
+I   C   I   I
+
+2814.
+R2  X   H   X   H
+R2  C   I   C   R
+
+2815.
+R   H   X   H   X   R2
+R2  R2  C   I   C   I
+
+2816.
+R   H   H   S   X
+R2  R   R2  I   C
+
+2817.
+R2  X   H   H
+R2  C   I   R
+
+2818.
+R2  X   H   H   S
+R2  C   R   R2  I
+
+2819.
+I   H   H   S   X   R2
+R   R2  R2  I   C   I
+
+2820.
+R   X   H   H   S
+I   C   R   I   I
+
+2821.
+I   H   H   S   X   R2
+R2  R2  R2  I   C   I
+
+2822.
+X   H   X   H   S   R2
+C   I   C   I   I   I
+
+2823.
+X   H   X   H   R
+C   I   C   I   I
+
+2824.
+H   X   H   X
+R2  C   R2  C
+
+2825.
+R   H   X   H   S
+R2  I   C   I   I
+
+2826.
+R   H   H   X
+R   R2  I   C
+
+2827.
+R2  H   X   H   S   R
+I   R   C   I   I   I
+
+2828.
+I   H   X   H   S   X   R
+R2  R2  C   I   I   C   I
+
+2829.
+R2  X   H   H
+R2  C   R   I
+
+2830.
+R   H   X   H   S   X   R2
+R2  I   C   I   I   C   I
+
+2831.
+R2  H   H   X
+R   I   I   C
+
+2832.
+I   X   H   X   H
+R2  C   R2  C   R
+
+2833.
+I   H   X   H   S   R2
+R2  R   C   R2  I   I
+
+2834.
+I   X   H   H   R
+R   C   I   R   I
+
+2835.
+R2  H   X   H   S
+R   R2  C   R   I
+
+2836.
+R   X   H   H   S
+R2  C   R2  R2  I
+
+2837.
+R   X   H   X   H   R2
+R2  C   R2  C   R2  I
+
+2838.
+I   H   X   H   S
+R   R   C   R   I
+
+2839.
+R   H   H   X   R
+I   R2  I   C   I
+
+2840.
+R   H   H
+R2  R   R2
+
+2841.
+R2  H   X   H   X
+R2  R   C   R   C
+
+2842.
+R   H   H   R2
+I   I   R2  I
+
+2843.
+R   X   H   H   S   X   R2
+I   C   R   R2  I   C   I
+
+2844.
+R   H   X   H   S   R2
+R2  R2  C   R   I   I
+
+2845.
+H   X   H   S   R2
+I   C   R   I   I
+
+2846.
+R2  H   H   X
+R2  I   R   C
+
+2847.
+R2  H   H   X
+R2  R2  R2  C
+
+2848.
+I   H   X   H   S   X   R2
+R   I   C   R   I   C   I
+
+2849.
+I   H   H
+R   R   R
+
+2850.
+R   X   H   H   S   R
+R2  C   R2  R2  I   I
+
+2851.
+R   H   H   S   X   R2
+R   R2  I   I   C   I
+
+2852.
+R   X   H   H   X   R
+I   C   R   R2  C   I
+
+2853.
+H   X   H   S   X   R
+R2  C   R   I   C   I
+
+2854.
+X   H   H   R
+C   R2  I   I
+
+2855.
+R   H   H   X   R
+R2  R2  R   C   I
+
+2856.
+I   X   H   H   R2
+R2  C   I   R   I
+
+2857.
+R   H   H   S   R2
+R   I   R   I   I
+
+2858.
+I   H   X   H   S   R
+R2  R2  C   I   I   I
+
+2859.
+R   X   H   H
+R   C   I   R2
+
+2860.
+I   X   H   H   S   X   R2
+R2  C   I   R   I   C   I
+
+2861.
+I   H   H   S   X   R
+R   R   I   I   C   I
+
+2862.
+H   X   H   S   X
+R2  C   I   I   C
+
+2863.
+R   X   H   H   S   R2
+I   C   R   R   I   I
+
+2864.
+R2  H   X   H   R2
+R2  I   C   R   I
+
+2865.
+R   X   H   H   S
+I   C   I   I   I
+
+2866.
+I   H   H   S   X   R2
+R   R2  R   I   C   I
+
+2867.
+R   X   H   H   S   X   R
+R   C   I   R   I   C   I
+
+2868.
+R   X   H   H   S
+I   C   I   R2  I
+
+2869.
+R   H   H   R
+I   R2  I   I
+
+2870.
+R2  X   H   X   H
+R   C   R2  C   I
+
+2871.
+R2  H   X   H   S   X   R2
+R   I   C   R2  I   C   I
+
+2872.
+R2  X   H   H   S   R2
+R2  C   R2  I   I   I
+
+2873.
+I   X   H   H   S   X   R
+R   C   R   R   I   C   I
+
+2874.
+R2  H   H   S   X   R2
+I   R   R   I   C   I
+
+2875.
+H   X   H   S   R2
+R   C   I   I   I
+
+2876.
+R   X   H   H   S   X   R2
+I   C   R2  R2  I   C   I
+
+2877.
+R2  H   X   H
+R   I   C   R2
+
+2878.
+R   X   H   H
+R2  C   R2  R
+
+2879.
+R   H   H   S   X   R2
+I   R   I   I   C   I
+
+2880.
+R   X   H   X   H   S   R
+I   C   R   C   I   I   I
+
+2881.
+R   X   H   H   R2
+R   C   R   R   I
+
+2882.
+R2  X   H   H   S   R2
+I   C   R   I   I   I
+
+2883.
+R2  H   H   X   R2
+I   I   R   C   I
+
+2884.
+R2  X   H   H
+R2  C   R2  R
+
+2885.
+R   H   H   R2
+I   I   R   I
+
+2886.
+R   H   X   H   S   R2
+R2  R   C   R2  I   I
+
+2887.
+R   H   H   R
+R   R   R   I
+
+2888.
+R2  H   H   R2
+I   R2  I   I
+
+2889.
+R   H   X   H   S   R
+I   R2  C   R2  I   I
+
+2890.
+R2  H   X   H   R
+I   R2  C   R2  I
+
+2891.
+X   H   X   H
+C   I   C   R
+
+2892.
+R2  H   H   S   X   R2
+I   R   I   I   C   I
+
+2893.
+I   H   H   S   X
+R   R2  R   I   C
+
+2894.
+R2  X   H   X   H
+I   C   R   C   R
+
+2895.
+R   X   H   X   H   S   R
+R   C   R   C   R2  I   I
+
+2896.
+R   X   H   H   S
+I   C   R   R2  I
+
+2897.
+R   H   H   X   R2
+R   I   R   C   I
+
+2898.
+I   X   H   H   S   X   R
+R2  C   I   R   I   C   I
+
+2899.
+I   H   H   S   X   R
+R2  R   R   I   C   I
+
+2900.
+I   X   H   H   S   X
+R   C   R2  I   I   C
+
+2901.
+R   H   X   H   S
+R2  R2  C   R2  I
+
+2902.
+R2  H   H   S   X   R2
+R   R   R2  I   C   I
+
+2903.
+R   X   H   X   H   S
+R2  C   R2  C   R2  I
+
+2904.
+I   H   X   H   R2
+R2  I   C   R   I
+
+2905.
+I   H   H
+R2  I   I
+
+2906.
+R   H   H   X   R
+R   I   I   C   I
+
+2907.
+R   H   X   H   S
+R   R   C   R2  I
+
+2908.
+R   H   H   X   R2
+I   R2  I   C   I
+
+2909.
+R2  H   H   X
+R   R   R   C
+
+2910.
+R   H   H   X   R2
+R   I   R2  C   I
+
+2911.
+R2  H   X   H   R
+I   R   C   R   I
+
+2912.
+R   X   H   H   S   X   R2
+I   C   I   R   I   C   I
+
+2913.
+I   H   X   H   R2
+R   R   C   I   I
+
+2914.
+I   H   X   H   S   X   R
+R   R   C   R   I   C   I
+
+2915.
+I   H   X   H   R2
+R2  R   C   I   I
+
+2916.
+I   H   X   H   X   R
+R   I   C   I   C   I
+
+2917.
+R2  H   H   S
+I   R2  I   I
+
+2918.
+I   H   H   S   X   R
+R   R   R2  I   C   I
+
+2919.
+I   H   X   H
+R   I   C   R
+
+2920.
+R2  H   X   H   S   R2
+R   I   C   R2  I   I
+
+2921.
+I   H   H
+R2  R   I
+
+2922.
+I   X   H   H   X   R2
+R   C   I   R2  C   I
+
+2923.
+I   H   X   H   S   X
+R   R   C   I   I   C
+
+2924.
+H   H   X   R2
+I   I   C   I
+
+2925.
+R   H   H   X
+R   I   I   C
+
+2926.
+I   H   H   X   R
+R2  R   I   C   I
+
+2927.
+I   H   H   S   X   R
+R   I   I   I   C   I
+
+2928.
+R   X   H   X   H   R2
+R   C   R   C   R   I
+
+2929.
+I   X   H   X   H   S
+R2  C   I   C   R   I
+
+2930.
+R2  H   H   S   X
+I   R2  R   I   C
+
+2931.
+R2  H   H   S   R2
+R   R   I   I   I
+
+2932.
+R2  X   H   X   H   R
+R   C   R2  C   R2  I
+
+2933.
+I   H   X   H   R
+R2  I   C   I   I
+
+2934.
+R2  X   H   X   H
+R2  C   R   C   R
+
+2935.
+R   X   H   H   R
+R2  C   I   R2  I
+
+2936.
+R   H   X   H   S
+I   I   C   I   I
+
+2937.
+R   X   H   H   S   X
+I   C   R   I   I   C
+
+2938.
+I   H   X   H   R
+R2  R   C   R2  I
+
+2939.
+R2  H   H   S   X   R2
+R2  R   I   I   C   I
+
+2940.
+H   H   X   R
+I   R   C   I
+
+2941.
+R   H   H   X   R
+R2  R   I   C   I
+
+2942.
+R   X   H   H
+R   C   I   I
+
+2943.
+I   X   H   X   H
+R   C   I   C   R2
+
+2944.
+R2  H   X   H   S   R
+I   R2  C   R   I   I
+
+2945.
+H   X   H   S
+R   C   R2  I
+
+2946.
+R   H   X   H   S
+I   R   C   I   I
+
+2947.
+R   H   X   H   R2
+R   R2  C   R   I
+
+2948.
+R2  H   X   H   X   R
+R2  R2  C   R2  C   I
+
+2949.
+R   X   H   X   H   S
+R2  C   I   C   R   I
+
+2950.
+R   X   H   X   H   R
+R2  C   I   C   R   I
+
+2951.
+R2  H   X   H   R
+R2  R2  C   R   I
+
+2952.
+R   H   H   X
+R   R2  R   C
+
+2953.
+R   H   H   R
+R   R   R2  I
+
+2954.
+R   X   H   X   H
+R2  C   I   C   I
+
+2955.
+R   X   H   H   R
+I   C   R2  I   I
+
+2956.
+I   H   X   H   X
+R   R2  C   R2  C
+
+2957.
+I   X   H   H   R2
+R2  C   I   R2  I
+
+2958.
+R   H   H   X   R2
+I   R2  R   C   I
+
+2959.
+R   X   H   H   S   X
+R2  C   R   R   I   C
+
+2960.
+R   H   X   H   R2
+R2  R   C   I   I
+
+2961.
+R2  X   H   H
+R   C   R2  R2
+
+2962.
+R   X   H   H   R2
+R   C   I   R2  I
+
+2963.
+R   H   X   H   R2
+I   R   C   I   I
+
+2964.
+R   X   H   H   S   R2
+R2  C   R   I   I   I
+
+2965.
+R2  H   X   H
+R2  I   C   I
+
+2966.
+R   H   H   X   R
+R2  I   R2  C   I
+
+2967.
+R2  H   H   X   R2
+I   I   I   C   I
+
+2968.
+R2  H   H   X   R
+I   R   I   C   I
+
+2969.
+I   X   H   H   R
+R   C   I   I   I
+
+2970.
+I   H   X   H   S
+R2  R2  C   R2  I
+
+2971.
+H   X   H   R
+I   C   I   I
+
+2972.
+I   X   H   H   X   R
+R2  C   R   I   C   I
+
+2973.
+H   X   H   S   R2
+R2  C   I   I   I
+
+2974.
+X   H   H   S   R
+C   R   R   I   I
+
+2975.
+X   H   H   X   R
+C   I   R2  C   I
+
+2976.
+R2  H   X   H   S   X
+R   R   C   R2  I   C
+
+2977.
+I   H   X   H   R
+R   R2  C   R2  I
+
+2978.
+R2  X   H   X   H   S   R
+I   C   R2  C   R2  I   I
+
+2979.
+H   X   H   S
+I   C   I   I
+
+2980.
+R   H   H   S   R2
+I   R   R2  I   I
+
+2981.
+R   X   H   H   S   R
+R2  C   R   R2  I   I
+
+2982.
+R2  H   H
+R2  R2  R2
+
+2983.
+R2  H   X   H
+I   I   C   R
+
+2984.
+I   H   H
+R   R2  I
+
+2985.
+X   H   H
+C   R2  R2
+
+2986.
+R2  X   H   H   R
+R2  C   I   R2  I
+
+2987.
+R   H   H   X
+I   R2  R   C
+
+2988.
+R2  H   X   H   S   R2
+I   I   C   I   I   I
+
+2989.
+I   H   H   S   R2
+R2  I   R   I   I
+
+2990.
+I   H   X   H   X   R2
+R2  R   C   R   C   I
+
+2991.
+I   X   H   H   X   R2
+R2  C   R2  R   C   I
+
+2992.
+I   H   H   S   X   R2
+R   R   I   I   C   I
+
+2993.
+I   H   H   X   R2
+R2  R   R2  C   I
+
+2994.
+R   X   H   H   R2
+I   C   I   R   I
+
+2995.
+R   X   H   H   X
+I   C   I   R   C
+
+2996.
+R   X   H   X   H   S   R2
+R2  C   I   C   R2  I   I
+
+2997.
+R   H   H
+R2  R2  R2
+
+2998.
+R   X   H   X   H   S   R
+R   C   R   C   I   I   I
+
+2999.
+R2  H   X   H
+R   R2  C   R2
+
+3000.
+I   X   H   H
+R   C   R2  R2
+
+3001.
+R2  H   H   X
+R2  R2  R   C
+
+3002.
+R2  H   X   H   R
+I   R2  C   R   I
+
+3003.
+H   H   R
+I   I   I
+
+3004.
+R   H   H   S   X   R2
+I   R2  R2  I   C   I
+
+3005.
+H   H   X
+R   I   C
+
+3006.
+I   X   H   H   R2
+R   C   R   R   I
+
+3007.
+I   H   H   S   R2
+R   R   I   I   I
+
+3008.
+R   H   H   R2
+R   R2  R   I
+
+3009.
+R   H   H   R2
+R   R   I   I
+
+3010.
+R   H   X   H   S   R2
+R2  R2  C   R2  I   I
+
+3011.
+H   X   H   S   R
+R   C   I   I   I
+
+3012.
+R   H   H   R2
+R   I   I   I
+
+3013.
+R2  X   H   H   X   R2
+R   C   I   R2  C   I
+
+3014.
+R2  H   X   H   X
+R   R2  C   R   C
+
+3015.
+R2  X   H   H   S
+R   C   I   R   I
+
+3016.
+R   H   H   X
+I   R   I   C
+
+3017.
+R2  X   H   H   S   R2
+R2  C   I   I   I   I
+
+3018.
+I   H   H   S   X   R2
+R2  I   I   I   C   I
+
+3019.
+I   X   H   H   S   X   R
+R2  C   I   I   I   C   I
+
+3020.
+I   H   X   H   R2
+R   R2  C   R   I
+
+3021.
+R2  H   H   S   X   R
+I   R2  R2  I   C   I
+
+3022.
+H   H   X
+I   I   C
+
+3023.
+R   H   X   H   X   R2
+R   R2  C   I   C   I
+
+3024.
+R   H   X   H   S   X
+I   I   C   I   I   C
+
+3025.
+R2  X   H   H   R
+R   C   R2  I   I
+
+3026.
+R2  X   H   X   H   S   R2
+R   C   I   C   R2  I   I
+
+3027.
+R   X   H   H   S   R
+R   C   R2  R2  I   I
+
+3028.
+R2  X   H   H   S   R
+R   C   R2  R   I   I
+
+3029.
+R   H   H   X   R2
+R   R   I   C   I
+
+3030.
+I   H   H   S   X   R
+R   R2  R2  I   C   I
+
+3031.
+I   H   H
+R   I   R
+
+3032.
+R2  H   H   S   R2
+R2  R   I   I   I
+
+3033.
+R2  H   H   S   X
+R   I   R   I   C
+
+3034.
+R2  H   X   H   S   R2
+R2  R2  C   I   I   I
+
+3035.
+R2  H   X   H   S
+I   R2  C   R2  I
+
+3036.
+R   H   H
+R2  R2  I
+
+3037.
+I   X   H   H   S
+R   C   R2  I   I
+
+3038.
+H   X   H   R2
+R2  C   I   I
+
+3039.
+R   H   H   S   X
+R   R   R   I   C
+
+3040.
+R   H   X   H   R
+R2  R2  C   I   I
+
+3041.
+R   H   H   X
+I   I   R   C
+
+3042.
+R2  H   H   S   X
+R   I   R2  I   C
+
+3043.
+H   H   S   R2
+I   R   I   I
+
+3044.
+X   H   H
+C   I   I
+
+3045.
+R   X   H   H
+R2  C   R   R
+
+3046.
+I   H   X   H
+R2  I   C   R
+
+3047.
+R2  H   X   H   S   R2
+R   R   C   R   I   I
+
+3048.
+R2  H   X   H   S   R2
+R   R   C   R2  I   I
+
+3049.
+H   X   H   S
+I   C   R   I
+
+3050.
+R   X   H   X   H   S   R
+R2  C   R2  C   I   I   I
+
+3051.
+R   X   H   H   S   X   R
+R2  C   R2  R   I   C   I
+
+3052.
+I   H   H   S   X
+R   R2  I   I   C
+
+3053.
+R   X   H   H   S   X
+R2  C   R2  I   I   C
+
+3054.
+X   H   H   S   X   R2
+C   R2  R2  I   C   I
+
+3055.
+R2  H   H   X   R2
+R2  R   R   C   I
+
+3056.
+R   X   H   X   H   R
+R2  C   I   C   R2  I
+
+3057.
+I   H   H   S   R
+R2  R   I   I   I
+
+3058.
+R2  X   H   H   S   R
+R2  C   I   R2  I   I
+
+3059.
+R2  H   X   H   R
+R   R2  C   R   I
+
+3060.
+R   X   H   H   R
+R2  C   I   I   I
+
+3061.
+R   X   H   X   H   R
+I   C   R   C   R2  I
+
+3062.
+R   X   H   X   H   R2
+R   C   I   C   R2  I
+
+3063.
+I   X   H   H
+R2  C   I   R2
+
+3064.
+R2  H   X   H   S
+R   R   C   R   I
+
+3065.
+R2  X   H   H   R2
+R2  C   I   R2  I
+
+3066.
+R2  X   H   H   X   R
+R   C   R2  R2  C   I
+
+3067.
+R2  H   X   H   R
+R2  R   C   I   I
+
+3068.
+R   X   H   X   H   R
+I   C   R2  C   I   I
+
+3069.
+X   H   H   R
+C   R   R2  I
+
+3070.
+R2  H   X   H   X   R
+R   R2  C   I   C   I
+
+3071.
+R2  H   H   S   R
+I   R   I   I   I
+
+3072.
+R   X   H   X   H   S
+I   C   I   C   R   I
+
+3073.
+R2  H   X   H
+I   R2  C   I
+
+3074.
+I   H   H   X   R2
+R2  R   I   C   I
+
+3075.
+I   H   X   H   S
+R   I   C   R   I
+
+3076.
+I   X   H   H   R2
+R2  C   R   R   I
+
+3077.
+R   H   H   S   X   R2
+R   R   R2  I   C   I
+
+3078.
+R   X   H   H   R
+R2  C   R2  R2  I
+
+3079.
+I   H   H   X
+R   I   R2  C
+
+3080.
+R   X   H   H
+I   C   R2  R2
+
+3081.
+I   H   H   S   X   R
+R2  I   I   I   C   I
+
+3082.
+R2  X   H   X   H   S   R2
+R   C   I   C   R   I   I
+
+3083.
+I   H   H   S   R2
+R   I   R2  I   I
+
+3084.
+I   H   H   S   R
+R2  R2  I   I   I
+
+3085.
+R   H   H   S   X   R2
+R2  R   R   I   C   I
+
+3086.
+R2  H   X   H   R
+I   I   C   R   I
+
+3087.
+I   H   X   H   R
+R   R   C   R2  I
+
+3088.
+I   X   H   H   S   R
+R2  C   R   R   I   I
+
+3089.
+R2  H   X   H   S   R
+R   R   C   R2  I   I
+
+3090.
+R   H   H   R2
+R2  I   I   I
+
+3091.
+H   H   X   R
+R   R   C   I
+
+3092.
+X   H   H   S   R2
+C   R2  R2  I   I
+
+3093.
+R   X   H   H   X   R2
+R2  C   R   I   C   I
+
+3094.
+R   H   H   S   X   R
+I   R2  R   I   C   I
+
+3095.
+R   H   H   S
+I   R   R2  I
+
+3096.
+I   H   H   S   R2
+R2  R2  I   I   I
+
+3097.
+R2  H   H   X   R
+I   R   R2  C   I
+
+3098.
+R2  X   H   H   S   X   R
+R   C   I   I   I   C   I
+
+3099.
+R2  H   X   H   S   R2
+R2  I   C   R   I   I
+
+3100.
+I   X   H   H   S   X
+R   C   R2  R   I   C
+
+3101.
+I   H   H   S   X   R
+R2  R   I   I   C   I
+
+3102.
+R   H   H   S   X   R
+R   R2  R   I   C   I
+
+3103.
+R2  X   H   H   R
+R2  C   R   R2  I
+
+3104.
+R2  X   H   H   R
+I   C   R2  R   I
+
+3105.
+R   H   H   X
+I   I   I   C
+
+3106.
+R   H   X   H   S   R2
+R   I   C   I   I   I
+
+3107.
+R   H   H   X   R
+I   R2  R2  C   I
+
+3108.
+R2  X   H   X   H   S
+I   C   I   C   R   I
+
+3109.
+R   H   H   X   R
+R2  I   R   C   I
+
+3110.
+R   X   H   X   H   S   R
+I   C   R2  C   R   I   I
+
+3111.
+H   X   H   S   R
+I   C   I   I   I
+
+3112.
+R2  H   X   H   S
+R   R2  C   R2  I
+
+3113.
+H   H   S   R2
+R   R2  I   I
+
+3114.
+I   H   H   S   R
+R2  I   R2  I   I
+
+3115.
+R   H   H   S   X   R
+I   R   I   I   C   I
+
+3116.
+I   X   H   H   X   R2
+R   C   R   R2  C   I
+
+3117.
+R   H   H   S   X   R
+R2  R2  R2  I   C   I
+
+3118.
+I   X   H   H   R
+R2  C   R2  R   I
+
+3119.
+I   X   H   H   S   R
+R2  C   R2  R2  I   I
+
+3120.
+R2  H   X   H
+R   R   C   R
+
+3121.
+R2  H   H   X   R2
+R   R   I   C   I
+
+3122.
+R   H   X   H   R2
+R2  R   C   R   I
+
+3123.
+R   H   H   X
+R2  R2  R   C
+
+3124.
+R   X   H   H
+R2  C   I   R2
+
+3125.
+R2  H   X   H   S   X   R
+R2  I   C   I   I   C   I
+
+3126.
+R   X   H   H   S   R2
+R   C   R2  R   I   I
+
+3127.
+R   H   H   S   X   R2
+I   I   I   I   C   I
+
+3128.
+R   X   H   X   H   S   R
+R   C   I   C   R   I   I
+
+3129.
+R   X   H   H   S
+R2  C   I   R2  I
+
+3130.
+I   X   H   H   R2
+R   C   R2  R   I
+
+3131.
+R2  H   H   R2
+I   R   R   I
+
+3132.
+R   H   H   S   X   R2
+R2  I   R   I   C   I
+
+3133.
+R   H   H   S   X   R2
+R2  I   R2  I   C   I
+
+3134.
+R   H   H   R
+I   R   R   I
+
+3135.
+R2  X   H   H   S   X   R
+R   C   R2  I   I   C   I
+
+3136.
+I   X   H   H   S   X   R
+R   C   I   R   I   C   I
+
+3137.
+R   H   H   X   R2
+R   I   I   C   I
+
+3138.
+I   X   H   X   H   S
+R   C   R2  C   R   I
+
+3139.
+R   H   X   H   S   R2
+I   R2  C   R2  I   I
+
+3140.
+R2  H   H   S
+R   R2  R   I
+
+3141.
+I   X   H   X   H   S   R2
+R   C   R   C   R   I   I
+
+3142.
+R2  H   H
+R   R   R2
+
+3143.
+R2  H   X   H   R
+R   R2  C   R2  I
+
+3144.
+I   H   X   H   R2
+R2  I   C   I   I
+
+3145.
+R2  H   X   H   S
+I   R2  C   R   I
+
+3146.
+I   H   H   S   R
+R   I   R2  I   I
+
+3147.
+I   H   X   H   X   R
+R   R2  C   I   C   I
+
+3148.
+R   X   H   H   R2
+R2  C   I   R2  I
+
+3149.
+R   H   H
+I   R2  R2
+
+3150.
+I   H   X   H   S   X   R2
+R2  I   C   R   I   C   I
+
+3151.
+I   H   X   H   R
+R   I   C   R   I
+
+3152.
+R2  H   X   H   S   R
+R   R   C   R   I   I
+
+3153.
+I   X   H   H
+R2  C   I   R
+
+3154.
+I   H   H   S   X   R2
+R   I   R   I   C   I
+
+3155.
+R2  X   H   H   R2
+R2  C   R2  R2  I
+
+3156.
+R   H   X   H
+I   R   C   R
+
+3157.
+R2  X   H   H   R2
+I   C   R   R2  I
+
+3158.
+I   X   H   H   R
+R   C   R2  I   I
+
+3159.
+R2  H   H   S   R
+R2  R   I   I   I
+
+3160.
+I   X   H   X   H   R2
+R   C   R   C   I   I
+
+3161.
+I   H   X   H   S   X
+R2  I   C   I   I   C
+
+3162.
+R2  H   H   S   R
+R   R   R2  I   I
+
+3163.
+R2  H   X   H   R
+R2  I   C   I   I
+
+3164.
+I   H   X   H   S   X   R2
+R   R   C   I   I   C   I
+
+3165.
+I   H   H   S   R
+R   I   R   I   I
+
+3166.
+R2  H   X   H
+R   R2  C   R
+
+3167.
+R2  X   H   H   S   R
+R   C   R   R2  I   I
+
+3168.
+I   X   H   X   H   S   R2
+R   C   I   C   R2  I   I
+
+3169.
+R   H   H   S   X   R
+R2  R2  R   I   C   I
+
+3170.
+R2  H   X   H   S
+R2  R2  C   I   I
+
+3171.
+R   X   H   X   H   S   R2
+R2  C   R2  C   R2  I   I
+
+3172.
+R   H   H   S   R2
+R   R2  R   I   I
+
+3173.
+R2  X   H   X   H
+R   C   R2  C   R2
+
+3174.
+I   H   H   S   X
+R2  R2  I   I   C
+
+3175.
+R2  H   H   X   R
+I   R2  R   C   I
+
+3176.
+R2  H   H   X   R2
+R2  R   I   C   I
+
+3177.
+R   H   H
+I   I   R2
+
+3178.
+R   H   X   H   X
+I   R2  C   R   C
+
+3179.
+I   H   H
+R2  I   R
+
+3180.
+R   H   X   H   R2
+R   R2  C   I   I
+
+3181.
+I   X   H   X   H   S   R2
+R2  C   R2  C   R2  I   I
+
+3182.
+R2  X   H   H   S   R2
+R2  C   I   R2  I   I
+
+3183.
+H   H   X
+I   R   C
+
+3184.
+R   X   H   H
+R2  C   R   R2
+
+3185.
+R2  H   X   H   X   R2
+I   I   C   I   C   I
+
+3186.
+R2  H   X   H   R
+R2  R2  C   R2  I
+
+3187.
+I   X   H   H   R2
+R2  C   R2  R2  I
+
+3188.
+H   H   S   X
+R   R   I   C
+
+3189.
+I   X   H   X   H   S
+R2  C   R2  C   R2  I
+
+3190.
+I   H   H   S
+R   R   I   I
+
+3191.
+R2  H   H   S
+I   I   I   I
+
+3192.
+R2  H   H   S   R2
+I   R   I   I   I
+
+3193.
+R2  X   H   H   R2
+R2  C   R   R   I
+
+3194.
+R2  X   H   H   R
+R2  C   R2  I   I
+
+3195.
+H   X   H   R
+R   C   R2  I
+
+3196.
+R2  X   H   H   R
+R   C   R2  R   I
+
+3197.
+R   X   H   H   S   R2
+R2  C   R2  R   I   I
+
+3198.
+I   X   H   H   S   R
+R   C   R   R   I   I
+
+3199.
+R   X   H   H   R2
+R   C   I   I   I
+
+3200.
+X   H   H   X   R
+C   R2  R   C   I
+
+3201.
+I   H   H   S
+R   R2  R2  I
+
+3202.
+I   H   H   R2
+R   R2  R2  I
+
+3203.
+R2  H   H   X
+R   R2  R   C
+
+3204.
+R   H   H   X   R
+I   R   R2  C   I
+
+3205.
+R   X   H   H
+R   C   R   R2
+
+3206.
+H   X   H
+R   C   I
+
+3207.
+R2  X   H   X   H
+I   C   I   C   I
+
+3208.
+R2  X   H   H   X   R2
+R   C   R2  R2  C   I
+
+3209.
+R   H   H   R2
+R2  R2  R   I
+
+3210.
+R   H   X   H   R
+I   R2  C   I   I
+
+3211.
+I   X   H   H   R
+R2  C   I   I   I
+
+3212.
+X   H   H   R2
+C   I   I   I
+
+3213.
+I   H   H   X
+R2  I   I   C
+
+3214.
+I   H   H
+R   I   I
+
+3215.
+R   X   H   H   R
+I   C   I   R   I
+
+3216.
+R   X   H   H   S   R
+I   C   I   R2  I   I
+
+3217.
+R2  X   H   H   R
+R   C   I   R2  I
+
+3218.
+R2  H   H   S
+R2  R2  I   I
+
+3219.
+R2  X   H   H
+I   C   I   R
+
+3220.
+R2  H   H   X
+R   R   R2  C
+
+3221.
+I   H   H   X   R2
+R   R2  I   C   I
+
+3222.
+R2  H   H   S   X   R2
+R2  R2  R2  I   C   I
+
+3223.
+I   H   H   X   R
+R2  R2  I   C   I
+
+3224.
+I   X   H   H   S   R2
+R   C   R   R2  I   I
+
+3225.
+R2  X   H   H   S   X
+R   C   R2  R2  I   C
+
+3226.
+I   X   H   H   S   R2
+R   C   I   I   I   I
+
+3227.
+R2  H   X   H   S   R2
+R   R2  C   R   I   I
+
+3228.
+R   H   H   X
+I   R   R   C
+
+3229.
+R   H   H   X   R
+I   I   R2  C   I
+
+3230.
+R   H   H   S   X   R
+R   R   R2  I   C   I
+
+3231.
+R2  X   H   H   S
+I   C   R2  R   I
+
+3232.
+I   H   X   H   S
+R2  R2  C   I   I
+
+3233.
+I   H   X   H   S
+R   R2  C   R   I
+
+3234.
+H   H   S
+I   I   I
+
+3235.
+R   H   X   H
+R   R2  C   R2
+
+3236.
+R2  X   H   H   S
+R2  C   R2  R   I
+
+3237.
+R2  H   H
+R   I   R
+
+3238.
+R2  H   H   S   X   R
+R2  I   R2  I   C   I
+
+3239.
+R   H   H   R
+I   R2  R2  I
+
+3240.
+R2  H   H   X
+R2  R   I   C
+
+3241.
+R2  H   H   X   R2
+R2  I   R2  C   I
+
+3242.
+I   X   H   H   S   X
+R2  C   R   R   I   C
+
+3243.
+I   H   X   H   S   R
+R2  R2  C   R   I   I
+
+3244.
+X   H   H   S   X   R2
+C   I   R   I   C   I
+
+3245.
+R2  H   X   H   S   R
+R2  R   C   R   I   I
+
+3246.
+R2  H   X   H
+I   R2  C   R2
+
+3247.
+H   H   R2
+I   R2  I
+
+3248.
+R   H   H   X   R
+I   R   R   C   I
+
+3249.
+H   X   H   S   R2
+R   C   R   I   I
+
+3250.
+R2  X   H   H   S   R
+I   C   R   R2  I   I
+
+3251.
+R   H   H   S   X   R
+R   I   R   I   C   I
+
+3252.
+I   X   H   H   S   R2
+R2  C   R   R   I   I
+
+3253.
+R2  H   H   S   R2
+R   R2  R2  I   I
+
+3254.
+R   H   H   S
+R2  R2  R2  I
+
+3255.
+R   X   H   H   R
+I   C   I   I   I
+
+3256.
+I   H   H   S   X   R
+R2  R2  R2  I   C   I
+
+3257.
+R2  H   H   S   X   R2
+I   I   R   I   C   I
+
+3258.
+R   X   H   H   S   R
+I   C   R   I   I   I
+
+3259.
+X   H   H   S   R
+C   I   R   I   I
+
+3260.
+I   H   H   X
+R   R   R   C
+
+3261.
+H   H
+R   I
+
+3262.
+R   H   H   R
+I   R2  R   I
+
+3263.
+R   H   H   S   R2
+R   R   I   I   I
+
+3264.
+R2  H   H   S   R
+R2  R2  R2  I   I
+
+3265.
+R   X   H   H
+I   C   I   I
+
+3266.
+R2  H   H   S   X   R
+R   R   R2  I   C   I
+
+3267.
+H   X   H   S
+R2  C   R   I
+
+3268.
+R   X   H   H   S
+R2  C   R2  I   I
+
+3269.
+R   H   X   H   S   R
+I   I   C   R   I   I
+
+3270.
+I   X   H   H   S   R
+R2  C   I   I   I   I
+
+3271.
+R2  H   H   S   X   R
+I   R   I   I   C   I
+
+3272.
+R2  X   H   X   H   R2
+R   C   R2  C   R2  I
+
+3273.
+I   H   H   X
+R2  I   R   C
+
+3274.
+I   H   X   H   S   R
+R2  R   C   I   I   I
+
+3275.
+R   H   X   H   X
+R   I   C   I   C
+
+3276.
+R   H   X   H   R
+I   I   C   R   I
+
+3277.
+R   X   H   X   H   S
+R2  C   I   C   R2  I
+
+3278.
+R2  H   X   H   R2
+R   R   C   R   I
+
+3279.
+R   H   H
+R   R2  I
+
+3280.
+R   H   H   S   X
+I   R2  R   I   C
+
+3281.
+I   H   H   S   X   R2
+R   I   R2  I   C   I
+
+3282.
+R   X   H   H   S
+R2  C   R   R   I
+
+3283.
+R2  H   X   H   S   R2
+I   R   C   R   I   I
+
+3284.
+I   H   H   S   R
+R2  R2  R   I   I
+
+3285.
+I   H   X   H   X   R2
+R   I   C   R2  C   I
+
+3286.
+R2  H   X   H   S
+I   R   C   R   I
+
+3287.
+I   X   H   H   S   R
+R   C   R   I   I   I
+
+3288.
+R   H   X   H   X   R2
+R   R2  C   R   C   I
+
+3289.
+H   H
+I   R
+
+3290.
+R   X   H   H   R
+R   C   I   I   I
+
+3291.
+R   X   H   H   S   R
+I   C   I   R   I   I
+
+3292.
+R2  H   H   R2
+I   R   I   I
+
+3293.
+R2  H   X   H   S   R2
+I   R   C   R2  I   I
+
+3294.
+R2  H   H   X   R
+R2  I   I   C   I
+
+3295.
+R2  H   X   H   X
+R   I   C   R   C
+
+3296.
+H   H   S   R
+R   R2  I   I
+
+3297.
+R   H   X   H
+R   I   C   I
+
+3298.
+R2  X   H   H
+I   C   R   R2
+
+3299.
+R2  H   H   R
+I   R   I   I
+
+3300.
+R   X   H   H   S   R
+I   C   R2  I   I   I
+
+3301.
+I   X   H   H   S
+R2  C   I   R2  I
+
+3302.
+R2  X   H   H   S
+R   C   R   R2  I
+
+3303.
+R   H   H   X   R
+R   R2  R2  C   I
+
+3304.
+I   X   H   H   S
+R   C   R   I   I
+
+3305.
+R   H   H   X   R2
+R2  I   R   C   I
+
+3306.
+R2  X   H   H   S   R2
+R   C   R   I   I   I
+
+3307.
+R   H   X   H   S   R
+R2  R2  C   I   I   I
+
+3308.
+R2  H   H   R
+R2  I   R   I
+
+3309.
+R   H   H   S   X   R
+I   I   R2  I   C   I
+
+3310.
+H   X   H   S   R
+R   C   R2  I   I
+
+3311.
+I   H   X   H   S
+R2  R   C   R2  I
+
+3312.
+R2  H   H   R
+I   R2  I   I
+
+3313.
+R   H   H   X   R
+R2  R   R   C   I
+
+3314.
+R   X   H   H   R
+R   C   R   I   I
+
+3315.
+R   X   H   H   S   R2
+R2  C   R2  R2  I   I
+
+3316.
+R2  H   X   H   S
+R   I   C   I   I
+
+3317.
+R2  X   H   H   S   R2
+I   C   I   I   I   I
+
+3318.
+R   H   H   S   X   R
+I   I   I   I   C   I
+
+3319.
+R2  X   H   X   H   S
+R2  C   R2  C   I   I
+
+3320.
+R   H   X   H
+R   I   C   R2
+
+3321.
+I   H   H   S   X
+R2  I   R   I   C
+
+3322.
+R2  H   H   S   X   R2
+R2  I   I   I   C   I
+
+3323.
+R2  H   H   X
+I   I   R2  C
+
+3324.
+R2  H   X   H   S   X   R2
+I   I   C   R2  I   C   I
+
+3325.
+R   H   H   S   X
+R2  R2  I   I   C
+
+3326.
+I   X   H   H   S   R2
+R2  C   R2  R2  I   I
+
+3327.
+I   H   H   X   R
+R   R2  I   C   I
+
+3328.
+I   H   X   H   S   R2
+R2  I   C   R   I   I
+
+3329.
+R2  H   X   H   R2
+R   R2  C   I   I
+
+3330.
+R2  H   X   H   R2
+I   R   C   I   I
+
+3331.
+R2  H   H   X   R
+I   R2  I   C   I
+
+3332.
+R2  H   H   S   R2
+R   R   R2  I   I
+
+3333.
+R2  H   H   S   X   R
+I   R2  I   I   C   I
+
+3334.
+R2  X   H   H   S
+I   C   I   I   I
+
+3335.
+R2  H   H   S   X   R2
+I   I   I   I   C   I
+
+3336.
+R   H   H   X
+R2  I   R   C
+
+3337.
+I   H   X   H
+R   I   C   I
+
+3338.
+R   H   H
+R2  I   I
+
+3339.
+R   X   H   H   S   X   R
+I   C   R2  R2  I   C   I
+
+3340.
+X   H   H   S
+C   I   R2  I
+
+3341.
+I   X   H   X   H   R
+R   C   I   C   I   I
+
+3342.
+I   H   H   S   R2
+R2  R   I   I   I
+
+3343.
+R   H   H
+R   I   R
+
+3344.
+R2  X   H   H   R
+I   C   R2  R2  I
+
+3345.
+R   H   X   H   S   R2
+R2  I   C   R   I   I
+
+3346.
+R   H   H   S   X
+R2  R2  R   I   C
+
+3347.
+I   X   H   H
+R   C   R   R
+
+3348.
+I   H   H   S
+R   R2  R   I
+
+3349.
+I   H   X   H   R
+R2  R2  C   I   I
+
+3350.
+R2  X   H   H   R2
+R   C   R2  R   I
+
+3351.
+I   H   H   R
+R2  R2  R   I
+
+3352.
+R   H   H   X   R2
+I   R   R   C   I
+
+3353.
+R   X   H   H   S   R2
+R   C   R   R   I   I
+
+3354.
+R   H   H   R2
+I   R2  R   I
+
+3355.
+R2  X   H   H   S   R2
+R2  C   R   R2  I   I
+
+3356.
+R2  X   H   H   R2
+R   C   R   R2  I
+
+3357.
+R2  H   X   H   R2
+R2  R   C   R   I
+
+3358.
+R   X   H   H   R2
+R2  C   R   R   I
+
+3359.
+R   H   H   S
+R2  R2  I   I
+
+3360.
+R   X   H   H   S   R
+R2  C   R2  R   I   I
+
+3361.
+R2  H   H   R2
+R2  R   R   I
+
+3362.
+R2  H   H   R
+I   R2  R   I
+
+3363.
+R   H   H   X   R2
+R2  I   I   C   I
+
+3364.
+I   H   H   S   R2
+R2  I   R2  I   I
+
+3365.
+R2  H   X   H   S   R
+R   I   C   I   I   I
+
+3366.
+I   H   H   S   X   R2
+R2  I   R   I   C   I
+
+3367.
+R   H   H   X
+R   R   I   C
+
+3368.
+R2  H   H   X
+R2  R2  I   C
+
+3369.
+I   X   H   H   S   R2
+R   C   R2  R2  I   I
+
+3370.
+R   H   X   H   S
+I   R   C   R2  I
+
+3371.
+I   H   X   H   S
+R2  I   C   R2  I
+
+3372.
+R2  H   X   H   R2
+R   R2  C   R   I
+
+3373.
+I   H   X   H   S   R
+R   I   C   R   I   I
+
+3374.
+R2  H   H   X   R2
+I   R   R   C   I
+
+3375.
+R2  X   H   H
+R2  C   R   R
+
+3376.
+R2  H   H   S
+R   R2  R2  I
+
+3377.
+I   H   H   S   X   R
+R2  I   R2  I   C   I
+
+3378.
+X   H   H   S   X
+C   I   R2  I   C
+
+3379.
+I   X   H   H   R
+R   C   R2  R2  I
+
+3380.
+R2  H   H   R
+R   I   R   I
+
+3381.
+R   H   H   S   R
+R2  R   I   I   I
+
+3382.
+R2  H   H   R2
+R2  I   R   I
+
+3383.
+R2  H   H   R
+I   R   R2  I
+
+3384.
+R2  X   H   H   R
+R   C   I   R   I
+
+3385.
+X   H   H   S   R
+C   R   I   I   I
+
+3386.
+R   H   H   S   R2
+I   R2  I   I   I
+
+3387.
+R2  X   H   H   S   R2
+I   C   R2  R   I   I
+
+3388.
+R   X   H   H   S   R
+I   C   R2  R   I   I
+
+3389.
+R2  X   H   H   S   X   R
+I   C   R   I   I   C   I
+
+3390.
+I   X   H   X   H   S   R
+R   C   I   C   R2  I   I
+
+3391.
+R   H   H   S   R2
+R2  R   R   I   I
+
+3392.
+R   H   X   H
+I   I   C   I
+
+3393.
+I   H   X   H   R
+R   R   C   I   I
+
+3394.
+R2  H   H   S   X   R2
+R2  R   R   I   C   I
+
+3395.
+R   H   H   S   R
+R   R2  R2  I   I
+
+3396.
+R   X   H   H   R
+R2  C   R   R2  I
+
+3397.
+R   H   X   H   S
+I   R   C   R   I
+
+3398.
+R2  X   H   H   R
+I   C   I   R2  I
+
+3399.
+R   H   X   H   R
+I   R2  C   R2  I
+
+3400.
+H   X   H   R2
+R   C   R   I
+
+3401.
+R2  X   H   H   R
+I   C   R   I   I
+
+3402.
+R2  H   H   S   X   R2
+R   R2  R2  I   C   I
+
+3403.
+H   H
+R2  I
+
+3404.
+R   H   X   H   R2
+I   R   C   R2  I
+
+3405.
+I   X   H   H   R
+R2  C   R   R2  I
+
+3406.
+I   H   H   S
+R2  R   R   I
+
+3407.
+I   H   H
+R   R   I
+
+3408.
+R   H   H   S
+I   R   R   I
+
+3409.
+R2  H   H   X   R
+R   I   R   C   I
+
+3410.
+R2  X   H   H   R2
+R   C   R   I   I
+
+3411.
+H   H   S   R
+I   R2  I   I
+
+3412.
+R   H   X   H   S   R
+R2  R2  C   R   I   I
+
+3413.
+R   H   H   X
+I   R   R2  C
+
+3414.
+R2  H   H   X   R2
+R2  I   I   C   I
+
+3415.
+R2  H   H   R
+I   I   R2  I
+
+3416.
+X   H   H   R2
+C   R2  I   I
+
+3417.
+R2  H   X   H   R
+R2  R   C   R   I
+
+3418.
+R   X   H   H   X
+R2  C   I   R   C
+
+3419.
+R2  H   X   H
+I   R   C   R
+
+3420.
+R   H   H   S   R2
+R2  I   I   I   I
+
+3421.
+R   H   X   H   S   R2
+R2  R   C   R   I   I
+
+3422.
+R   X   H   H
+I   C   R2  R
+
+3423.
+I   H   H
+R2  R2  I
+
+3424.
+R   H   H   S
+R   R   R2  I
+
+3425.
+R2  H   H   S   R
+R   R2  I   I   I
+
+3426.
+R2  H   H   S   R
+I   R2  R   I   I
+
+3427.
+R   X   H   H   S   R2
+R   C   R   I   I   I
+
+3428.
+I   H   X   H   X
+R2  I   C   I   C
+
+3429.
+I   H   H
+R2  R2  R2
+
+3430.
+R   H   H   S
+R   R2  I   I
+
+3431.
+H   H   R
+R   R   I
+
+3432.
+I   H   H   R2
+R   R2  R   I
+
+3433.
+R2  X   H   H   S   R
+R2  C   R2  I   I   I
+
+3434.
+I   H   H   S   R
+R   R   I   I   I
+
+3435.
+R   H   H   X
+R2  I   R2  C
+
+3436.
+R   H   H   S   X
+R   R2  I   I   C
+
+3437.
+R   H   H   X   R
+R   R   I   C   I
+
+3438.
+H   H   X
+R   R2  C
+
+3439.
+R2  H   X   H   R
+I   R   C   R2  I
+
+3440.
+R2  X   H   H   S   R2
+I   C   R   R   I   I
+
+3441.
+I   H   H   S
+R2  R2  R   I
+
+3442.
+I   H   H   S   R
+R   R2  I   I   I
+
+3443.
+R   H   X   H   R2
+R   I   C   R2  I
+
+3444.
+I   X   H   H   S
+R2  C   R   I   I
+
+3445.
+R2  X   H   H   S   R
+R2  C   R   R   I   I
+
+3446.
+I   H   H   S   R
+R2  R2  R2  I   I
+
+3447.
+R2  H   X   H   R2
+R   I   C   I   I
+
+3448.
+R2  H   H   S
+R   I   R2  I
+
+3449.
+I   X   H   H
+R2  C   R2  R
+
+3450.
+R2  X   H   H
+R2  C   I   R2
+
+3451.
+I   H   H
+R   I   R2
+
+3452.
+R   X   H   H   R2
+I   C   R   I   I
+
+3453.
+R   H   H   S   X   R2
+I   R   R2  I   C   I
+
+3454.
+R   H   X   H   R2
+I   I   C   R2  I
+
+3455.
+R   H   X   H   S
+R2  R   C   I   I
+
+3456.
+X   H   H   R2
+C   R2  R   I
+
+3457.
+R2  H   H   S
+R2  I   R2  I
+
+3458.
+I   H   H
+R   R2  R2
+
+3459.
+H   H   S   R2
+R2  R   I   I
+
+3460.
+I   X   H   H   S   R2
+R   C   R   R   I   I
+
+3461.
+R2  H   H   S   X
+R   R   R   I   C
+
+3462.
+R2  H   X   H   R2
+R   I   C   R2  I
+
+3463.
+R   H   H   S   R
+R   R   R2  I   I
+
+3464.
+R   H   H   R
+R   R2  I   I
+
+3465.
+H   H   X   R2
+R   R   C   I
+
+3466.
+R2  H   H   S   X   R
+R2  R2  R2  I   C   I
+
+3467.
+R   H   H   X   R2
+R2  R2  R2  C   I
+
+3468.
+R2  H   H   S   R
+R2  R2  I   I   I
+
+3469.
+I   H   H   S   X   R
+R   I   R2  I   C   I
+
+3470.
+R   H   H   S   X   R2
+I   R2  R   I   C   I
+
+3471.
+R   X   H   H   R
+R2  C   R   R   I
+
+3472.
+R2  H   H   S   X   R
+R2  R   R2  I   C   I
+
+3473.
+I   H   X   H   S
+R2  R   C   I   I
+
+3474.
+R   H   X   H   R2
+R   R   C   R   I
+
+3475.
+I   H   X   H   R2
+R   I   C   I   I
+
+3476.
+R   H   H   S   R2
+R2  R   R2  I   I
+
+3477.
+R2  H   X   H   S   R2
+R   R2  C   R2  I   I
+
+3478.
+R   H   H   X
+I   R2  R2  C
+
+3479.
+R   X   H   H
+R2  C   R2  I
+
+3480.
+R   H   H
+I   R   R
+
+3481.
+R   H   H   S   X   R2
+I   R2  I   I   C   I
+
+3482.
+R   H   H   S
+R   I   R2  I
+
+3483.
+R2  X   H   H   S   R
+R2  C   R2  R2  I   I
+
+3484.
+R   H   H   S   X
+I   R   I   I   C
+
+3485.
+I   H   X   H   R2
+R2  R2  C   I   I
+
+3486.
+I   H   H   S   R
+R2  I   I   I   I
+
+3487.
+R   H   X   H
+I   R2  C   R
+
+3488.
+H   H   R
+R2  R2  I
+
+3489.
+R2  H   H   S   R2
+R2  R   R2  I   I
+
+3490.
+I   H   H   X   R
+R   I   I   C   I
+
+3491.
+I   H   H   S   R2
+R   I   I   I   I
+
+3492.
+R2  H   H   S   X
+R2  I   R   I   C
+
+3493.
+R2  H   H   S
+R2  R   R2  I
+
+3494.
+R   H   X   H   S
+R2  R   C   R   I
+
+3495.
+I   H   X   H
+R   I   C   R2
+
+3496.
+R   H   H   X   R2
+I   I   R2  C   I
+
+3497.
+R   H   H   S   R2
+R2  R2  R2  I   I
+
+3498.
+H   H   S   X   R
+R2  R   I   C   I
+
+3499.
+R   H   H   R
+R   R2  R2  I
+
+3500.
+R2  X   H   H   R
+R2  C   R   I   I
+
+3501.
+X   H   H   R
+C   I   R   I
+
+3502.
+R2  H   H   S   X   R
+R   R   R   I   C   I
+
+3503.
+R2  H   H   S   R
+R2  I   I   I   I
+
+3504.
+I   H   H   S   R2
+R   R   R2  I   I
+
+3505.
+R2  X   H   H   R2
+R2  C   R   R2  I
+
+3506.
+R   H   X   H   S   R2
+I   R   C   R2  I   I
+
+3507.
+I   X   H   H   R
+R   C   R   I   I
+
+3508.
+R   H   H   S   R
+R   I   R   I   I
+
+3509.
+R2  H   H   R
+R2  R2  R2  I
+
+3510.
+R2  X   H   H   S   R
+R   C   I   I   I   I
+
+3511.
+I   X   H   H   X   R
+R   C   R2  R   C   I
+
+3512.
+R2  X   H   H   S   R
+R2  C   I   I   I   I
+
+3513.
+R   X   H   H   S   R
+R2  C   I   R2  I   I
+
+3514.
+R2  H   H   S   X
+R2  I   I   I   C
+
+3515.
+I   X   H   H   R2
+R   C   R2  I   I
+
+3516.
+R   H   H   S
+R   R   I   I
+
+3517.
+R2  H   X   H   S   R2
+I   I   C   R2  I   I
+
+3518.
+R   H   H   X   R
+I   R   I   C   I
+
+3519.
+R   H   H   S
+R2  I   R   I
+
+3520.
+R2  X   H   H   R
+R   C   R   R2  I
+
+3521.
+X   H   H   S   R
+C   I   R2  I   I
+
+3522.
+R   H   H   R
+R2  R   R2  I
+
+3523.
+R   H   H   R2
+R2  I   R2  I
+
+3524.
+H   H   R2
+R   I   I
+
+3525.
+R2  H   H   S   R
+I   R2  R2  I   I
+
+3526.
+R2  H   X   H   R
+R   R   C   R   I
+
+3527.
+R   H   H   S   R
+I   R   R2  I   I
+
+3528.
+R   X   H   H   R
+I   C   I   R2  I
+
+3529.
+H   H
+R   R2
+
+3530.
+R   H   H   S   R
+I   R2  R   I   I
+
+3531.
+R2  H   H   R2
+R   R   R   I
+
+3532.
+R2  X   H   H   S   R
+R   C   I   R2  I   I
+
+3533.
+R2  H   H   R2
+R   R   I   I
+
+3534.
+R   X   H   H   S   R
+R   C   R   R   I   I
+
+3535.
+R   H   H   S   R2
+R   I   R2  I   I
+
+3536.
+R2  H   X   H   R2
+I   R2  C   R2  I
+
+3537.
+H   X   H   R
+R2  C   R   I
+
+3538.
+R   H   X   H   R
+R2  I   C   R   I
+
+3539.
+X   H   H   S
+C   I   R   I
+
+3540.
+R   H   H   S   X
+I   R   R   I   C
+
+3541.
+I   H   H   X   R2
+R   R2  R   C   I
+
+3542.
+I   H   H   R2
+R   I   R   I
+
+3543.
+R2  H   H   S
+R2  I   R   I
+
+3544.
+R2  H   H   S
+R   R   R   I
+
+3545.
+I   H   H   R
+R2  R   R2  I
+
+3546.
+R   H   H   R
+R2  I   I   I
+
+3547.
+R2  H   X   H
+I   R   C   I
+
+3548.
+R   H   X   H   R
+I   R   C   R2  I
+
+3549.
+R2  H   X   H   S   R
+I   R2  C   I   I   I
+
+3550.
+H   H
+R2  R2
+
+3551.
+I   X   H   H   S   R2
+R   C   R   I   I   I
+
+3552.
+R2  H   H   X
+R2  I   I   C
+
+3553.
+I   X   H   H
+R   C   I   R
+
+3554.
+H   H
+R   R
+
+3555.
+R   H   H   X   R2
+R   R2  R2  C   I
+
+3556.
+R   H   H   S   R2
+I   I   R   I   I
+
+3557.
+R   X   H   H   S   R
+R2  C   I   R   I   I
+
+3558.
+R2  X   H   H   S
+R2  C   R   R   I
+
+3559.
+R   H   H   S   R2
+R   I   I   I   I
+
+3560.
+I   X   H   H   R2
+R   C   I   R   I
+
+3561.
+H   H   S   R
+R   I   I   I
+
+3562.
+R2  X   H   H
+R2  C   R2  I
+
+3563.
+R2  X   H   H   S   R2
+R   C   R2  R   I   I
+
+3564.
+I   H   H   S   R
+R   R2  R2  I   I
+
+3565.
+I   X   H   H   S   R
+R2  C   I   R   I   I
+
+3566.
+I   X   H   H   S
+R   C   R   R   I
+
+3567.
+R2  H   H   S   X
+I   R2  R2  I   C
+
+3568.
+R   X   H   X   H   S   R2
+R   C   R   C   I   I   I
+
+3569.
+R   H   H   R
+R2  R   I   I
+
+3570.
+R2  H   H   S   R2
+I   R   R2  I   I
+
+3571.
+H   H   R
+R2  R   I
+
+3572.
+H   H   R
+R   R2  I
+
+3573.
+R2  H   X   H   S   R
+I   R2  C   R2  I   I
+
+3574.
+R   H   H   R
+I   R   R2  I
+
+3575.
+R2  H   H
+R2  R   R
+
+3576.
+R   H   H   S   R2
+R2  R2  I   I   I
+
+3577.
+H   X   H   X
+R   C   I   C
+
+3578.
+R   X   H   H   S   R2
+I   C   R   I   I   I
+
+3579.
+R2  H   H   S   R2
+I   R2  I   I   I
+
+3580.
+I   H   H   X   R
+R   R   I   C   I
+
+3581.
+R   X   H   H   S   R
+R   C   R2  I   I   I
+
+3582.
+I   H   X   H   S   R2
+R   R2  C   R   I   I
+
+3583.
+R2  H   H   S
+R2  I   I   I
+
+3584.
+R   X   H   H   R
+R   C   I   R2  I
+
+3585.
+R2  H   H   S   R
+I   I   R   I   I
+
+3586.
+I   H   H   S   X
+R2  I   I   I   C
+
+3587.
+R   H   H
+R   R   R2
+
+3588.
+R   X   H   H   R2
+I   C   R2  R   I
+
+3589.
+R2  H   H   S   X
+I   R   I   I   C
+
+3590.
+R2  H   H   S   R2
+I   I   R   I   I
+
+3591.
+R   H   H   S   R2
+I   R   I   I   I
+
+3592.
+R   H   H   S   R
+I   R2  R2  I   I
+
+3593.
+H   H   R
+I   R   I
+
+3594.
+R   X   H   H
+R2  C   I   I
+
+3595.
+R   H   X   H   S
+R   R2  C   R   I
+
+3596.
+R   H   H   S   X   R
+I   R   R   I   C   I
+
+3597.
+I   H   H   R
+R2  R   I   I
+
+3598.
+I   H   H   S
+R   I   I   I
+
+3599.
+X   H   H   S   R2
+C   R2  R   I   I
+
+3600.
+R   H   H   S   X   R
+R2  R2  I   I   C   I
+
+3601.
+I   H   H   X   R2
+R2  R   R   C   I
+
+3602.
+R2  H   H
+R   I   I
+
+3603.
+R   H   X   H   S   R2
+I   I   C   R   I   I
+
+3604.
+R   H   X   H   S   R
+I   R2  C   R   I   I
+
+3605.
+R2  H   X   H   R2
+I   I   C   I   I
+
+3606.
+I   H   X   H   R2
+R2  R2  C   R2  I
+
+3607.
+R2  H   H   X   R2
+R   R2  R   C   I
+
+3608.
+R   H   H   S   R
+R   I   I   I   I
+
+3609.
+R   H   X   H   R
+I   I   C   R2  I
+
+3610.
+R2  X   H   H   S   R2
+R   C   R2  I   I   I
+
+3611.
+H   H   R2
+R   R2  I
+
+3612.
+I   X   H   H   S
+R2  C   I   I   I
+
+3613.
+H   H   X   R
+R   R2  C   I
+
+3614.
+I   H   H   S   X   R2
+R2  R   R   I   C   I
+
+3615.
+I   H   H   S
+R2  I   I   I
+
+3616.
+I   H   H   X
+R2  I   R2  C
+
+3617.
+I   H   H   R2
+R   R2  I   I
+
+3618.
+R   X   H   H   S
+I   C   R2  I   I
+
+3619.
+R2  X   H   H   R2
+R   C   I   R2  I
+
+3620.
+R   H   H   S   R2
+R2  R2  R   I   I
+
+3621.
+R   H   X   H   S
+I   I   C   R2  I
+
+3622.
+I   H   H   R2
+R   R   R   I
+
+3623.
+X   H   H   S   R
+C   I   I   I   I
+
+3624.
+I   H   H   S   R2
+R   R2  R2  I   I
+
+3625.
+R   X   H   H   R
+I   C   R   R   I
+
+3626.
+R   H   H   S
+I   R   I   I
+
+3627.
+R2  H   H
+R2  R2  I
+
+3628.
+R2  X   H   H   S
+I   C   I   R2  I
+
+3629.
+I   H   H   S   R
+R2  R   R2  I   I
+
+3630.
+I   H   H   S   R2
+R2  R   R   I   I
+
+3631.
+I   X   H   H   S
+R2  C   R2  R2  I
+
+3632.
+R2  H   H   S   X   R
+I   R   R2  I   C   I
+
+3633.
+H   X   H
+R2  C   I
+
+3634.
+H   H   S   X   R
+R   I   I   C   I
+
+3635.
+I   H   H   X
+R   R2  R   C
+
+3636.
+R2  H   H   R
+R   I   I   I
+
+3637.
+R   H   H
+R   R2  R
+
+3638.
+R   H   H   S   X   R2
+R   I   R2  I   C   I
+
+3639.
+R2  H   X   H   S
+R   R   C   I   I
+
+3640.
+R2  H   H   R
+R   R2  R2  I
+
+3641.
+H   H   S   R2
+I   R2  I   I
+
+3642.
+R2  X   H   H   S
+I   C   R   R   I
+
+3643.
+H   H   S   R
+I   R   I   I
+
+3644.
+R   H   H   S   X
+R2  I   R   I   C
+
+3645.
+R2  H   H   S   R2
+I   I   I   I   I
+
+3646.
+R2  H   H   S   R2
+R   I   R2  I   I
+
+3647.
+R   H   H   S
+I   R2  R   I
+
+3648.
+R2  H   X   H   S
+I   R2  C   I   I
+
+3649.
+R   H   X   H
+R2  R2  C   R
+
+3650.
+R   H   H   R2
+R   I   R   I
+
+3651.
+R   X   H   H   S   R
+I   C   I   I   I   I
+
+3652.
+R2  H   H   R2
+R   R2  R2  I
+
+3653.
+H   H   S
+R   R   I
+
+3654.
+R   X   H   H   R2
+I   C   I   R2  I
+
+3655.
+I   H   H   S   X
+R   R2  R2  I   C
+
+3656.
+R   H   X   H   R2
+R   R2  C   R2  I
+
+3657.
+R   X   H   H   S   R2
+I   C   I   R   I   I
+
+3658.
+R   X   H   H
+I   C   R   I
+
+3659.
+H   H   S   R
+I   I   I   I
+
+3660.
+H   H   X   R2
+R2  R   C   I
+
+3661.
+R   H   H   S   R2
+I   I   R2  I   I
+
+3662.
+R   H   H   R2
+I   I   I   I
+
+3663.
+R   H   H   S   R
+R2  R2  R   I   I
+
+3664.
+R2  H   H   R2
+I   R   R2  I
+
+3665.
+R   H   H   R
+I   I   R   I
+
+3666.
+R2  H   H   S   X   R2
+R2  R2  R   I   C   I
+
+3667.
+I   H   H   S   R
+R2  R   R   I   I
+
+3668.
+I   X   H   H   S
+R   C   I   R2  I
+
+3669.
+R   H   H   S   X   R
+R2  I   I   I   C   I
+
+3670.
+R2  X   H   H   R
+R   C   I   I   I
+
+3671.
+R   H   H
+R2  I   R2
+
+3672.
+R2  H   H   R2
+I   I   I   I
+
+3673.
+H   H   X
+R2  I   C
+
+3674.
+R2  H   H   R2
+R   I   I   I
+
+3675.
+R   H   H   S   X   R2
+R   R2  R   I   C   I
+
+3676.
+I   X   H   H
+R   C   R2  R
+
+3677.
+R   X   H   H   S   R2
+R   C   I   R   I   I
+
+3678.
+R   H   X   H   S   R
+R   R2  C   R2  I   I
+
+3679.
+R2  H   H   R
+I   R   R   I
+
+3680.
+R   X   H   H   R
+I   C   R   R2  I
+
+3681.
+R2  X   H   H   S
+I   C   R   R2  I
+
+3682.
+R2  H   H   S   R2
+R   R2  I   I   I
+
+3683.
+R   H   H   X   R
+R   I   R2  C   I
+
+3684.
+R   H   H   S
+I   R2  R2  I
+
+3685.
+R   H   H   S   X   R2
+R   R   I   I   C   I
+
+3686.
+R2  H   X   H
+I   I   C   R2
+
+3687.
+R2  H   H   S   R2
+I   R2  R2  I   I
+
+3688.
+I   H   H   R2
+R2  R   R   I
+
+3689.
+R2  H   H   S   R2
+R2  R2  R   I   I
+
+3690.
+R   H   X   H
+R   R2  C   R
+
+3691.
+R2  H   H   S   R2
+R2  R2  R2  I   I
+
+3692.
+R2  X   H   H   R
+R   C   R   R   I
+
+3693.
+H   H   R
+R2  I   I
+
+3694.
+R2  H   H   S   X   R2
+R2  I   R2  I   C   I
+
+3695.
+H   X   H   S   R
+R   C   R   I   I
+
+3696.
+R2  H   H   S
+R   I   R   I
+
+3697.
+I   H   X   H   S   R2
+R2  R2  C   R2  I   I
+
+3698.
+R2  H   H   R
+R2  I   I   I
+
+3699.
+I   H   H   S   R2
+R2  R2  R   I   I
+
+3700.
+I   H   H   X   R2
+R   R   R   C   I
+
+3701.
+R   H   H   R2
+R2  R   R2  I
+
+3702.
+I   H   H   S   X
+R2  R   R2  I   C
+
+3703.
+R   H   H   S   R2
+I   R2  R2  I   I
+
+3704.
+R   H   H   X   R2
+R   R   R2  C   I
+
+3705.
+R2  H   H
+R   R   R
+
+3706.
+R   H   H   S
+R2  R   I   I
+
+3707.
+R2  H   H   R2
+R2  R   R2  I
+
+3708.
+R2  X   H   H
+R   C   R   I
+
+3709.
+R2  H   H   S   X   R
+R2  R2  R   I   C   I
+
+3710.
+I   H   H   S   X
+R2  R2  R   I   C
+
+3711.
+R2  H   H   X
+I   R2  R   C
+
+3712.
+R2  H   X   H   S   R
+I   R   C   R2  I   I
+
+3713.
+I   H   H   R
+R2  I   R   I
+
+3714.
+R   H   H   S   X   R2
+I   I   R   I   C   I
+
+3715.
+R   H   H   R
+R   R2  R   I
+
+3716.
+X   H   H   S   R2
+C   R   R   I   I
+
+3717.
+R2  H   H   X   R
+R2  R   R2  C   I
+
+3718.
+I   H   X   H   S   R2
+R2  R2  C   R   I   I
+
+3719.
+R   H   H   R2
+R2  R   R   I
+
+3720.
+R2  H   H   R
+R   I   R2  I
+
+3721.
+R   H   X   H   S   R2
+I   R2  C   R   I   I
+
+3722.
+R2  H   H   S   R2
+I   R   R   I   I
+
+3723.
+R   H   H   R2
+R2  R   I   I
+
+3724.
+R2  X   H   H   S   R
+R   C   R   I   I   I
+
+3725.
+R   H   X   H   S   R2
+I   R   C   I   I   I
+
+3726.
+R2  H   H   R2
+I   I   R2  I
+
+3727.
+I   H   H   S
+R2  R   I   I
+
+3728.
+H   H   R2
+R2  R   I
+
+3729.
+H   H   S   X
+I   R2  I   C
+
+3730.
+R2  H   H   R2
+R   R2  I   I
+
+3731.
+X   H   H   S   R2
+C   I   I   I   I
+
+3732.
+I   H   H   S
+R   I   R2  I
+
+3733.
+I   X   H   H   S   R2
+R   C   I   R   I   I
+
+3734.
+R2  H   H   S   X   R
+R2  R2  I   I   C   I
+
+3735.
+H   X   H   R2
+R2  C   R   I
+
+3736.
+R2  H   H   R2
+I   R2  R2  I
+
+3737.
+R   H   H
+I   R   R2
+
+3738.
+I   H   H   S   R
+R2  I   R   I   I
+
+3739.
+R   H   H   S   X   R
+I   R2  I   I   C   I
+
+3740.
+R2  H   H   R2
+R   I   R   I
+
+3741.
+R2  H   X   H   S
+R2  I   C   I   I
+
+3742.
+R2  H   H
+R2  I   R
+
+3743.
+H   H   S   X   R2
+R   I   I   C   I
+
+3744.
+R2  H   H   R2
+R2  I   I   I
+
+3745.
+I   H   H   S   R2
+R   I   R   I   I
+
+3746.
+H   H   S   R
+R2  I   I   I
+
+3747.
+I   H   X   H   S   R2
+R   R   C   I   I   I
+
+3748.
+R2  H   X   H   S   R
+R   I   C   R   I   I
+
+3749.
+H   H
+I   R2
+
+3750.
+R   H   H   X   R2
+I   I   R   C   I
+
+3751.
+R   X   H   H   S
+R2  C   R   R2  I
+
+3752.
+R2  H   H   S   R
+R   I   R   I   I
+
+3753.
+R   H   H   X   R2
+R2  I   R2  C   I
+
+3754.
+X   H   H
+C   R   I
+
+3755.
+R2  H   H   S   R2
+R   I   I   I   I
+
+3756.
+I   H   X   H
+R2  R   C   R
+
+3757.
+R   X   H   H   S
+R   C   I   I   I
+
+3758.
+I   H   H   S
+R2  R2  R2  I
+
+3759.
+R   X   H   H
+R2  C   I   R
+
+3760.
+I   H   H   R
+R2  I   I   I
+
+3761.
+R2  H   H
+I   R   R
+
+3762.
+R   H   H   X   R2
+R2  R   I   C   I
+
+3763.
+R   H   H   S
+R2  R   R2  I
+
+3764.
+I   H   H   X   R
+R   R2  R   C   I
+
+3765.
+H   H   S   R2
+R2  R2  I   I
+
+3766.
+H   H   R
+I   R2  I
+
+3767.
+I   H   X   H
+R2  R   C   I
+
+3768.
+R   H   H
+R   I   R2
+
+3769.
+R   H   H   R2
+I   R   I   I
+
+3770.
+R2  H   H   X   R2
+I   R2  R   C   I
+
+3771.
+R   H   H   S   R
+R2  R2  R2  I   I
+
+3772.
+R   H   H   S
+R2  I   R2  I
+
+3773.
+R2  H   H
+R   R2  I
+
+3774.
+R2  H   H
+I   R   R2
+
+3775.
+R   X   H   H   S   R2
+I   C   R2  R   I   I
+
+3776.
+R2  H   H   S
+R   R   I   I
+
+3777.
+R   H   H   R
+I   I   R2  I
+
+3778.
+H   H   S   X   R
+R   R   I   C   I
+
+3779.
+R   H   H   S
+I   I   I   I
+
+3780.
+R2  H   H   R
+R   R   I   I
+
+3781.
+R   H   H   R
+I   I   I   I
+
+3782.
+I   H   H   R
+R   R2  R   I
+
+3783.
+R   H   X   H
+R   I   C   R
+
+3784.
+R2  H   H   S
+R   R2  I   I
+
+3785.
+R   H   H   R
+R2  R   R   I
+
+3786.
+R   H   H   S   R2
+R2  I   R   I   I
+
+3787.
+R   H   H   R
+R2  I   R2  I
+
+3788.
+R2  H   H   S   R2
+R   R   R   I   I
+
+3789.
+I   H   X   H   R2
+R   R   C   R   I
+
+3790.
+I   H   H   R
+R2  I   R2  I
+
+3791.
+R2  H   H   S   R
+R   I   R2  I   I
+
+3792.
+I   H   H
+R   R   R2
+
+3793.
+H   H   S   R2
+R   I   I   I
+
+3794.
+R2  H   H   S
+R2  R2  R2  I
+
+3795.
+R   H   H   S
+R2  R   R   I
+
+3796.
+I   H   H   R
+R   R2  R2  I
+
+3797.
+R2  H   H   R2
+R2  I   R2  I
+
+3798.
+H   H   S
+R   I   I
+
+3799.
+I   H   H   S   R2
+R2  R   R2  I   I
+
+3800.
+R2  H   H   S   R2
+I   I   R2  I   I
+
+3801.
+R   H   X   H   R
+R   R2  C   R   I
+
+3802.
+R2  H   H   S
+I   R   I   I
+
+3803.
+R   H   H   S   X   R2
+I   I   R2  I   C   I
+
+3804.
+R2  H   H   X   R
+R2  R   R   C   I
+
+3805.
+I   H   X   H   R
+R2  R   C   R   I
+
+3806.
+H   H   S   R2
+R   R   I   I
+
+3807.
+I   H   H   S   R
+R   R   R   I   I
+
+3808.
+R2  H   H   R2
+R   R2  R   I
+
+3809.
+R2  H   H   S   R
+I   I   I   I   I
+
+3810.
+R2  H   H   R
+R2  R   I   I
+
+3811.
+I   H   H   R2
+R2  R2  I   I
+
+3812.
+I   H   H   R2
+R   R   R2  I
+
+3813.
+I   H   H   S   R
+R   R   R2  I   I
+
+3814.
+R   H   H   S
+R   R   R   I
+
+3815.
+R   H   H   S   R
+R2  I   R2  I   I
+
+3816.
+R2  H   H   R
+I   R2  R2  I
+
+3817.
+R   H   H   S   R2
+I   R   R   I   I
+
+3818.
+R   H   H
+R2  R   R
+
+3819.
+R2  H   H
+I   R2  R
+
+3820.
+R2  H   H   R
+R   R2  I   I
+
+3821.
+R2  H   H   X   R
+R   R   R2  C   I
+
+3822.
+H   H
+R2  R
+
+3823.
+I   H   H   S
+R   R   R2  I
+
+3824.
+I   H   H   S   X   R
+R2  R2  I   I   C   I
+
+3825.
+R   H   H   S
+R   I   I   I
+
+3826.
+R   H   H   R
+I   R   I   I
+
+3827.
+I   H   H   S
+R2  I   R2  I
+
+3828.
+H   H   X   R
+R2  R2  C   I
+
+3829.
+I   H   H   R
+R2  R   R   I
+
+3830.
+R2  H   H   S   R2
+R   I   R   I   I
+
+3831.
+I   H   H   R
+R   R   I   I
+
+3832.
+I   H   H   R2
+R   I   R2  I
+
+3833.
+R2  H   H
+R2  I   R2
+
+3834.
+I   H   H   S   R2
+R2  I   I   I   I
+
+3835.
+R   H   H
+R   R   I
+
+3836.
+H   H   R2
+I   I   I
+
+3837.
+I   H   H   S   R2
+R   R   R   I   I
+
+3838.
+R   H   H   R2
+R2  I   R   I
+
+3839.
+R   H   H   R2
+R   R2  R2  I
+
+3840.
+I   H   H   R2
+R2  I   R2  I
+
+3841.
+H   H   R2
+R2  I   I
+
+3842.
+R   H   H   S   R
+I   I   R2  I   I
+
+3843.
+R2  H   H   S   R2
+R2  I   R2  I   I
+
+3844.
+R2  H   H   S   R
+R   I   I   I   I
+
+3845.
+R2  H   H
+R   R2  R2
+
+3846.
+R2  H   H
+R2  R   R2
+
+3847.
+R2  H   H   S   R2
+R2  I   I   I   I
+
+3848.
+H   H   R
+R   I   I
+
+3849.
+I   H   H   R2
+R2  R2  R   I
+
+3850.
+I   H   H   S
+R   R   R   I
+
+3851.
+R   H   H   R
+R   I   I   I
+
+3852.
+H   H   S
+R   R2  I
+
+3853.
+R   H   H   S   R2
+R2  R   I   I   I
+
+3854.
+R   H   H   R
+R   I   R   I
+
+3855.
+I   H   H   S
+R2  I   R   I
+
+3856.
+R   H   H   S   R2
+R   R   R   I   I
+
+3857.
+I   H   H   R
+R   I   I   I
+
+3858.
+R   H   H
+I   R2  I
+
+3859.
+R   H   H
+I   I   R
+
+3860.
+I   H   H
+R2  I   R2
+
+3861.
+R   H   H   R2
+R   R   R2  I
+
+3862.
+R   H   H
+I   I   I
+
+3863.
+H   H   R2
+R2  R2  I
+
+3864.
+R2  H   H   S
+R2  R   R   I
+
+3865.
+R2  H   H
+R2  R2  R
+
+3866.
+R2  H   H   R
+R2  I   R2  I
+
+3867.
+R2  H   H
+R   I   R2
+
+3868.
+R2  H   H   S
+I   I   R2  I
+
+3869.
+I   H   H   S   R2
+R2  R2  R2  I   I
+
+3870.
+R   H   H   S   R2
+R   R2  R2  I   I
+
+3871.
+I   H   H   R2
+R   I   I   I
+
+3872.
+R   H   H   S   R2
+R   R2  I   I   I
+
+3873.
+R   H   H   S   R
+R   R2  R   I   I
+
