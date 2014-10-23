@@ -1,21 +1,25 @@
-from . import conjugate
-
-from .gates import X, Y, Z
+import qecc as q
 
 import numpy as np
 
-def test_conjugate_X():
-	rho = np.zeros((8, 8))
-	rho[0, 0] = 1
+def test_on():
+    small = q.Pauli('XZ')
+    medium = q.Pauli('XYZY')
+    large = q.Pauli('XZZZYXY')
 
-	rho0 = conjugate.conjugate_qubit(rho, X, 0, 3)
-	rho1 = conjugate.conjugate_qubit(rho, X, 1, 3)
-	rho2 = conjugate.conjugate_qubit(rho, X, 2, 3)
+    R = q.Clifford(['Z'], ['Y'])
+    SWAP = q.Clifford(['IX', 'XI'], ['IZ', 'ZI'])
 
-	assert rho0[4, 4] == 1
-	assert rho1[2, 2] == 1
-	assert rho2[1, 1] == 1
+    assert R.on(small, 0) == q.Pauli('ZZ')
+    assert R.on(small, 1) == q.Pauli('XY')
+    assert R.on(medium, 2) == q.Pauli('XYYY')
+    assert R.on(large, 0) == q.Pauli('ZZZZYXY')
+  
+    assert SWAP.on(small, 0, 1) == q.Pauli('ZX')
+    assert SWAP.on(medium, 0, 1) == q.Pauli('YXZY')
+    assert SWAP.on(medium, 2, 3) == q.Pauli('XYYZ')
+    assert SWAP.on(medium, 0, 3) == q.Pauli('YYZX')
+    assert SWAP.on(medium, 1, 2) == q.Pauli('XZYY')
 
-	assert np.sum(rho0) == 1
-	assert np.sum(rho1) == 1
-	assert np.sum(rho2) == 1
+
+test_on()
