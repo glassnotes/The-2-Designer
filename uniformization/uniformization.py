@@ -38,6 +38,10 @@ def uniformization(pauli):
         if xor_applied:
             circuit.append(['X'] + ['I'] * (idx_qubit - 1) + ['C'] + ['I'] * (pauli.nq - idx_qubit - 1))
 
+    # Check if output was good
+    #if pauli.op[0] == 'I' or pauli.op[0] == 'Z':
+    #    return None, None
+
     #print "Step 2: " , pauli
 
     next_circuit_line = []

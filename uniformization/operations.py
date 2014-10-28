@@ -26,7 +26,7 @@ def conjugate_by_random_xor(pauli, ctrl, targ, p):
     """
     do_xor = np.random.rand(1, 1) # Generate a single random float
     
-    if do_xor[0] <= p:
+    if do_xor[0] < p:
         xor = q.cnot(pauli.nq, ctrl, targ)
         return xor.conjugate_pauli(pauli), True
     else:
