@@ -43,3 +43,15 @@ def print_circuit(circuit, num_qubits):
     for line in circuit_t:
         print "\t".join(line).expandtabs(4)
 
+
+def print_circuit_to_file(circuit, num_qubits, out_file):
+    """
+        Print a circuit in a pretty way!
+    """
+    # Transpose the circuit
+    circuit_t = [ [circuit[d][q] for d in range(0, len(circuit))]  for q in range(0,num_qubits)]
+
+    for line in circuit_t:
+        out_file.write("\t".join(line).expandtabs(4))
+        out_file.write("\n")
+

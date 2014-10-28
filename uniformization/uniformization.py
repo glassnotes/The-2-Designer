@@ -27,7 +27,7 @@ def uniformization(pauli):
         circuit.append(next_circuit_line)
     next_circuit_line = []
 
-    print "Step 1: " , pauli
+    #print "Step 1: " , pauli
     ################################################
 
 
@@ -38,7 +38,7 @@ def uniformization(pauli):
         if xor_applied:
             circuit.append(['X'] + ['I'] * (idx_qubit - 1) + ['C'] + ['I'] * (pauli.nq - idx_qubit - 1))
 
-    print "Step 2: " , pauli
+    #print "Step 2: " , pauli
 
     next_circuit_line = []
     ################################################
@@ -62,7 +62,7 @@ def uniformization(pauli):
     circuit.append(next_circuit_line)
     next_circuit_line = []
 
-    print "Step 3: " , pauli
+    #print "Step 3: " , pauli
     ################################################
 
 
@@ -73,7 +73,7 @@ def uniformization(pauli):
         if xor_applied:
             circuit.append(['X'] + ['I'] * (idx_qubit - 1) + ['C'] + ['I'] * (pauli.nq - idx_qubit - 1))
 
-    print "Step 4: " , pauli
+    #print "Step 4: " , pauli
     ################################################
 
 
@@ -95,7 +95,7 @@ def uniformization(pauli):
     circuit.append(next_circuit_line)
     next_circuit_line = []
 
-    print "Step 5: " , pauli
+    #print "Step 5: " , pauli
     ################################################
 
 
@@ -107,7 +107,7 @@ def uniformization(pauli):
         pauli = S.conjugate_pauli(pauli)
         circuit.append(['S'] + ['I'] * (pauli.nq - 1))
 
-    print "Step 6: " , pauli
+    #print "Step 6: " , pauli
     ################################################
     ################################################
 
@@ -119,7 +119,7 @@ def uniformization(pauli):
         if xor_applied:
             circuit.append(['X'] + ['I'] * (idx_qubit - 1) + ['C'] + ['I'] * (pauli.nq - idx_qubit - 1))
 
-    print "Step 7: " , pauli
+    #print "Step 7: " , pauli
     ################################################
     
 
@@ -136,7 +136,7 @@ def uniformization(pauli):
     if next_circuit_line != ['I']:
         circuit.append(next_circuit_line + ['I'] * (pauli.nq - 1))
     
-    print "Step 8: " , pauli
+    #print "Step 8: " , pauli
     ################################################
 
     return pauli, circuit
