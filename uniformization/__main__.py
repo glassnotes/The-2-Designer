@@ -4,6 +4,8 @@ from operations import *
 from uniformization import *
 from math import log
 from scipy.stats import entropy
+import time
+
 def one_shot():
     """
         For the initial part of the in-class demo. Takes a single Pauli and computes
@@ -91,6 +93,8 @@ def distribution():
 
 def main():
     demo_type = raw_input("Select demo type:\n0. Full demo\n1. One-shot\n2. Distribution\n")
+
+    np.random.seed(int(time.mktime(time.gmtime())))
 
     if demo_type == '0':
         one_shot()
