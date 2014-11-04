@@ -84,8 +84,6 @@ def distribution():
 
     for i in range(0, len(paulis)):
         pauli_file.write(paulis[i] + "\t" + str(pauli_probs[i]))
-        if paulis[i][1:] == 'I' * (pauli.nq - 1):
-            pauli_file.write('  **')
         pauli_file.write('\n')
 
     pauli_file.write('\n'+"KL divergence is " + str( entropy(pauli_probs, [1.0/len(paulis)]*len(paulis)) ) )

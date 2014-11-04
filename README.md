@@ -7,7 +7,7 @@ To run this program, type "python \_\_main\_\_.py" and follow the prompts.
 
 
 Requirements:
-scipy
+SciPy, 
 QuaEC
 
 A copy of QuaEC with some additional necessary functions can be downloaded from https://github.com/glassnotes/python-quaec. See https://github.com/cgranade/python-quaec for the official version.
